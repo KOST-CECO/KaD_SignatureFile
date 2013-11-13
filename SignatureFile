@@ -23506,8 +23506,8 @@
             <Extension>dia</Extension>
         </FileFormat>
         <FileFormat ID="613" MIMEType="application/pdf"
-            Name="Acrobat PDF 1.0 - Portable Document Format"
-            PUID="fmt/14" Version="1.0">
+            Name="Acrobat PDF - Portable Document Format"
+            PUID="PDF">
             <InternalSignatureID>123</InternalSignatureID>
             <Extension>pdf</Extension>
         </FileFormat>
@@ -24371,10 +24371,10 @@
         </FileFormat>
         <FileFormat ID="770" MIMEType="application/pdf"
             Name="Acrobat PDF/A - Portable Document Format"
-            PUID="fmt/95" Version="1a">
+            PUID="PDFA1" Version="1">
             <InternalSignatureID>264</InternalSignatureID>
             <Extension>pdf</Extension>
-            <HasPriorityOverFileFormatID>617</HasPriorityOverFileFormatID>
+            <HasPriorityOverFileFormatID>613</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="771" MIMEType="application/postscript"
             Name="PostScript" PUID="x-fmt/406" Version="2.0">
@@ -25632,7 +25632,7 @@
             <Extension>db</Extension>
         </FileFormat>
         <FileFormat ID="1099" MIMEType="image/tiff"
-            Name="Tagged Image File Format" PUID="fmt/353">
+            Name="Tagged Image File Format" PUID="TIFF">
             <InternalSignatureID>9</InternalSignatureID>
             <InternalSignatureID>10</InternalSignatureID>
             <Extension>tif</Extension>
@@ -26351,31 +26351,17 @@
         </FileFormat>
         <FileFormat ID="1263"
             Name="Acrobat PDF/A - Portable Document Format"
-            PUID="fmt/476" Version="2a">
+            PUID="PDFA2" Version="2">
             <InternalSignatureID>750</InternalSignatureID>
             <Extension>pdf</Extension>
             <HasPriorityOverFileFormatID>613</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>614</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>615</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>616</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>617</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>618</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>637</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>1016</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1266"
             Name="Acrobat PDF/A - Portable Document Format"
-            PUID="fmt/479" Version="3a">
+            PUID="PDFA3" Version="3">
             <InternalSignatureID>753</InternalSignatureID>
             <Extension>pdf</Extension>
             <HasPriorityOverFileFormatID>613</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>614</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>615</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>616</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>617</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>618</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>637</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>1016</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1269" MIMEType="application/x-ibooks+zip"
             Name="Apple iBook format" PUID="fmt/482">
