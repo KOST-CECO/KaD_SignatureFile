@@ -2906,27 +2906,12 @@
             <ByteSequence Reference="BOFoffset">
                 <SubSequence MinFragLength="0" Position="1"
                     SubSeqMaxOffset="0" SubSeqMinOffset="0">
-                    <Sequence>255044462D312E30</Sequence>
-                    <DefaultShift>9</DefaultShift>
-                    <Shift Byte="25">8</Shift>
-                    <Shift Byte="2D">4</Shift>
-                    <Shift Byte="2E">2</Shift>
-                    <Shift Byte="30">1</Shift>
-                    <Shift Byte="31">3</Shift>
-                    <Shift Byte="44">6</Shift>
-                    <Shift Byte="46">5</Shift>
-                    <Shift Byte="50">7</Shift>
-                </SubSequence>
-            </ByteSequence>
-            <ByteSequence Reference="EOFoffset">
-                <SubSequence MinFragLength="0" Position="1"
-                    SubSeqMaxOffset="4" SubSeqMinOffset="0">
-                    <Sequence>2525454F46</Sequence>
-                    <DefaultShift>-6</DefaultShift>
-                    <Shift Byte="25">-1</Shift>
-                    <Shift Byte="45">-3</Shift>
-                    <Shift Byte="46">-5</Shift>
-                    <Shift Byte="4F">-4</Shift>
+                    <Sequence>25504446</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="25">4</Shift>
+                    <Shift Byte="44">2</Shift>
+                    <Shift Byte="46">1</Shift>
+                    <Shift Byte="50">3</Shift>
                 </SubSequence>
             </ByteSequence>
         </InternalSignature>
@@ -6155,19 +6140,15 @@
             </ByteSequence>
         </InternalSignature>
         <InternalSignature ID="264" Specificity="Specific">
-            <ByteSequence Endianness="Little-endian" Reference="BOFoffset">
+            <ByteSequence Reference="BOFoffset">
                 <SubSequence MinFragLength="0" Position="1"
                     SubSeqMaxOffset="0" SubSeqMinOffset="0">
-                    <Sequence>255044462D312E34</Sequence>
-                    <DefaultShift>9</DefaultShift>
-                    <Shift Byte="25">8</Shift>
-                    <Shift Byte="2D">4</Shift>
-                    <Shift Byte="2E">2</Shift>
-                    <Shift Byte="31">3</Shift>
-                    <Shift Byte="34">1</Shift>
-                    <Shift Byte="44">6</Shift>
-                    <Shift Byte="46">5</Shift>
-                    <Shift Byte="50">7</Shift>
+                    <Sequence>25504446</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="25">4</Shift>
+                    <Shift Byte="44">2</Shift>
+                    <Shift Byte="46">1</Shift>
+                    <Shift Byte="50">3</Shift>
                 </SubSequence>
             </ByteSequence>
             <ByteSequence Endianness="Little-endian">
@@ -18025,16 +18006,12 @@
             <ByteSequence Reference="BOFoffset">
                 <SubSequence MinFragLength="0" Position="1"
                     SubSeqMaxOffset="0" SubSeqMinOffset="0">
-                    <Sequence>255044462D312E</Sequence>
-                    <DefaultShift>8</DefaultShift>
-                    <Shift Byte="25">7</Shift>
-                    <Shift Byte="2D">3</Shift>
-                    <Shift Byte="2E">1</Shift>
-                    <Shift Byte="31">2</Shift>
-                    <Shift Byte="44">5</Shift>
-                    <Shift Byte="46">4</Shift>
-                    <Shift Byte="50">6</Shift>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="1">[30:37]</RightFragment>
+                    <Sequence>25504446</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="25">4</Shift>
+                    <Shift Byte="44">2</Shift>
+                    <Shift Byte="46">1</Shift>
+                    <Shift Byte="50">3</Shift>
                 </SubSequence>
             </ByteSequence>
             <ByteSequence>
@@ -18084,16 +18061,12 @@
             <ByteSequence Reference="BOFoffset">
                 <SubSequence MinFragLength="0" Position="1"
                     SubSeqMaxOffset="0" SubSeqMinOffset="0">
-                    <Sequence>255044462D312E</Sequence>
-                    <DefaultShift>8</DefaultShift>
-                    <Shift Byte="25">7</Shift>
-                    <Shift Byte="2D">3</Shift>
-                    <Shift Byte="2E">1</Shift>
-                    <Shift Byte="31">2</Shift>
-                    <Shift Byte="44">5</Shift>
-                    <Shift Byte="46">4</Shift>
-                    <Shift Byte="50">6</Shift>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="1">[30:37]</RightFragment>
+                    <Sequence>25504446</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="25">4</Shift>
+                    <Shift Byte="44">2</Shift>
+                    <Shift Byte="46">1</Shift>
+                    <Shift Byte="50">3</Shift>
                 </SubSequence>
             </ByteSequence>
             <ByteSequence>
