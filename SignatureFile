@@ -4895,12 +4895,7 @@
             <Extension>arc</Extension>
             <HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>639</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>640</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>641</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>642</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>643</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>644</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>645</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="311" Name="Applixware Spreadsheet" PUID="x-fmt/220">
             <Extension>as</Extension>
@@ -5177,10 +5172,6 @@
         <FileFormat ID="438" Name="DEC WPS Plus Document" PUID="x-fmt/287">
             <Extension>wpl</Extension>
         </FileFormat>
-        <FileFormat ID="439" Name="IBM DisplayWrite Document"
-            PUID="x-fmt/288" Version="2"/>
-        <FileFormat ID="440" Name="IBM DisplayWrite Document"
-            PUID="x-fmt/289" Version="3"/>
         <FileFormat ID="441" Name="AMI Draw Vector Image" PUID="x-fmt/290">
             <Extension>sdw</Extension>
         </FileFormat>
@@ -5504,24 +5495,17 @@
             <InternalSignatureID>34</InternalSignatureID>
             <Extension>xml</Extension>
             <HasPriorityOverFileFormatID>639</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>640</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>641</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>642</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>643</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>644</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>645</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="639" MIMEType="text/html"
             Name="Hypertext Markup Language" PUID="fmt/97">
             <Extension>htm</Extension>
             <Extension>html</Extension>
-            <HasPriorityOverFileFormatID>645</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="643" MIMEType="application/xhtml+xml"
             Name="Extensible Hypertext Markup Language" PUID="fmt/102">
             <Extension>htm</Extension>
             <Extension>html</Extension>
-            <HasPriorityOverFileFormatID>645</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="646" MIMEType="application/x-shockwave-flash"
             Name="Macromedia Flash" PUID="fmt/104">
@@ -5764,7 +5748,6 @@
             Name="Drawing Interchange File Format (ASCII)" PUID="fmt/64">
             <Extension>dxf</Extension>
             <HasPriorityOverFileFormatID>694</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>766</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="727" MIMEType="image/bmp" Name="Windows Bitmap"
             PUID="fmt/114" Version="1.0">
@@ -5950,8 +5933,6 @@
             <Extension>jar</Extension>
             <HasPriorityOverFileFormatID>382</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>643</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>644</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>645</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="778" Name="OpenDocument Format" PUID="fmt/135" Version="1.0">
             <InternalSignatureID>202</InternalSignatureID>
@@ -6000,7 +5981,6 @@
             <HasPriorityOverFileFormatID>382</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>777</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>778</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>1231</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="784" MIMEType="audio/x-wav"
             Name="Waveform Audio (PCMWAVEFORMAT)" PUID="fmt/141">
@@ -6023,7 +6003,6 @@
             <Extension>wave</Extension>
             <HasPriorityOverFileFormatID>654</HasPriorityOverFileFormatID>
         </FileFormat>
-        <FileFormat ID="792" Name="JTIP (JPEG Tiled Image Pyramid)" PUID="fmt/149"/>
         <FileFormat ID="793" Name="JPEG-LS" PUID="fmt/150">
             <Extension>.jls</Extension>
         </FileFormat>
@@ -6042,10 +6021,8 @@
             <Extension>tif</Extension>
             <Extension>tiff</Extension>
             <HasPriorityOverFileFormatID>385</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>672</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>673</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>752</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>1099</HasPriorityOverFileFormatID>
+        </FileFormat>
         <FileFormat ID="800" Name="Batch file (executable)" PUID="x-fmt/413">
             <Extension>bat</Extension>
         </FileFormat>
@@ -6104,8 +6081,6 @@
             Name="Microsoft Web Archive" PUID="x-fmt/429">
             <Extension>mht</Extension>
             <Extension>mhtml</Extension>
-            <HasPriorityOverFileFormatID>641</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>642</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>1018</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="822" Name="Microsoft Outlook Email Message"
@@ -6379,12 +6354,10 @@
         <FileFormat ID="1018" MIMEType="message/rfc822"
             Name="Internet Message Format" PUID="fmt/278">
             <Extension>eml</Extension>
-            <HasPriorityOverFileFormatID>645</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1019" Name="FLAC (Free Lossless Audio Codec)"
             PUID="fmt/279" Version="1.2.1">
             <Extension>flac</Extension>
-        </FileFormat>
         </FileFormat>
         <FileFormat ID="1022"
             MIMEType="application/netcdf, application/x-netcdf"
@@ -6409,13 +6382,7 @@
         <FileFormat ID="1029" Name="WARC" PUID="fmt/289">
             <Extension>warc</Extension>
             <HasPriorityOverFileFormatID>639</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>640</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>641</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>642</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>643</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>644</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>645</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>1258</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1033"
             MIMEType="application/vnd.oasis.opendocument.text"
@@ -6736,7 +6703,6 @@
         </FileFormat>
         <FileFormat ID="1123" Name="FoxPro Report" PUID="fmt/376">
             <Extension>frx</Extension>
-            <HasPriorityOverFileFormatID>1120</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1124" Name="Microsoft Visual FoxPro Report" PUID="fmt/377">
             <Extension>frx</Extension>
@@ -6757,7 +6723,6 @@
         </FileFormat>
         <FileFormat ID="1128" Name="FoxPro Project" PUID="fmt/381">
             <Extension>pjx</Extension>
-            <HasPriorityOverFileFormatID>1120</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1129"
             Name="Microsoft Visual FoxPro database container (table files)" PUID="fmt/382">
@@ -6907,10 +6872,6 @@
             <InternalSignatureID>658</InternalSignatureID>
             <InternalSignatureID>659</InternalSignatureID>
             <Extension>dng</Extension>
-            <HasPriorityOverFileFormatID>672</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>673</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>752</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>797</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>1099</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1224" Name="Digital Negative Format (DNG)"
@@ -6920,10 +6881,6 @@
             <InternalSignatureID>666</InternalSignatureID>
             <InternalSignatureID>667</InternalSignatureID>
             <Extension>dng</Extension>
-            <HasPriorityOverFileFormatID>672</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>673</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>752</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>797</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>1099</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1225" MIMEType="image/tiff"
@@ -6933,10 +6890,6 @@
             <InternalSignatureID>670</InternalSignatureID>
             <InternalSignatureID>671</InternalSignatureID>
             <Extension>dng</Extension>
-            <HasPriorityOverFileFormatID>672</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>673</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>752</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>797</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>1099</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1226" Name="BSDIFF" PUID="fmt/439" Version="4.0">
@@ -7137,19 +7090,10 @@
             Name="Internet Explorer for Mac cache file" PUID="fmt/500">
             <Extension>waf</Extension>
             <HasPriorityOverFileFormatID>639</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>640</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>641</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>642</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>645</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>1258</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1288" Name="PostScript" PUID="fmt/501" Version="3.1">
             <Extension>ps</Extension>
             <HasPriorityOverFileFormatID>1073</HasPriorityOverFileFormatID>
-        </FileFormat>
-        <FileFormat ID="1289" Name="Bentley V8 DGN" PUID="fmt/502">
-        </FileFormat>
-        <FileFormat ID="1290" Name="AppleDouble Resource Fork" PUID="fmt/503">
         </FileFormat>
         <FileFormat ID="1291" Name="Standard Flowgram Format" PUID="fmt/504">
             <Extension>sff</Extension>
