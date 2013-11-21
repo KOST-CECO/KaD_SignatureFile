@@ -4186,8 +4186,6 @@
         <FileFormat ID="18" Name="dBASE Database" PUID="x-fmt/8">
             <Extension>dbf</Extension>
         </FileFormat>
-        <FileFormat ID="27"
-            Name="Revisable-Form-Text Document Content Architecture" PUID="x-fmt/11"/>
         <FileFormat ID="28" Name="Write for Windows Document"
             PUID="x-fmt/12">
             <Extension>wri</Extension>
@@ -4196,12 +4194,6 @@
             Name="Tab-separated values" PUID="x-fmt/13">
             <Extension>tsv</Extension>
         </FileFormat>
-        <FileFormat ID="41" MIMEType="text/plain"
-            Name="Macintosh Text File" PUID="x-fmt/14"/>
-        <FileFormat ID="42" MIMEType="text/plain"
-            Name="MS-DOS Text File" PUID="x-fmt/15"/>
-        <FileFormat ID="43" MIMEType="text/plain"
-            Name="Unicode Text File" PUID="x-fmt/16"/>
         <FileFormat ID="44" Name="Microsoft Excel Template"
             PUID="x-fmt/17" Version="2000">
             <Extension>xlt</Extension>
@@ -4231,7 +4223,6 @@
         <FileFormat ID="53" Name="AutoCAD Block Attribute Template" PUID="x-fmt/24">
             <Extension>blk</Extension>
         </FileFormat>
-        <FileFormat ID="55" Name="OS/2 Bitmap" PUID="x-fmt/25" Version="1.0"/>
         <FileFormat ID="56" Name="AutoCAD Batch Plot File"
             PUID="x-fmt/26" Version="1.0-R14">
             <Extension>bp2</Extension>
@@ -4537,8 +4528,6 @@
             Name="Scalable Vector Graphics Compressed" PUID="x-fmt/109">
             <Extension>svgz</Extension>
         </FileFormat>
-        <FileFormat ID="162" MIMEType="text/plain"
-            Name="Fixed Width Values Text File" PUID="x-fmt/110"/>
         <FileFormat ID="163" MIMEType="text/plain"
             Name="Plain Text File" PUID="x-fmt/111">
             <Extension>txt</Extension>
@@ -4612,8 +4601,6 @@
             PUID="x-fmt/129" Version="X">
             <Extension>doc</Extension>
         </FileFormat>
-        <FileFormat ID="189" MIMEType="text/plain"
-            Name="MS-DOS Text File with line breaks" PUID="x-fmt/130"/>
         <FileFormat ID="190" Name="Stationery for Mac OS X" PUID="x-fmt/131">
             <Extension>doc</Extension>
         </FileFormat>
@@ -4627,8 +4614,6 @@
             Name="AutoCAD Device-Independent Binary Plotter File" PUID="x-fmt/134">
             <Extension>adi</Extension>
         </FileFormat>
-        <FileFormat ID="194" MIMEType="audio/x-aiff"
-            Name="Audio Interchange File Format" PUID="x-fmt/135" Version="1.3"/>
         <FileFormat ID="195" MIMEType="audio/x-aiff"
             Name="Audio Interchange File Format (compressed)" PUID="x-fmt/136">
             <Extension>aifc</Extension>
@@ -4662,7 +4647,6 @@
         <FileFormat ID="205" Name="Corel Photo-Paint Image" PUID="x-fmt/144">
             <Extension>cpt</Extension>
         </FileFormat>
-        <FileFormat ID="206" Name="Stats+ Data File" PUID="x-fmt/145"/>
         <FileFormat ID="207" Name="Scitex Continuous Tone Bitmap" PUID="x-fmt/146">
             <Extension>ct</Extension>
         </FileFormat>
@@ -4726,7 +4710,6 @@
             Name="Portable Bitmap Image - ASCII" PUID="x-fmt/164">
             <Extension>pbm</Extension>
         </FileFormat>
-        <FileFormat ID="237" Name="Kodak PhotoCD Image" PUID="x-fmt/165" Version="1.0"/>
         <FileFormat ID="238" Name="PICS Animation" PUID="x-fmt/166">
             <Extension>pcs</Extension>
         </FileFormat>
@@ -4824,12 +4807,10 @@
         <FileFormat ID="266" Name="Unisys (Sperry) System Data File" PUID="x-fmt/193">
             <Extension>sdf</Extension>
         </FileFormat>
-        <FileFormat ID="267" Name="IRIS Graphics" PUID="x-fmt/194"/>
         <FileFormat ID="268" MIMEType="text/sgml"
             Name="Standard Generalized Markup Language" PUID="x-fmt/195">
             <Extension>sgml</Extension>
         </FileFormat>
-        <FileFormat ID="269" Name="NeXt Sound" PUID="x-fmt/196"/>
         <FileFormat ID="271" Name="DataFlex Query Tag Name" PUID="x-fmt/197">
             <Extension>tag</Extension>
         </FileFormat>
@@ -4888,9 +4869,6 @@
         <FileFormat ID="292" Name="XYWrite Document" PUID="x-fmt/211" Version="III">
             <Extension>xy3</Extension>
         </FileFormat>
-        <FileFormat ID="299"
-            MIMEType="application/vnd.lotus-1-2-3, application/x-123"
-            Name="Lotus 1-2-3 Worksheet" PUID="x-fmt/212" Version="5.0"/>
         <FileFormat ID="300" Name="Quicken Data File" PUID="x-fmt/213">
             <Extension>abd</Extension>
             <Extension>qdf</Extension>
@@ -4941,7 +4919,6 @@
             Name="Cascading Style Sheet" PUID="x-fmt/224">
             <Extension>css</Extension>
         </FileFormat>
-        <FileFormat ID="317" Name="ESRI MapInfo Data File" PUID="x-fmt/225"/>
         <FileFormat ID="318" Name="ESRI Arc/Info Export File" PUID="x-fmt/226">
             <Extension>e00</Extension>
             <Extension>x00</Extension>
@@ -5053,8 +5030,6 @@
             PUID="x-fmt/249" Version="2003-2007">
             <Extension>pst</Extension>
         </FileFormat>
-        <FileFormat ID="366" Name="Microsoft Outlook Personal Folders" PUID="x-fmt/250"/>
-        <FileFormat ID="367" Name="Microsoft Outlook Personal Folders" PUID="x-fmt/251"/>
         <FileFormat ID="370" Name="Microsoft Publisher" PUID="x-fmt/252" Version="2.0">
             <Extension>pub</Extension>
         </FileFormat>
@@ -5440,7 +5415,6 @@
         <FileFormat ID="523" Name="Scanstudio 16-Colour Bitmap" PUID="x-fmt/357">
             <Extension>adc</Extension>
         </FileFormat>
-        <FileFormat ID="524" Name="Silicon Graphics Graphics File" PUID="x-fmt/358"/>
         <FileFormat ID="525" Name="StarOffice Calc" PUID="x-fmt/359" Version="5.1">
             <Extension>sdc</Extension>
         </FileFormat>
@@ -5689,8 +5663,6 @@
             <Extension>jpg</Extension>
             <HasPriorityOverFileFormatID>670</HasPriorityOverFileFormatID>
         </FileFormat>
-        <FileFormat ID="677" MIMEType="image/jpeg"
-            Name="Still Picture Interchange File Format" PUID="fmt/113" Version="2.0"/>
         <FileFormat ID="678" MIMEType="application/vnd.ms-excel"
             Name="Microsoft Excel 2.x Worksheet (xls)" PUID="fmt/55" Version="2">
             <InternalSignatureID>72</InternalSignatureID>
@@ -6215,8 +6187,6 @@
             <Extension>skb</Extension>
             <Extension>skp</Extension>
         </FileFormat>
-        <FileFormat ID="867" MIMEType="application/octet-stream"
-            Name="SketchUp Document" PUID="x-fmt/452"/>
         <FileFormat ID="869" MIMEType="application/octet-stream"
             Name="TrueType Font" PUID="x-fmt/453">
             <Extension>ttf</Extension>
@@ -6247,8 +6217,6 @@
             Name="Microsoft Works Word Processor" PUID="fmt/163">
             <Extension>wps</Extension>
         </FileFormat>
-        <FileFormat ID="891"
-            Name="Microsoft Works Word Processor for DOS" PUID="fmt/164"/>
         <FileFormat ID="897" Name="Microsoft Works Database"
             PUID="fmt/169">
             <Extension>wdb</Extension>
@@ -6367,12 +6335,6 @@
         <FileFormat ID="946" Name="Microsoft FrontPage" PUID="fmt/218">
             <Extension>lck</Extension>
         </FileFormat>
-        <FileFormat ID="951"
-            Name="Microsoft Works Word Processor for Windows"
-            PUID="fmt/221" Version="2.0"/>
-        <FileFormat ID="962"
-            Name="Microsoft Works Word Processor for Windows"
-            PUID="fmt/232" Version="2.0a"/>
         <FileFormat ID="967"
             Name="Microsoft Office Binder File for Windows"
             PUID="fmt/237">
@@ -6423,10 +6385,6 @@
             PUID="fmt/279" Version="1.2.1">
             <Extension>flac</Extension>
         </FileFormat>
-        <FileFormat ID="1020" Name="LaTeX (Master document)" PUID="fmt/280">
-            <HasPriorityOverFileFormatID>1021</HasPriorityOverFileFormatID>
-        </FileFormat>
-        <FileFormat ID="1021" Name="LaTeX (Subdocument)" PUID="fmt/281">
         </FileFormat>
         <FileFormat ID="1022"
             MIMEType="application/netcdf, application/x-netcdf"
@@ -6447,9 +6405,6 @@
         <FileFormat ID="1026" Name="HDF5" PUID="fmt/286">
             <Extension>h5</Extension>
             <Extension>hdf5</Extension>
-        </FileFormat>
-        <FileFormat ID="1028"
-            Name="Microsoft Front Page Server Extension Configuration" PUID="fmt/288">
         </FileFormat>
         <FileFormat ID="1029" Name="WARC" PUID="fmt/289">
             <Extension>warc</Extension>
