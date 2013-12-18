@@ -1604,7 +1604,6 @@
         <FileFormat ID="310" MIMEType="application/x-internet-archive"
             Name="Internet Archive" PUID="x-fmt/219">
             <Extension>arc</Extension>
-            <HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>639</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>643</HasPriorityOverFileFormatID>
         </FileFormat>
@@ -1632,7 +1631,6 @@
         <FileFormat ID="319" MIMEType="application/gml+xml"
             Name="Geography Markup Language" PUID="x-fmt/227">
             <Extension>gml</Extension>
-            <HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="320" Name="Applixware Bitmap" PUID="x-fmt/228">
             <Extension>im</Extension>
@@ -1718,7 +1716,7 @@
             <Extension>m3u</Extension>
         </FileFormat>
         <FileFormat ID="429" MIMEType="application/xml"
-            Name="XML Schema Definition" PUID="x-fmt/280">
+            Name="XML Schema Definition" PUID="XSD">
             <InternalSignatureID>538</InternalSignatureID>
             <Extension>xsd</Extension>
             <HasPriorityOverFileFormatID>319</HasPriorityOverFileFormatID>
@@ -2042,10 +2040,9 @@
         <FileFormat ID="634" MIMEType="image/svg+xml"
             Name="Scalable Vector Graphics" PUID="fmt/91">
             <Extension>svg</Extension>
-            <HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="638" MIMEType="text/xml"
-            Name="Extensible Markup Language" PUID="fmt/101" Version="1.0">
+            Name="Extensible Markup Language" PUID="XML" Version="1.0">
             <InternalSignatureID>34</InternalSignatureID>
             <Extension>xml</Extension>
             <HasPriorityOverFileFormatID>639</HasPriorityOverFileFormatID>
@@ -2253,12 +2250,10 @@
         <FileFormat ID="768" MIMEType="text/xml"
             Name="DROID Signature File Format" PUID="fmt/121" Version="1.0">
             <Extension>xml</Extension>
-            <HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="769" MIMEType="text/xml"
             Name="DROID File Collection File Format" PUID="fmt/120" Version="1.0">
             <Extension>xml</Extension>
-            <HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="770" MIMEType="application/pdf"
             Name="Acrobat PDF/A - Portable Document Format"
@@ -2628,7 +2623,6 @@
         <FileFormat ID="975" Name="Keyhole Markup Language" PUID="fmt/244">
             <Extension>kml</Extension>
             <Extension>kmz</Extension>
-            <HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="977" Name="Structured Data Exchange Format" PUID="fmt/245">
             <Extension/>
@@ -2782,7 +2776,6 @@
         </FileFormat>
         <FileFormat ID="1078" Name="Chemical Markup Language" PUID="fmt/333">
             <Extension>cml</Extension>
-            <HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1079"
             Name="Crystallographic Information Framework" PUID="fmt/334">
@@ -3035,8 +3028,6 @@
             PUID="SVG">
             <InternalSignatureID>732</InternalSignatureID>
             <Extension>svg</Extension>
-            <HasPriorityOverFileFormatID>634</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1192" Name="Audio Interchange File Format"
             PUID="fmt/414" Version="1.2">
@@ -3185,7 +3176,6 @@
         <FileFormat ID="1262"
             Name="Microsoft Management Console Snap-in Control file" PUID="fmt/475">
             <Extension>msc</Extension>
-            <HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1263"
             Name="Acrobat PDF/A - Portable Document Format"
@@ -3236,7 +3226,6 @@
         </FileFormat>
         <FileFormat ID="1283" Name="TransXchange File Format" PUID="fmt/496">
             <Extension>txc</Extension>
-            <HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1284" Name="Wireless Bitmap" PUID="fmt/497">
             <Extension>wbmp</Extension>
@@ -3365,7 +3354,6 @@
         </FileFormat>
         <FileFormat ID="1360" Name="Domino XML Database Export" PUID="fmt/572">
             <Extension>dxl</Extension>
-            <HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1361" MIMEType="video/webm" Name="WebM" PUID="fmt/573">
             <Extension>webm</Extension>
@@ -3386,11 +3374,9 @@
         </FileFormat>
         <FileFormat ID="1367" Name="X3D" PUID="fmt/579">
             <Extension>x3d</Extension>
-            <HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1371" Name="Vector Markup Language" PUID="fmt/583">
             <Extension>vml</Extension>
-            <HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1372" Name="Windows Media Metafile" PUID="fmt/584">
             <Extension>asx</Extension>
