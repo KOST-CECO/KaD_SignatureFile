@@ -2892,8 +2892,6 @@
             <Extension>eps</Extension>
             <Extension>epsf</Extension>
             <HasPriorityOverFileFormatID>138</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>771</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>772</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>773</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>1073</HasPriorityOverFileFormatID>
         </FileFormat>
@@ -4032,12 +4030,10 @@
             <InternalSignatureID>76</InternalSignatureID>
             <Extension>xls</Extension>
             <Extension>xlw</Extension>
-            <HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="683" MIMEType="application/vnd.ms-excel"
             Name="Microsoft Excel 95 Workbook (xls)" PUID="fmt/60" Version="7">
             <Extension>xls</Extension>
-            <HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="684" MIMEType="application/vnd.ms-excel"
             Name="Microsoft Excel 97 Workbook (xls)" PUID="fmt/61" Version="8">
@@ -4045,7 +4041,6 @@
             <Extension>xls</Extension>
             <Extension>xlw</Extension>
             <HasPriorityOverFileFormatID>682</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="685" MIMEType="application/vnd.ms-excel"
             Name="Microsoft Excel 2000-2003 Workbook (xls)"
@@ -4053,7 +4048,6 @@
             <InternalSignatureID>78</InternalSignatureID>
             <Extension>xls</Extension>
             <Extension>xlw</Extension>
-            <HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="686" MIMEType="image/jp2"
             Name="JP2 (JPEG 2000 part 1)" PUID="x-fmt/392">
@@ -4208,14 +4202,12 @@
         </FileFormat>
         <FileFormat ID="775" Name="Windows New Executable" PUID="x-fmt/410">
             <Extension>exe</Extension>
-            <HasPriorityOverFileFormatID>774</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="776" MIMEType="application/octet-stream"
             Name="Windows Portable Executable" PUID="x-fmt/411">
             <Extension>dll</Extension>
             <Extension>exe</Extension>
             <Extension>sys</Extension>
-            <HasPriorityOverFileFormatID>774</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>775</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="777" MIMEType="application/java-archive"
@@ -4263,7 +4255,6 @@
             <Extension>odg</Extension>
             <Extension>otg</Extension>
             <HasPriorityOverFileFormatID>778</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>1039</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="783" Name="OpenDocument Database Format"
             PUID="fmt/140">
@@ -4355,7 +4346,6 @@
         <FileFormat ID="822" Name="Microsoft Outlook Email Message"
             PUID="x-fmt/430" Version="97-2003">
             <Extension>msg</Extension>
-            <HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="824" Name="EBCDIC-US" PUID="fmt/159">
             <Extension>ebcdic</Extension>
@@ -5125,7 +5115,6 @@
         <FileFormat ID="1229" MIMEType="application/vnd.visio"
             Name="Microsoft Visio" PUID="fmt/442">
             <Extension>vsd</Extension>
-            <HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1232"
             MIMEType="application/vnd.ms-excel.sheet.macroEnabled.12"
