@@ -1079,7 +1079,6 @@
             <Extension>eps</Extension>
             <Extension>epsf</Extension>
             <HasPriorityOverFileFormatID>138</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>773</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>1073</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="87" Name="Macromedia Freehand" PUID="x-fmt/53" Version="5">
@@ -2094,7 +2093,7 @@
             <HasPriorityOverFileFormatID>1207</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="660" MIMEType="video/mpeg"
-            Name="MPEG-2 Video Format" PUID="x-fmt/386">
+            Name="MPEG-2 Video Format" PUID="MPEG2">
             <InternalSignatureID>655</InternalSignatureID>
             <Extension>mpeg</Extension>
             <Extension>mpg</Extension>
@@ -2121,44 +2120,11 @@
             <Extension>jpg</Extension>
         </FileFormat>
         <FileFormat ID="678" MIMEType="application/vnd.ms-excel"
-            Name="Microsoft Excel 2.x Worksheet (xls)" PUID="fmt/55" Version="2">
+            Name="Microsoft Excel (xls)" PUID="XLS">
             <InternalSignatureID>72</InternalSignatureID>
-            <Extension>xls</Extension>
-        </FileFormat>
-        <FileFormat ID="679" MIMEType="application/vnd.ms-excel"
-            Name="Microsoft Excel 3.0 Worksheet (xls)" PUID="fmt/56" Version="3">
             <InternalSignatureID>73</InternalSignatureID>
-            <Extension>xls</Extension>
-        </FileFormat>
-        <FileFormat ID="680" MIMEType="application/vnd.ms-excel"
-            Name="Microsoft Excel 4.0 Worksheet (xls)" PUID="fmt/57" Version="4S">
             <InternalSignatureID>74</InternalSignatureID>
-            <Extension>xls</Extension>
-        </FileFormat>
-        <FileFormat ID="681" MIMEType="application/vnd.ms-excel"
-            Name="Microsoft Excel 4.0 Workbook (xls)" PUID="fmt/58" Version="4W">
-            <Extension>xlw</Extension>
-        </FileFormat>
-        <FileFormat ID="682" MIMEType="application/vnd.ms-excel"
-            Name="Microsoft Excel 5.0/95 Workbook (xls)" PUID="fmt/59" Version="5/95">
             <InternalSignatureID>76</InternalSignatureID>
-            <Extension>xls</Extension>
-            <Extension>xlw</Extension>
-        </FileFormat>
-        <FileFormat ID="683" MIMEType="application/vnd.ms-excel"
-            Name="Microsoft Excel 95 Workbook (xls)" PUID="fmt/60" Version="7">
-            <Extension>xls</Extension>
-        </FileFormat>
-        <FileFormat ID="684" MIMEType="application/vnd.ms-excel"
-            Name="Microsoft Excel 97 Workbook (xls)" PUID="fmt/61" Version="8">
-            <InternalSignatureID>78</InternalSignatureID>
-            <Extension>xls</Extension>
-            <Extension>xlw</Extension>
-            <HasPriorityOverFileFormatID>682</HasPriorityOverFileFormatID>
-        </FileFormat>
-        <FileFormat ID="685" MIMEType="application/vnd.ms-excel"
-            Name="Microsoft Excel 2000-2003 Workbook (xls)"
-            PUID="fmt/62" Version="8X">
             <InternalSignatureID>78</InternalSignatureID>
             <Extension>xls</Extension>
             <Extension>xlw</Extension>
@@ -2332,7 +2298,6 @@
             <Extension>odt</Extension>
             <Extension>ott</Extension>
             <HasPriorityOverFileFormatID>778</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>1033</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="780"
             MIMEType="application/vnd.oasis.opendocument.spreadsheet"
@@ -2341,7 +2306,6 @@
             <Extension>ods</Extension>
             <Extension>ots</Extension>
             <HasPriorityOverFileFormatID>778</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>1037</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="781"
             MIMEType="application/vnd.oasis.opendocument.presentation"
@@ -2350,7 +2314,6 @@
             <Extension>odp</Extension>
             <Extension>otp</Extension>
             <HasPriorityOverFileFormatID>778</HasPriorityOverFileFormatID>
-            <HasPriorityOverFileFormatID>1035</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="782"
             MIMEType="application/vnd.oasis.opendocument.graphics"
@@ -2527,10 +2490,6 @@
             <Extension>siard</Extension>
             <HasPriorityOverFileFormatID>382</HasPriorityOverFileFormatID>
         </FileFormat>
-        <FileFormat ID="877" Name="Microsoft Excel for Macintosh"
-            PUID="fmt/172" Version="3.0">
-            <Extension>xls</Extension>
-        </FileFormat>
         <FileFormat ID="889" Name="Microsoft Multiplan" PUID="fmt/162" Version="4.0">
             <Extension>mod</Extension>
         </FileFormat>
@@ -2572,7 +2531,7 @@
             <Extension>inx</Extension>
         </FileFormat>
         <FileFormat ID="923" MIMEType="audio/mpeg"
-            Name="MPEG Audio Stream, Layer II" PUID="MP2">
+            Name="MPEG Audio Stream, Layer II" PUID="fmt/198">
             <Extension>mp2</Extension>
             <Extension>mpa</Extension>
             <Extension>mpw</Extension>
