@@ -2784,7 +2784,7 @@
             <Extension>xlt</Extension>
         </FileFormat>
         <FileFormat ID="45" MIMEType="text/csv"
-            Name="Comma Separated Values" PUID="x-fmt/18">
+            Name="Comma Separated Values" PUID="CSV">
             <Extension>csv</Extension>
         </FileFormat>
         <FileFormat ID="48" Name="Paint Shop Pro Image" PUID="x-fmt/19">
@@ -3084,7 +3084,7 @@
             <Extension>svgz</Extension>
         </FileFormat>
         <FileFormat ID="163" MIMEType="text/plain"
-            Name="Plain Text File" PUID="x-fmt/111">
+            Name="Plain Text File" PUID="TXT">
             <Extension>txt</Extension>
         </FileFormat>
         <FileFormat ID="164"
@@ -4050,7 +4050,7 @@
             <Extension>xlw</Extension>
         </FileFormat>
         <FileFormat ID="686" MIMEType="image/jp2"
-            Name="JP2 (JPEG 2000 part 1)" PUID="x-fmt/392">
+            Name="JP2 (JPEG 2000 part 1)" PUID="JP2">
             <InternalSignatureID>251</InternalSignatureID>
             <Extension>jp2</Extension>
         </FileFormat>
@@ -4431,7 +4431,7 @@
         </FileFormat>
         <FileFormat ID="876"
             Name="SIARD (Software-Independent Archiving of Relational Databases)"
-            PUID="fmt/161" Version="1.0">
+            PUID="SIARD" Version="1.0">
             <InternalSignatureID>292</InternalSignatureID>
             <Extension>siard</Extension>
             <HasPriorityOverFileFormatID>382</HasPriorityOverFileFormatID>
