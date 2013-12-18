@@ -198,43 +198,6 @@
                 </SubSequence>
             </ByteSequence>
         </InternalSignature>
-        <InternalSignature ID="150" Specificity="Specific">
-            <ByteSequence Reference="BOFoffset">
-                <SubSequence MinFragLength="6" Position="1"
-                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
-                    <Sequence>45786966000049492A00</Sequence>
-                    <DefaultShift>11</DefaultShift>
-                    <Shift Byte="00">1</Shift>
-                    <Shift Byte="2A">2</Shift>
-                    <Shift Byte="45">10</Shift>
-                    <Shift Byte="49">3</Shift>
-                    <Shift Byte="66">7</Shift>
-                    <Shift Byte="69">8</Shift>
-                    <Shift Byte="78">9</Shift>
-                    <LeftFragment MaxOffset="2" MinOffset="2" Position="1">FFD8FFE1</LeftFragment>
-                </SubSequence>
-                <SubSequence MinFragLength="0" Position="2" SubSeqMinOffset="0">
-                    <Sequence>009007000400000030323130</Sequence>
-                    <DefaultShift>13</DefaultShift>
-                    <Shift Byte="00">5</Shift>
-                    <Shift Byte="04">8</Shift>
-                    <Shift Byte="07">10</Shift>
-                    <Shift Byte="30">1</Shift>
-                    <Shift Byte="31">2</Shift>
-                    <Shift Byte="32">3</Shift>
-                    <Shift Byte="90">11</Shift>
-                </SubSequence>
-            </ByteSequence>
-            <ByteSequence Reference="EOFoffset">
-                <SubSequence MinFragLength="0" Position="1"
-                    SubSeqMaxOffset="16000" SubSeqMinOffset="0">
-                    <Sequence>FFD9</Sequence>
-                    <DefaultShift>-3</DefaultShift>
-                    <Shift Byte="D9">-2</Shift>
-                    <Shift Byte="FF">-1</Shift>
-                </SubSequence>
-            </ByteSequence>
-        </InternalSignature>
         <InternalSignature ID="202" Specificity="Specific">
             <ByteSequence Endianness="Little-endian" Reference="BOFoffset">
                 <SubSequence MinFragLength="30" Position="1"
@@ -1310,22 +1273,13 @@
                     <Shift Byte="76">13</Shift>
                     <Shift Byte="78">17</Shift>
                 </SubSequence>
-                <SubSequence MinFragLength="4" Position="2" SubSeqMinOffset="0">
-                    <Sequence>76657273696F6E3D22312E3222</Sequence>
-                    <DefaultShift>14</DefaultShift>
-                    <Shift Byte="22">1</Shift>
-                    <Shift Byte="2E">3</Shift>
-                    <Shift Byte="31">4</Shift>
-                    <Shift Byte="32">2</Shift>
-                    <Shift Byte="3D">6</Shift>
-                    <Shift Byte="65">12</Shift>
-                    <Shift Byte="69">9</Shift>
-                    <Shift Byte="6E">7</Shift>
-                    <Shift Byte="6F">8</Shift>
-                    <Shift Byte="72">11</Shift>
-                    <Shift Byte="73">10</Shift>
-                    <Shift Byte="76">13</Shift>
-                    <LeftFragment MaxOffset="512" MinOffset="0" Position="1">3C737667</LeftFragment>
+                <SubSequence MinFragLength="0" Position="2" SubSeqMinOffset="0">
+                    <Sequence>3C737667</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="3C">4</Shift>
+                    <Shift Byte="67">1</Shift>
+                    <Shift Byte="73">3</Shift>
+                    <Shift Byte="76">2</Shift>
                 </SubSequence>
                 <SubSequence MinFragLength="0" Position="3" SubSeqMinOffset="0">
                     <Sequence>7376673E</Sequence>
@@ -2653,7 +2607,7 @@
             <Extension>jp2</Extension>
         </FileFormat>
         <FileFormat ID="687" MIMEType="audio/mpeg"
-            Name="MPEG 1/2 Audio Layer 3" PUID="fmt/134">
+            Name="MPEG 1/2 Audio Layer 3" PUID="MP3">
             <InternalSignatureID>266</InternalSignatureID>
             <InternalSignatureID>267</InternalSignatureID>
             <InternalSignatureID>268</InternalSignatureID>
@@ -2853,7 +2807,7 @@
         <FileFormat ID="793" Name="JPEG-LS" PUID="fmt/150">
             <Extension>.jls</Extension>
         </FileFormat>
-        <FileFormat ID="794" Name="JPX (JPEG 2000 part 2)" PUID="fmt/151">
+        <FileFormat ID="794" Name="JPX (JPEG 2000 part 2)" PUID="JPX">
             <InternalSignatureID>720</InternalSignatureID>
             <Extension>jpf</Extension>
             <Extension>jpx</Extension>
@@ -3056,12 +3010,12 @@
             <Extension>inx</Extension>
         </FileFormat>
         <FileFormat ID="923" MIMEType="audio/mpeg"
-            Name="MPEG Audio Stream, Layer II" PUID="fmt/198">
+            Name="MPEG Audio Stream, Layer II" PUID="MP2">
             <Extension>mp2</Extension>
             <Extension>mpa</Extension>
             <Extension>mpw</Extension>
         </FileFormat>
-        <FileFormat ID="924" Name="MPEG-4 Media File" PUID="fmt/199">
+        <FileFormat ID="924" Name="MPEG-4 Media File" PUID="MP4">
             <InternalSignatureID>278</InternalSignatureID>
             <Extension>f4a</Extension>
             <Extension>f4v</Extension>
@@ -3375,7 +3329,7 @@
             <Extension>thn</Extension>
         </FileFormat>
         <FileFormat ID="1082" MIMEType="video/mj2"
-            Name="MJ2 (Motion JPEG 2000)" PUID="fmt/337">
+            Name="MJ2 (Motion JPEG 2000)" PUID="MJ2">
             <Extension>mj2</Extension>
             <Extension>mjp2</Extension>
         </FileFormat>
@@ -3610,8 +3564,8 @@
             Name="Microsoft Word for Windows" PUID="fmt/412" Version="2007 onwards">
             <Extension>docx</Extension>
         </FileFormat>
-        <FileFormat ID="1191" Name="Scalable Vector Graphics Tiny"
-            PUID="fmt/413" Version="1.2">
+        <FileFormat ID="1191" Name="Scalable Vector Graphics"
+            PUID="SVG">
             <InternalSignatureID>732</InternalSignatureID>
             <Extension>svg</Extension>
             <HasPriorityOverFileFormatID>634</HasPriorityOverFileFormatID>
