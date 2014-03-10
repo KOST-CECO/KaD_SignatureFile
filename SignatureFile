@@ -355,14 +355,27 @@
                     <LeftFragment MaxOffset="0" MinOffset="0" Position="1">22</LeftFragment>
                     <LeftFragment MaxOffset="0" MinOffset="0" Position="1">27</LeftFragment>
                     <LeftFragment MaxOffset="0" MinOffset="0" Position="2">786D6C6E733A7064666169643D</LeftFragment>
-                    <RightFragment MaxOffset="80" MinOffset="0" Position="1">7064666169643A70617274</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="2">3D22</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="2">3D27</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="2">3E</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="3">31</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="4">22</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="4">27</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="4">3C2F7064666169643A706172743E</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+            <ByteSequence>
+                <SubSequence MinFragLength="0" Position="2" SubSeqMinOffset="0">
+                    <Sequence>7064666169643A70617274</Sequence>
+                    <DefaultShift>12</DefaultShift>
+                    <Shift Byte="3A">5</Shift>
+                    <Shift Byte="61">3</Shift>
+                    <Shift Byte="64">6</Shift>
+                    <Shift Byte="66">9</Shift>
+                    <Shift Byte="69">7</Shift>
+                    <Shift Byte="70">4</Shift>
+                    <Shift Byte="72">2</Shift>
+                    <Shift Byte="74">1</Shift>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="1">3D22</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="1">3D27</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="1">3E</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="2">31</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="3">22</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="3">27</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="3">3C2F7064666169643A706172743E</RightFragment>
                 </SubSequence>
             </ByteSequence>
         </InternalSignature>
@@ -889,14 +902,27 @@
                     <LeftFragment MaxOffset="0" MinOffset="0" Position="1">22</LeftFragment>
                     <LeftFragment MaxOffset="0" MinOffset="0" Position="1">27</LeftFragment>
                     <LeftFragment MaxOffset="0" MinOffset="0" Position="2">786D6C6E733A7064666169643D</LeftFragment>
-                    <RightFragment MaxOffset="80" MinOffset="0" Position="1">7064666169643A70617274</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="2">3D22</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="2">3D27</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="2">3E</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="3">32</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="4">22</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="4">27</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="4">3C2F7064666169643A706172743E</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+            <ByteSequence>
+                <SubSequence MinFragLength="0" Position="2" SubSeqMinOffset="0">
+                    <Sequence>7064666169643A70617274</Sequence>
+                    <DefaultShift>12</DefaultShift>
+                    <Shift Byte="3A">5</Shift>
+                    <Shift Byte="61">3</Shift>
+                    <Shift Byte="64">6</Shift>
+                    <Shift Byte="66">9</Shift>
+                    <Shift Byte="69">7</Shift>
+                    <Shift Byte="70">4</Shift>
+                    <Shift Byte="72">2</Shift>
+                    <Shift Byte="74">1</Shift>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="1">3D22</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="1">3D27</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="1">3E</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="2">32</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="3">22</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="3">27</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="3">3C2F7064666169643A706172743E</RightFragment>
                 </SubSequence>
             </ByteSequence>
         </InternalSignature>
@@ -936,14 +962,27 @@
                     <LeftFragment MaxOffset="0" MinOffset="0" Position="1">22</LeftFragment>
                     <LeftFragment MaxOffset="0" MinOffset="0" Position="1">27</LeftFragment>
                     <LeftFragment MaxOffset="0" MinOffset="0" Position="2">786D6C6E733A7064666169643D</LeftFragment>
-                    <RightFragment MaxOffset="80" MinOffset="0" Position="1">7064666169643A70617274</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="2">3D22</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="2">3D27</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="2">3E</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="3">33</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="4">22</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="4">27</RightFragment>
-                    <RightFragment MaxOffset="0" MinOffset="0" Position="4">3C2F7064666169643A706172743E</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+            <ByteSequence>
+                <SubSequence MinFragLength="0" Position="2" SubSeqMinOffset="0">
+                    <Sequence>7064666169643A70617274</Sequence>
+                    <DefaultShift>12</DefaultShift>
+                    <Shift Byte="3A">5</Shift>
+                    <Shift Byte="61">3</Shift>
+                    <Shift Byte="64">6</Shift>
+                    <Shift Byte="66">9</Shift>
+                    <Shift Byte="69">7</Shift>
+                    <Shift Byte="70">4</Shift>
+                    <Shift Byte="72">2</Shift>
+                    <Shift Byte="74">1</Shift>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="1">3D22</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="1">3D27</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="1">3E</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="2">33</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="3">22</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="3">27</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="3">3C2F7064666169643A706172743E</RightFragment>
                 </SubSequence>
             </ByteSequence>
         </InternalSignature>
