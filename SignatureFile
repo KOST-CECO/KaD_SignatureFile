@@ -1831,21 +1831,15 @@
 </InternalSignatureCollection>
 <FileFormatCollection>
 <FileFormat ID="8"	MIMEType="application/msword"	Name="Microsoft Word for Macintosh Document"	PUID="x-fmt/1"	Version="3.0">	<InternalSignatureID>485</InternalSignatureID>	<Extension>mcw</Extension>		</FileFormat>
-<FileFormat ID="11"	 	Name="Microsoft Word for Macintosh Document"	PUID="x-fmt/2"	Version="6.0"/>				
 <FileFormat ID="13"	 	Name="Online Description Tool Format"	PUID="x-fmt/3">			<Extension>odt</Extension>		</FileFormat>
 <FileFormat ID="14"	 	Name="Write for Windows Document"	PUID="x-fmt/4"	Version="3.1">	<InternalSignatureID>615</InternalSignatureID>	<Extension>wri</Extension>		</FileFormat>
-<FileFormat ID="15"	 	Name="Works for Macintosh Document"	PUID="x-fmt/5"	Version="4.0"/>				
 <FileFormat ID="16"	 	Name="FoxPro Database"	PUID="x-fmt/6"	Version="2.0">		<Extension>dbf</Extension>		</FileFormat>
 <FileFormat ID="17"	 	Name="FoxPro Database"	PUID="x-fmt/7"	Version="2.5">		<Extension>dbf</Extension>		</FileFormat>
 <FileFormat ID="18"	 	Name="dBASE Database"	PUID="x-fmt/8"	Version="II">	<InternalSignatureID>381</InternalSignatureID><InternalSignatureID>382</InternalSignatureID>	<Extension>dbf</Extension>		</FileFormat>
 <FileFormat ID="19"	 	Name="dBASE Database"	PUID="x-fmt/9"	Version="III">	<InternalSignatureID>384</InternalSignatureID>	<Extension>dbf</Extension>		</FileFormat>
 <FileFormat ID="20"	MIMEType="application/dbase"	Name="dBASE Database"	PUID="x-fmt/10"	Version="IV">	<InternalSignatureID>544</InternalSignatureID><InternalSignatureID>545</InternalSignatureID><InternalSignatureID>546</InternalSignatureID><InternalSignatureID>547</InternalSignatureID><InternalSignatureID>548</InternalSignatureID><InternalSignatureID>549</InternalSignatureID><InternalSignatureID>550</InternalSignatureID>	<Extension>dbf</Extension>		</FileFormat>
-<FileFormat ID="27"	 	Name="Revisable-Form-Text Document Content Architecture"	PUID="x-fmt/11"/>					
 <FileFormat ID="28"	 	Name="Write for Windows Document"	PUID="x-fmt/12"	Version="3.0">	<InternalSignatureID>614</InternalSignatureID>	<Extension>wri</Extension>		</FileFormat>
 <FileFormat ID="40"	MIMEType="text/tab-separated-values"	Name="Tab-separated values"	PUID="x-fmt/13">			<Extension>tsv</Extension>		</FileFormat>
-<FileFormat ID="41"	MIMEType="text/plain"	Name="Macintosh Text File"	PUID="x-fmt/14"/>					
-<FileFormat ID="42"	MIMEType="text/plain"	Name="MS-DOS Text File"	PUID="x-fmt/15"/>					
-<FileFormat ID="43"	MIMEType="text/plain"	Name="Unicode Text File"	PUID="x-fmt/16"/>					
 <FileFormat ID="44"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel Template"	PUID="x-fmt/17"	Version="97-2003">		<Extension>xlt</Extension>	<HasPriorityOverFileFormatID>684</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="45"	MIMEType="text/csv"	Name="Comma Separated Values"	PUID="x-fmt/18">			<Extension>csv</Extension>		</FileFormat>
 <FileFormat ID="48"	 	Name="3D Studio"	PUID="x-fmt/19">		<InternalSignatureID>319</InternalSignatureID><InternalSignatureID>1447</InternalSignatureID>	<Extension>3ds</Extension>		</FileFormat>
@@ -1854,7 +1848,6 @@
 <FileFormat ID="51"	MIMEType="text/plain"	Name="7-bit ASCII Text"	PUID="x-fmt/22">			<Extension>asc</Extension>		</FileFormat>
 <FileFormat ID="52"	 	Name="Microsoft Excel Backup"	PUID="x-fmt/23">			<Extension>xlk</Extension>		</FileFormat>
 <FileFormat ID="53"	 	Name="AutoCAD Block Attribute Template"	PUID="x-fmt/24">			<Extension>blk</Extension>		</FileFormat>
-<FileFormat ID="55"	 	Name="OS/2 Bitmap"	PUID="x-fmt/25"	Version="1.0"/>				
 <FileFormat ID="56"	 	Name="AutoCAD Batch Plot File"	PUID="x-fmt/26"	Version="1.0-R14">		<Extension>bp2</Extension><Extension>bpl</Extension>		</FileFormat>
 <FileFormat ID="57"	 	Name="AutoCAD Batch Plot File"	PUID="x-fmt/27"	Version="2000-2005">		<Extension>bp3</Extension>		</FileFormat>
 <FileFormat ID="59"	 	Name="CALS Compressed Bitmap"	PUID="x-fmt/28">		<InternalSignatureID>343</InternalSignatureID>	<Extension>cal</Extension>		</FileFormat>
@@ -1942,7 +1935,6 @@
 <FileFormat ID="155"	 	Name="AutoCAD Named Plot Style Table"	PUID="x-fmt/107">		<InternalSignatureID>330</InternalSignatureID>	<Extension>stb</Extension>		</FileFormat>
 <FileFormat ID="156"	 	Name="STL (Standard Tessellation Language) ASCII"	PUID="x-fmt/108">		<InternalSignatureID>596</InternalSignatureID>	<Extension>stl</Extension>		</FileFormat>
 <FileFormat ID="158"	MIMEType="image/svg+xml"	Name="Scalable Vector Graphics Compressed"	PUID="x-fmt/109">			<Extension>svgz</Extension>		</FileFormat>
-<FileFormat ID="162"	MIMEType="text/plain"	Name="Fixed Width Values Text File"	PUID="x-fmt/110"/>					
 <FileFormat ID="163"	MIMEType="text/plain"	Name="Plain Text File"	PUID="x-fmt/111">			<Extension>txt</Extension>		</FileFormat>
 <FileFormat ID="164"	 	Name="AutoCAD External Database Configuration File"	PUID="x-fmt/112">			<Extension>udl</Extension>		</FileFormat>
 <FileFormat ID="165"	MIMEType="application/vnd.visio"	Name="Microsoft Visio Drawing"	PUID="x-fmt/113"	Version="5.0">		<Extension>vsd</Extension><Extension>vss</Extension><Extension>vst</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1229</HasPriorityOverFileFormatID>	</FileFormat>
@@ -1950,7 +1942,6 @@
 <FileFormat ID="167"	MIMEType="application/lotus123, application/vnd.lotus-1-2-3"	Name="Lotus 1-2-3 Worksheet"	PUID="x-fmt/115"	Version="3.0">	<InternalSignatureID>462</InternalSignatureID>	<Extension>wk3</Extension>		</FileFormat>
 <FileFormat ID="168"	MIMEType="application/lotus123, application/vnd.lotus-1-2-3"	Name="Lotus 1-2-3 Worksheet"	PUID="x-fmt/116"	Version="4-5">	<InternalSignatureID>463</InternalSignatureID>	<Extension>wk4</Extension>		</FileFormat>
 <FileFormat ID="169"	MIMEType="application/vnd.lotus-1-2-3, application/x-123"	Name="Lotus 1-2-3 Worksheet"	PUID="x-fmt/117"	Version="1.0">	<InternalSignatureID>460</InternalSignatureID>	<Extension>wks</Extension>		</FileFormat>
-<FileFormat ID="170"	 	Name="Microsoft Works Spreadsheet"	PUID="x-fmt/118"	Version="2.0"/>				
 <FileFormat ID="171"	MIMEType="image/wmf"	Name="Windows Metafile Image"	PUID="x-fmt/119">		<InternalSignatureID>609</InternalSignatureID><InternalSignatureID>1228</InternalSignatureID>	<Extension>wmf</Extension>		</FileFormat>
 <FileFormat ID="175"	 	Name="Microsoft Works for Windows"	PUID="x-fmt/120"	Version="4.0">		<Extension>wps</Extension>		</FileFormat>
 <FileFormat ID="176"	 	Name="Quattro Pro Spreadsheet for DOS"	PUID="x-fmt/121"	Version="1-4">	<InternalSignatureID>727</InternalSignatureID>	<Extension>wkq</Extension><Extension>wq1</Extension>		</FileFormat>
@@ -1961,13 +1952,10 @@
 <FileFormat ID="181"	 	Name="Microsoft Excel Chart"	PUID="x-fmt/126"	Version="4.0">	<InternalSignatureID>876</InternalSignatureID>	<Extension>xlc</Extension>		</FileFormat>
 <FileFormat ID="182"	 	Name="AutoCAD Xref Log"	PUID="x-fmt/127">			<Extension>xlg</Extension>		</FileFormat>
 <FileFormat ID="186"	 	Name="Microsoft Excel Workspace"	PUID="x-fmt/128">			<Extension>xlw</Extension>		</FileFormat>
-<FileFormat ID="188"	 	Name="Microsoft Word for Macintosh Document"	PUID="x-fmt/129"	Version="X"/>				
-<FileFormat ID="189"	MIMEType="text/plain"	Name="MS-DOS Text File with line breaks"	PUID="x-fmt/130"/>					
 <FileFormat ID="190"	 	Name="Stationery for Mac OS X"	PUID="x-fmt/131">			<Extension>doc</Extension>		</FileFormat>
 <FileFormat ID="191"	 	Name="Speller Custom Dictionary"	PUID="x-fmt/132">			<Extension>dic</Extension>		</FileFormat>
 <FileFormat ID="192"	 	Name="Speller Exclude Dictionary"	PUID="x-fmt/133">			<Extension>dic</Extension>		</FileFormat>
 <FileFormat ID="193"	 	Name="AutoCAD Device-Independent Binary Plotter File"	PUID="x-fmt/134">			<Extension>adi</Extension>		</FileFormat>
-<FileFormat ID="194"	 	Name="Audio Interchange File Format"	PUID="x-fmt/135"	Version="1.3"/>				
 <FileFormat ID="195"	MIMEType="audio/x-aiff"	Name="Audio Interchange File Format (compressed)"	PUID="x-fmt/136">		<InternalSignatureID>321</InternalSignatureID>	<Extension>aifc</Extension>	<HasPriorityOverFileFormatID>221</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="197"	 	Name="Electronic Arts Music"	PUID="x-fmt/137">		<InternalSignatureID>852</InternalSignatureID>	<Extension>asf</Extension>		</FileFormat>
 <FileFormat ID="198"	 	Name="Active Server Page"	PUID="x-fmt/138">			<Extension>asp</Extension>		</FileFormat>
@@ -1977,7 +1965,6 @@
 <FileFormat ID="203"	MIMEType="image/cgm"	Name="Computer Graphics Metafile ASCII"	PUID="x-fmt/142"	Version="1">	<InternalSignatureID>350</InternalSignatureID><InternalSignatureID>351</InternalSignatureID><InternalSignatureID>353</InternalSignatureID><InternalSignatureID>354</InternalSignatureID>	<Extension>cgm</Extension>		</FileFormat>
 <FileFormat ID="204"	 	Name="OS/2 Change Control File"	PUID="x-fmt/143">			<Extension>cin</Extension>		</FileFormat>
 <FileFormat ID="205"	 	Name="Corel Photo-Paint Image"	PUID="x-fmt/144">		<InternalSignatureID>1134</InternalSignatureID><InternalSignatureID>1135</InternalSignatureID><InternalSignatureID>1136</InternalSignatureID>	<Extension>cpt</Extension>		</FileFormat>
-<FileFormat ID="206"	 	Name="Stats+ Data File"	PUID="x-fmt/145"/>					
 <FileFormat ID="207"	 	Name="Scitex Continuous Tone Bitmap"	PUID="x-fmt/146">		<InternalSignatureID>595</InternalSignatureID>	<Extension>ct</Extension>		</FileFormat>
 <FileFormat ID="208"	 	Name="Paradox Database Table"	PUID="x-fmt/147"	Version="7">	<InternalSignatureID>516</InternalSignatureID>	<Extension>db</Extension>		</FileFormat>
 <FileFormat ID="209"	 	Name="IBM DisplayWrite DCA Text File"	PUID="x-fmt/148">			<Extension>dca</Extension>		</FileFormat>
@@ -1997,7 +1984,6 @@
 <FileFormat ID="229"	MIMEType="application/vnd.mif"	Name="Adobe FrameMaker Interchange Format"	PUID="x-fmt/162">		<InternalSignatureID>396</InternalSignatureID>	<Extension>mif</Extension>		</FileFormat>
 <FileFormat ID="235"	 	Name="NAP Metafile"	PUID="x-fmt/163">			<Extension>nap</Extension>		</FileFormat>
 <FileFormat ID="236"	MIMEType="image/x-portable-bitmap"	Name="Portable Bitmap Image - ASCII"	PUID="x-fmt/164">		<InternalSignatureID>583</InternalSignatureID>	<Extension>pbm</Extension>		</FileFormat>
-<FileFormat ID="237"	 	Name="Kodak PhotoCD Image"	PUID="x-fmt/165"	Version="1.0"/>				
 <FileFormat ID="238"	 	Name="PICS Animation"	PUID="x-fmt/166">			<Extension>pcs</Extension>		</FileFormat>
 <FileFormat ID="239"	 	Name="Adobe PhotoDeluxe"	PUID="x-fmt/167">			<Extension>pdd</Extension>		</FileFormat>
 <FileFormat ID="240"	 	Name="Broderbund Print Shop Deluxe"	PUID="x-fmt/168"	Version="1-4">	<InternalSignatureID>1674</InternalSignatureID><InternalSignatureID>1678</InternalSignatureID>	<Extension>pcc</Extension><Extension>pda</Extension><Extension>pdb</Extension><Extension>pdc</Extension><Extension>pdg</Extension><Extension>pdl</Extension><Extension>pds</Extension>		</FileFormat>
@@ -2018,7 +2004,6 @@
 <FileFormat ID="256"	MIMEType="audio/vnd.rn-realaudio, audio/x-pn-realaudio"	Name="RealAudio Metafile"	PUID="x-fmt/183">		<InternalSignatureID>210</InternalSignatureID>	<Extension>ram</Extension>		</FileFormat>
 <FileFormat ID="257"	MIMEType="image/x-sun-raster"	Name="Sun Raster Image"	PUID="x-fmt/184">		<InternalSignatureID>598</InternalSignatureID>	<Extension>ras</Extension><Extension>sun</Extension>		</FileFormat>
 <FileFormat ID="258"	 	Name="Raw Bitmap"	PUID="x-fmt/185">			<Extension>raw</Extension>		</FileFormat>
-<FileFormat ID="259"	 	Name="Silicon Graphics RGB File"	PUID="x-fmt/186"/>					
 <FileFormat ID="260"	 	Name="Painter RIFF Image File"	PUID="x-fmt/187">		<InternalSignatureID>1657</InternalSignatureID><InternalSignatureID>1658</InternalSignatureID>	<Extension>rif</Extension>		</FileFormat>
 <FileFormat ID="261"	 	Name="SDSC Image Tool Wavefront Raster Image"	PUID="x-fmt/188">			<Extension>rla</Extension>		</FileFormat>
 <FileFormat ID="262"	 	Name="SDSC Image Tool Run-Length Encoded Bitmap"	PUID="x-fmt/189">			<Extension>rle</Extension>		</FileFormat>
@@ -2026,9 +2011,7 @@
 <FileFormat ID="264"	MIMEType="application/vnd.lotus-wordpro"	Name="AMI Professional Document"	PUID="x-fmt/191">		<InternalSignatureID>324</InternalSignatureID>	<Extension>sam</Extension>		</FileFormat>
 <FileFormat ID="265"	 	Name="SAS for MS-DOS Catalog"	PUID="x-fmt/192">			<Extension>sct</Extension>		</FileFormat>
 <FileFormat ID="266"	 	Name="Unisys (Sperry) System Data File"	PUID="x-fmt/193">			<Extension>sdf</Extension>		</FileFormat>
-<FileFormat ID="267"	 	Name="IRIS Graphics"	PUID="x-fmt/194"/>					
 <FileFormat ID="268"	MIMEType="text/sgml"	Name="Standard Generalized Markup Language"	PUID="x-fmt/195">			<Extension>sgm</Extension><Extension>sgml</Extension>		</FileFormat>
-<FileFormat ID="269"	 	Name="NeXt Sound"	PUID="x-fmt/196"/>					
 <FileFormat ID="271"	 	Name="DataFlex Query Tag Name"	PUID="x-fmt/197">			<Extension>tag</Extension>		</FileFormat>
 <FileFormat ID="272"	 	Name="Pagemaker TableEditor Graphics"	PUID="x-fmt/198">			<Extension>tbl</Extension>		</FileFormat>
 <FileFormat ID="273"	 	Name="Turbo Debugger Keystroke Recording File"	PUID="x-fmt/199">			<Extension>tdk</Extension>		</FileFormat>
@@ -2044,7 +2027,6 @@
 <FileFormat ID="290"	 	Name="SDSC Image Tool X Window Dump Format"	PUID="x-fmt/209">			<Extension>xwd</Extension>		</FileFormat>
 <FileFormat ID="291"	 	Name="XYWrite Document"	PUID="x-fmt/210">			<Extension>xy</Extension>		</FileFormat>
 <FileFormat ID="292"	 	Name="XYWrite Document"	PUID="x-fmt/211"	Version="III">		<Extension>xy3</Extension>		</FileFormat>
-<FileFormat ID="299"	 	Name="Lotus 1-2-3 Worksheet"	PUID="x-fmt/212"	Version="5.0"/>				
 <FileFormat ID="300"	 	Name="Quicken Data File"	PUID="x-fmt/213">			<Extension>abd</Extension><Extension>qdf</Extension><Extension>qel</Extension>		</FileFormat>
 <FileFormat ID="302"	 	Name="Microsoft Paint"	PUID="x-fmt/214"	Version="1">	<InternalSignatureID>1262</InternalSignatureID>	<Extension>msp</Extension>		</FileFormat>
 <FileFormat ID="304"	 	Name="GEM Metafile Format"	PUID="x-fmt/215"	Version="1.00">	<InternalSignatureID>853</InternalSignatureID><InternalSignatureID>854</InternalSignatureID>	<Extension>gem</Extension>		</FileFormat>
@@ -2080,12 +2062,9 @@
 <FileFormat ID="359"	MIMEType="application/vnd.ms-project"	Name="Microsoft Project"	PUID="x-fmt/243"	Version="4.0">		<Extension>mpp</Extension>		</FileFormat>
 <FileFormat ID="360"	MIMEType="application/vnd.ms-project"	Name="Microsoft Project"	PUID="x-fmt/244"	Version="95">		<Extension>mpp</Extension>	<HasPriorityOverFileFormatID>359</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="361"	MIMEType="application/vnd.ms-project"	Name="Microsoft Project"	PUID="x-fmt/245"	Version="98">		<Extension>mpp</Extension>		</FileFormat>
-<FileFormat ID="362"	 	Name="Microsoft Project"	PUID="x-fmt/246"	Version="2000"/>				
 <FileFormat ID="363"	MIMEType="application/vnd.ms-project"	Name="Microsoft Project"	PUID="x-fmt/247"	Version="2000-2003">		<Extension>mpp</Extension>		</FileFormat>
 <FileFormat ID="364"	 	Name="Microsoft Outlook Personal Folders (ANSI)"	PUID="x-fmt/248"	Version="1997-2002">	<InternalSignatureID>260</InternalSignatureID>	<Extension>pst</Extension>		</FileFormat>
 <FileFormat ID="365"	 	Name="Microsoft Outlook Personal Folders (Unicode)"	PUID="x-fmt/249"	Version="2003-2007">	<InternalSignatureID>261</InternalSignatureID>	<Extension>pst</Extension>		</FileFormat>
-<FileFormat ID="366"	 	Name="Microsoft Outlook Personal Folders"	PUID="x-fmt/250"/>					
-<FileFormat ID="367"	 	Name="Microsoft Outlook Personal Folders"	PUID="x-fmt/251"/>					
 <FileFormat ID="370"	MIMEType="application/x-mspublisher"	Name="Microsoft Publisher"	PUID="x-fmt/252"	Version="2.0">		<Extension>pub</Extension>		</FileFormat>
 <FileFormat ID="371"	MIMEType="application/x-mspublisher"	Name="Microsoft Publisher"	PUID="x-fmt/253"	Version="95">		<Extension>pub</Extension>		</FileFormat>
 <FileFormat ID="372"	MIMEType="application/x-mspublisher"	Name="Microsoft Publisher"	PUID="x-fmt/254"	Version="97">		<Extension>pub</Extension>		</FileFormat>
@@ -2093,7 +2072,6 @@
 <FileFormat ID="374"	MIMEType="application/x-mspublisher"	Name="Microsoft Publisher"	PUID="x-fmt/256"	Version="2000">		<Extension>pub</Extension>		</FileFormat>
 <FileFormat ID="375"	MIMEType="application/x-mspublisher"	Name="Microsoft Publisher"	PUID="x-fmt/257"	Version="2002">		<Extension>pub</Extension>		</FileFormat>
 <FileFormat ID="376"	MIMEType="application/vnd.visio"	Name="Microsoft Visio Drawing"	PUID="x-fmt/258"	Version="2000-2002">		<Extension>vsd</Extension><Extension>vss</Extension><Extension>vst</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1229</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="377"	 	Name="Microsoft Visio Drawing"	PUID="x-fmt/259"	Version="2002"/>				
 <FileFormat ID="378"	 	Name="WordStar for MS-DOS Document"	PUID="x-fmt/260"	Version="4.0">		<Extension>ws</Extension><Extension>ws4</Extension>		</FileFormat>
 <FileFormat ID="379"	 	Name="WordStar for MS-DOS Document"	PUID="x-fmt/261"	Version="7.0">	<InternalSignatureID>613</InternalSignatureID>	<Extension>ws</Extension><Extension>ws7</Extension>		</FileFormat>
 <FileFormat ID="380"	 	Name="WordStar for Windows Document"	PUID="x-fmt/262"	Version="2.0">		<Extension>ws</Extension><Extension>wsw</Extension>		</FileFormat>
@@ -2122,8 +2100,6 @@
 <FileFormat ID="436"	 	Name="IBM DisplayWrite Revisable Form Text File"	PUID="x-fmt/285">			<Extension>rft</Extension>		</FileFormat>
 <FileFormat ID="437"	MIMEType="application/dec-dx."	Name="DEC Data Exchange File"	PUID="x-fmt/286">			<Extension>dx</Extension>		</FileFormat>
 <FileFormat ID="438"	 	Name="DEC WPS Plus Document"	PUID="x-fmt/287">			<Extension>wpl</Extension>		</FileFormat>
-<FileFormat ID="439"	 	Name="IBM DisplayWrite Document"	PUID="x-fmt/288"	Version="2"/>				
-<FileFormat ID="440"	 	Name="IBM DisplayWrite Document"	PUID="x-fmt/289"	Version="3"/>				
 <FileFormat ID="441"	 	Name="AMI Draw Vector Image"	PUID="x-fmt/290">		<InternalSignatureID>325</InternalSignatureID>	<Extension>sdw</Extension>		</FileFormat>
 <FileFormat ID="444"	 	Name="CorelDraw Drawing"	PUID="x-fmt/291"	Version="7.0">	<InternalSignatureID>375</InternalSignatureID>	<Extension>cdr</Extension>		</FileFormat>
 <FileFormat ID="445"	 	Name="CorelDraw Drawing"	PUID="x-fmt/292"	Version="8.0">	<InternalSignatureID>376</InternalSignatureID>	<Extension>cdr</Extension>		</FileFormat>
@@ -2192,7 +2168,6 @@
 <FileFormat ID="521"	 	Name="SAS Data File"	PUID="x-fmt/355">			<Extension>ssd</Extension>		</FileFormat>
 <FileFormat ID="522"	 	Name="SAS for MS-DOS Database"	PUID="x-fmt/356">			<Extension>ssd</Extension>		</FileFormat>
 <FileFormat ID="523"	 	Name="Scanstudio 16-Colour Bitmap"	PUID="x-fmt/357">			<Extension>adc</Extension>		</FileFormat>
-<FileFormat ID="524"	 	Name="Silicon Graphics Graphics File"	PUID="x-fmt/358"/>					
 <FileFormat ID="525"	 	Name="StarOffice Calc"	PUID="x-fmt/359"	Version="5.x">		<Extension>sdc</Extension>		</FileFormat>
 <FileFormat ID="526"	 	Name="StarOffice Impress"	PUID="x-fmt/360"	Version="5.x">		<Extension>sdd</Extension>		</FileFormat>
 <FileFormat ID="527"	 	Name="StatGraphics Data File"	PUID="x-fmt/361">			<Extension>aws</Extension>		</FileFormat>
@@ -2216,10 +2191,6 @@
 <FileFormat ID="557"	 	Name="CorelDraw Drawing"	PUID="x-fmt/379"	Version="3.0">	<InternalSignatureID>724</InternalSignatureID>	<Extension>cdr</Extension>		</FileFormat>
 <FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version="5.0">		<Extension>dbf</Extension>		</FileFormat>
 <FileFormat ID="559"	 	Name="Dia Graphics Format"	PUID="x-fmt/381">			<Extension>dia</Extension>		</FileFormat>
-<FileFormat ID="609"	 	Name="Tagged Image File Format"	PUID="fmt/7"	Version="3"/>				
-<FileFormat ID="610"	 	Name="Tagged Image File Format"	PUID="fmt/8"	Version="4"/>				
-<FileFormat ID="611"	 	Name="Tagged Image File Format"	PUID="fmt/9"	Version="5"/>				
-<FileFormat ID="612"	 	Name="Tagged Image File Format"	PUID="fmt/10"	Version="6"/>				
 <FileFormat ID="613"	MIMEType="application/pdf"	Name="Acrobat PDF 1.0 - Portable Document Format"	PUID="fmt/14"	Version="1.0">	<InternalSignatureID>123</InternalSignatureID>	<Extension>pdf</Extension>	<HasPriorityOverFileFormatID>687</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>869</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="614"	MIMEType="application/pdf"	Name="Acrobat PDF 1.1 - Portable Document Format"	PUID="fmt/15"	Version="1.1">	<InternalSignatureID>124</InternalSignatureID>	<Extension>pdf</Extension>	<HasPriorityOverFileFormatID>687</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>869</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="615"	MIMEType="application/pdf"	Name="Acrobat PDF 1.2 - Portable Document Format"	PUID="fmt/16"	Version="1.2">	<InternalSignatureID>125</InternalSignatureID>	<Extension>pdf</Extension>	<HasPriorityOverFileFormatID>687</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>869</HasPriorityOverFileFormatID>	</FileFormat>
@@ -2234,12 +2205,7 @@
 <FileFormat ID="624"	MIMEType="image/vnd.zbrush.pcx"	Name="PCX"	PUID="fmt/89"	Version="4">	<InternalSignatureID>62</InternalSignatureID>	<Extension>pcx</Extension>		</FileFormat>
 <FileFormat ID="625"	MIMEType="image/vnd.zbrush.pcx"	Name="PCX"	PUID="fmt/90"	Version="5">	<InternalSignatureID>61</InternalSignatureID>	<Extension>pcx</Extension>		</FileFormat>
 <FileFormat ID="626"	MIMEType="application/rtf, text/rtf"	Name="Rich Text Format"	PUID="fmt/45"	Version="1.0-1.4">	<InternalSignatureID>30</InternalSignatureID>	<Extension>rtf</Extension>		</FileFormat>
-<FileFormat ID="627"	 	Name="Rich Text Format"	PUID="fmt/46"	Version="1.1"/>				
-<FileFormat ID="628"	 	Name="Rich Text Format"	PUID="fmt/47"	Version="1.2"/>				
-<FileFormat ID="629"	 	Name="Rich Text Format"	PUID="fmt/48"	Version="1.3"/>				
-<FileFormat ID="630"	 	Name="Rich Text Format"	PUID="fmt/49"	Version="1.4"/>				
 <FileFormat ID="631"	MIMEType="application/rtf, text/rtf"	Name="Rich Text Format"	PUID="fmt/50"	Version="1.5-1.6">	<InternalSignatureID>158</InternalSignatureID>	<Extension>rtf</Extension>	<HasPriorityOverFileFormatID>626</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>627</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>628</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>629</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>630</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="632"	 	Name="Rich Text Format"	PUID="fmt/51"	Version="1.6"/>				
 <FileFormat ID="633"	MIMEType="application/rtf, text/rtf"	Name="Rich Text Format"	PUID="fmt/52"	Version="1.7">	<InternalSignatureID>26</InternalSignatureID>	<Extension>rtf</Extension>	<HasPriorityOverFileFormatID>626</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>627</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>628</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>629</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>630</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>631</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>632</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="634"	MIMEType="image/svg+xml"	Name="Scalable Vector Graphics"	PUID="fmt/91"	Version="1.0">	<InternalSignatureID>24</InternalSignatureID>	<Extension>svg</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="635"	MIMEType="image/svg+xml"	Name="Scalable Vector Graphics"	PUID="fmt/92"	Version="1.1">	<InternalSignatureID>25</InternalSignatureID>	<Extension>svg</Extension>	<HasPriorityOverFileFormatID>316</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>634</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
@@ -2282,13 +2248,11 @@
 <FileFormat ID="674"	MIMEType="audio/x-wav"	Name="Exchangeable Image File Format (Audio)"	PUID="x-fmt/389"	Version="2.1">	<InternalSignatureID>144</InternalSignatureID>	<Extension>wav</Extension>	<HasPriorityOverFileFormatID>654</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="675"	MIMEType="image/jpeg"	Name="Exchangeable Image File Format (Compressed)"	PUID="x-fmt/390"	Version="2.1">	<InternalSignatureID>147</InternalSignatureID><InternalSignatureID>150</InternalSignatureID>	<Extension>jpeg</Extension><Extension>jpg</Extension>	<HasPriorityOverFileFormatID>670</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="676"	MIMEType="image/jpeg"	Name="Exchangeable Image File Format (Compressed)"	PUID="x-fmt/391"	Version="2.2">	<InternalSignatureID>148</InternalSignatureID><InternalSignatureID>151</InternalSignatureID>	<Extension>jpeg</Extension><Extension>jpg</Extension>	<HasPriorityOverFileFormatID>670</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="677"	MIMEType="image/jpeg"	Name="Still Picture Interchange File Format"	PUID="fmt/113"	Version="2.0"/>				
 <FileFormat ID="678"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 2.x Worksheet (xls)"	PUID="fmt/55"	Version="2">	<InternalSignatureID>72</InternalSignatureID>	<Extension>xls</Extension>		</FileFormat>
 <FileFormat ID="679"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 3.0 Worksheet (xls)"	PUID="fmt/56"	Version="3">	<InternalSignatureID>73</InternalSignatureID>	<Extension>xls</Extension>		</FileFormat>
 <FileFormat ID="680"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 4.0 Worksheet (xls)"	PUID="fmt/57"	Version="4S">	<InternalSignatureID>74</InternalSignatureID>	<Extension>xls</Extension>		</FileFormat>
 <FileFormat ID="681"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 4.0 Workbook (xls)"	PUID="fmt/58"	Version="4W">	<InternalSignatureID>75</InternalSignatureID>	<Extension>xlw</Extension>		</FileFormat>
 <FileFormat ID="682"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 5.0/95 Workbook (xls)"	PUID="fmt/59"	Version="5/95">		<Extension>xls</Extension><Extension>xlw</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="683"	 	Name="Excel 95 Workbook (xls)"	PUID="fmt/60"	Version="7"/>				
 <FileFormat ID="684"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 97 Workbook (xls)"	PUID="fmt/61"	Version="8">	<InternalSignatureID>78</InternalSignatureID>	<Extension>xls</Extension><Extension>xlw</Extension>	<HasPriorityOverFileFormatID>682</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="685"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 2000-2003 Workbook (xls)"	PUID="fmt/62"	Version="8X">	<InternalSignatureID>78</InternalSignatureID>	<Extension>xls</Extension><Extension>xlw</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="686"	MIMEType="image/jp2"	Name="JP2 (JPEG 2000 part 1)"	PUID="x-fmt/392">		<InternalSignatureID>251</InternalSignatureID>	<Extension>jp2</Extension>		</FileFormat>
@@ -2359,10 +2323,6 @@
 <FileFormat ID="753"	MIMEType="application/rtf, text/rtf"	Name="Rich Text Format"	PUID="fmt/53"	Version="1.8">	<InternalSignatureID>523</InternalSignatureID>	<Extension>rtf</Extension>	<HasPriorityOverFileFormatID>626</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>627</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>628</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>629</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>630</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>631</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>632</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>633</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="754"	MIMEType="application/vnd.stardivision.writer"	Name="StarOffice Writer"	PUID="x-fmt/400"	Version="5.x">		<Extension>sdw</Extension>		</FileFormat>
 <FileFormat ID="755"	MIMEType="application/vnd.stardivision.draw"	Name="StarOffice Draw"	PUID="x-fmt/401"	Version="5.x">		<Extension>sda</Extension>		</FileFormat>
-<FileFormat ID="756"	 	Name="StarOffice Draw"	PUID="x-fmt/402"	Version="5.2"/>				
-<FileFormat ID="757"	 	Name="StarOffice Writer"	PUID="x-fmt/403"	Version="5.2"/>				
-<FileFormat ID="758"	 	Name="StarOffice Calc"	PUID="x-fmt/404"	Version="5.2"/>				
-<FileFormat ID="759"	 	Name="StarOffice Impress"	PUID="x-fmt/405"	Version="5.2"/>				
 <FileFormat ID="761"	 	Name="Drawing Interchange Binary Format"	PUID="fmt/54"	Version="1.0">	<InternalSignatureID>166</InternalSignatureID>	<Extension>dxb</Extension>		</FileFormat>
 <FileFormat ID="766"	MIMEType="image/vnd.dxf"	Name="Drawing Interchange File Format (ASCII)"	PUID="fmt/63"	Version="Generic">	<InternalSignatureID>115</InternalSignatureID>	<Extension>dxf</Extension>		</FileFormat>
 <FileFormat ID="767"	 	Name="OLE2 Compound Document Format"	PUID="fmt/111">		<InternalSignatureID>170</InternalSignatureID></FileFormat>			
@@ -2390,7 +2350,6 @@
 <FileFormat ID="789"	MIMEType="application/pdf"	Name="Acrobat PDF/X - Portable Document Format - Exchange 1a:2003"	PUID="fmt/146">		<InternalSignatureID>694</InternalSignatureID>	<Extension>pdf</Extension>	<HasPriorityOverFileFormatID>613</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>614</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>615</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>616</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>617</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>618</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>637</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>869</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1016</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="790"	MIMEType="application/pdf"	Name="Acrobat PDF/X - Portable Document Format - Exchange 2:2003"	PUID="fmt/147">		<InternalSignatureID>695</InternalSignatureID>	<Extension>pdf</Extension>	<HasPriorityOverFileFormatID>613</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>614</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>615</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>616</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>617</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>618</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>637</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>869</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1016</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="791"	MIMEType="application/pdf"	Name="Acrobat PDF/X - Portable Document Format - Exchange 3:2003"	PUID="fmt/148">		<InternalSignatureID>696</InternalSignatureID>	<Extension>pdf</Extension>	<HasPriorityOverFileFormatID>613</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>614</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>615</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>616</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>617</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>618</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>637</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>869</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1016</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="792"	 	Name="JTIP (JPEG Tiled Image Pyramid)"	PUID="fmt/149"/>					
 <FileFormat ID="793"	 	Name="JPEG-LS"	PUID="fmt/150">			<Extension>jls</Extension>		</FileFormat>
 <FileFormat ID="794"	MIMEType="image/jpx"	Name="JPX (JPEG 2000 part 2)"	PUID="fmt/151">		<InternalSignatureID>720</InternalSignatureID>	<Extension>jpf</Extension><Extension>jpx</Extension>		</FileFormat>
 <FileFormat ID="795"	MIMEType="image/tiff"	Name="Digital Negative Format (DNG)"	PUID="fmt/152"	Version="1.1">	<InternalSignatureID>660</InternalSignatureID><InternalSignatureID>661</InternalSignatureID><InternalSignatureID>662</InternalSignatureID><InternalSignatureID>663</InternalSignatureID>	<Extension>dng</Extension><Extension>tif</Extension><Extension>tiff</Extension>	<HasPriorityOverFileFormatID>385</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>672</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>673</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>752</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>927</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1099</HasPriorityOverFileFormatID>	</FileFormat>
@@ -2439,29 +2398,18 @@
 <FileFormat ID="864"	MIMEType="text/plain"	Name="Steel Detailing Neutral Format"	PUID="x-fmt/449">			<Extension>sdn</Extension>		</FileFormat>
 <FileFormat ID="865"	MIMEType="application/octet-stream"	Name="Adobe InDesign Document"	PUID="x-fmt/450"	Version="Generic">	<InternalSignatureID>240</InternalSignatureID>	<Extension>ind</Extension><Extension>indd</Extension><Extension>indt</Extension>		</FileFormat>
 <FileFormat ID="866"	 	Name="SketchUp Document"	PUID="x-fmt/451">		<InternalSignatureID>241</InternalSignatureID><InternalSignatureID>243</InternalSignatureID>	<Extension>skb</Extension><Extension>skp</Extension>		</FileFormat>
-<FileFormat ID="867"	 	Name="SketchUp Document"	PUID="x-fmt/452"/>					
 <FileFormat ID="869"	MIMEType="font/ttf"	Name="TrueType Font"	PUID="x-fmt/453">		<InternalSignatureID>242</InternalSignatureID>	<Extension>ttf</Extension>		</FileFormat>
 <FileFormat ID="870"	MIMEType="text/plain"	Name="Microsoft Internet Shortcut"	PUID="x-fmt/454">		<InternalSignatureID>263</InternalSignatureID>	<Extension>url</Extension>		</FileFormat>
 <FileFormat ID="872"	MIMEType="image/vnd.dwg"	Name="AutoCAD Drawing"	PUID="x-fmt/455"	Version="2007-2008">	<InternalSignatureID>244</InternalSignatureID>	<Extension>dwg</Extension>	<HasPriorityOverFileFormatID>687</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="876"	 	Name="SIARD (Software-Independent Archiving of Relational Databases)"	PUID="fmt/161"	Version="1.0">	<InternalSignatureID>292</InternalSignatureID>	<Extension>siard</Extension>	<HasPriorityOverFileFormatID>382</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="877"	 	Name="Microsoft Excel for Macintosh"	PUID="fmt/172"	Version="3.0"/>				
-<FileFormat ID="878"	 	Name="Microsoft Excel for Macintosh"	PUID="fmt/173"	Version="4.0"/>				
-<FileFormat ID="879"	 	Name="Microsoft Excel for Macintosh"	PUID="fmt/174"	Version="98"/>				
 <FileFormat ID="881"	 	Name="Microsoft Excel for Macintosh"	PUID="fmt/175"	Version="2001">		<Extension>xls</Extension>		</FileFormat>
 <FileFormat ID="882"	 	Name="Microsoft Excel for Macintosh"	PUID="fmt/176"	Version="2002">		<Extension>xls</Extension>		</FileFormat>
 <FileFormat ID="883"	 	Name="Microsoft Excel for Macintosh"	PUID="fmt/177"	Version="2004">		<Extension>xls</Extension>		</FileFormat>
-<FileFormat ID="884"	 	Name="Microsoft Excel for Macintosh"	PUID="fmt/178"	Version="X"/>				
 <FileFormat ID="885"	 	Name="Microsoft PowerPoint for Macintosh"	PUID="fmt/179"	Version="4.0">		<Extension>ppt</Extension>		</FileFormat>
-<FileFormat ID="886"	 	Name="Microsoft PowerPoint for Macintosh"	PUID="fmt/180"	Version="98"/>				
 <FileFormat ID="887"	 	Name="Microsoft PowerPoint for Macintosh"	PUID="fmt/181"	Version="2001">		<Extension>ppt</Extension>		</FileFormat>
-<FileFormat ID="888"	 	Name="Microsoft PowerPoint for Macintosh"	PUID="fmt/182"	Version="X"/>				
 <FileFormat ID="889"	 	Name="Microsoft Multiplan"	PUID="fmt/162"	Version="4.0">		<Extension>mod</Extension>		</FileFormat>
 <FileFormat ID="890"	 	Name="Microsoft Works Word Processor 1-3 for DOS and 2 for Windows"	PUID="fmt/163">		<InternalSignatureID>767</InternalSignatureID>	<Extension>wps</Extension>		</FileFormat>
-<FileFormat ID="891"	 	Name="Microsoft Works Word Processor for DOS"	PUID="fmt/164"	Version="1.12"/>				
-<FileFormat ID="893"	 	Name="Microsoft Works Word Processor for DOS"	PUID="fmt/165"	Version="2.0"/>				
 <FileFormat ID="894"	 	Name="Microsoft Works Spreadsheet"	PUID="fmt/166"	Version="1-5">	<InternalSignatureID>729</InternalSignatureID>	<Extension>wks</Extension>	<HasPriorityOverFileFormatID>169</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="895"	 	Name="Microsoft Works Spreadsheet for DOS"	PUID="fmt/167"	Version="1.12"/>				
-<FileFormat ID="896"	 	Name="Microsoft Works Spreadsheet for DOS"	PUID="fmt/168"	Version="2.0"/>				
 <FileFormat ID="897"	 	Name="Microsoft Works Database for DOS"	PUID="fmt/169"	Version="1.05">		<Extension>wdb</Extension>		</FileFormat>
 <FileFormat ID="898"	 	Name="Microsoft Works Database for DOS"	PUID="fmt/170"	Version="1.12">		<Extension>wdb</Extension>		</FileFormat>
 <FileFormat ID="899"	 	Name="Microsoft Works Database for DOS"	PUID="fmt/171"	Version="2.0">		<Extension>wdb</Extension>		</FileFormat>
@@ -2502,23 +2450,12 @@
 <FileFormat ID="945"	 	Name="PaintShop Pro Browser Cache File"	PUID="fmt/217">		<InternalSignatureID>450</InternalSignatureID>	<Extension>jbf</Extension>		</FileFormat>
 <FileFormat ID="946"	 	Name="Microsoft FrontPage"	PUID="fmt/218">			<Extension>lck</Extension>		</FileFormat>
 <FileFormat ID="948"	 	Name="Microsoft Works Database for Windows"	PUID="fmt/219"	Version="2.0">		<Extension>wdb</Extension>		</FileFormat>
-<FileFormat ID="950"	 	Name="Microsoft Works Spreadsheet for Windows"	PUID="fmt/220"	Version="2.0"/>				
-<FileFormat ID="951"	 	Name="Microsoft Works Word Processor for Windows"	PUID="fmt/221"	Version="2.0"/>				
 <FileFormat ID="952"	 	Name="Microsoft Works Database for Windows"	PUID="fmt/222"	Version="2.0a">		<Extension>wdb</Extension>		</FileFormat>
 <FileFormat ID="953"	 	Name="Microsoft Works Database for Windows"	PUID="fmt/223"	Version="3.0">		<Extension>wdb</Extension>		</FileFormat>
 <FileFormat ID="954"	 	Name="Microsoft Works Database for Windows"	PUID="fmt/224"	Version="3.0a">		<Extension>wdb</Extension>		</FileFormat>
 <FileFormat ID="955"	 	Name="Microsoft Works Database for Windows"	PUID="fmt/225"	Version="3.0b">		<Extension>wdb</Extension>		</FileFormat>
 <FileFormat ID="956"	 	Name="Microsoft Works Database for Windows"	PUID="fmt/226"	Version="4.0">		<Extension>wdb</Extension>		</FileFormat>
-<FileFormat ID="957"	 	Name="Microsoft Works Spreadsheet for Windows"	PUID="fmt/227"	Version="2.0a"/>				
-<FileFormat ID="958"	 	Name="Microsoft Works Spreadsheet for Windows"	PUID="fmt/228"	Version="3.0"/>				
-<FileFormat ID="959"	 	Name="Microsoft Works Spreadsheet for Windows"	PUID="fmt/229"	Version="3.0a"/>				
-<FileFormat ID="960"	 	Name="Microsoft Works Spreadsheet for Windows"	PUID="fmt/230"	Version="3.0b"/>				
-<FileFormat ID="961"	 	Name="Microsoft Works Spreadsheet for Windows"	PUID="fmt/231"	Version="4.0"/>				
-<FileFormat ID="962"	 	Name="Microsoft Works Word Processor for Windows"	PUID="fmt/232"	Version="2.0a"/>				
 <FileFormat ID="963"	 	Name="Microsoft Works Word Processor 3-4 for Windows"	PUID="fmt/233">			<Extension>wps</Extension>		</FileFormat>
-<FileFormat ID="964"	 	Name="Microsoft Works Word Processor for Windows"	PUID="fmt/234"	Version="3.0a"/>				
-<FileFormat ID="965"	 	Name="Microsoft Works Word Processor for Windows"	PUID="fmt/235"	Version="3.0b"/>				
-<FileFormat ID="966"	 	Name="Microsoft Works Word Processor for Windows"	PUID="fmt/236"	Version="4.0"/>				
 <FileFormat ID="967"	 	Name="Microsoft Office Binder File for Windows"	PUID="fmt/237"	Version="95">		<Extension>obd</Extension>		</FileFormat>
 <FileFormat ID="968"	 	Name="Microsoft Office Binder Template for Windows"	PUID="fmt/238"	Version="95">		<Extension>obt</Extension>		</FileFormat>
 <FileFormat ID="969"	 	Name="Microsoft Office Binder Wizard for Windows"	PUID="fmt/239"	Version="95">		<Extension>obz</Extension>		</FileFormat>
@@ -2527,29 +2464,15 @@
 <FileFormat ID="972"	 	Name="Microsoft Office Binder Wizard for Windows"	PUID="fmt/242"	Version="97-2003">		<Extension>obz</Extension>		</FileFormat>
 <FileFormat ID="973"	 	Name="GPS Exchange Format"	PUID="fmt/243"	Version="1.0">	<InternalSignatureID>1692</InternalSignatureID>	<Extension>gpx</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="975"	MIMEType="application/vnd.google-earth.kml+xml"	Name="Keyhole Markup Language (XML)"	PUID="fmt/244">		<InternalSignatureID>574</InternalSignatureID>	<Extension>kml</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="977"	 	Name="Structured Data Exchange Format"	PUID="fmt/245"/>					
 <FileFormat ID="978"	 	Name="Microsoft Works Database for Windows"	PUID="fmt/246"	Version="4.0a">		<Extension>wdb</Extension>		</FileFormat>
-<FileFormat ID="979"	 	Name="Microsoft Works Spreadsheet for Windows"	PUID="fmt/247"	Version="4.0a"/>				
-<FileFormat ID="981"	 	Name="Microsoft Works Word Processor Windows"	PUID="fmt/248"	Version="4.0a"/>				
 <FileFormat ID="982"	 	Name="Microsoft Works Database for Windows"	PUID="fmt/249"	Version="4.5">		<Extension>wdb</Extension>		</FileFormat>
-<FileFormat ID="983"	 	Name="Microsoft Works Spreadsheet for Windows"	PUID="fmt/250"	Version="4.5"/>				
-<FileFormat ID="989"	 	Name="Microsoft Works Word Processor Windows"	PUID="fmt/251"	Version="4.5"/>				
 <FileFormat ID="990"	 	Name="Microsoft Works Database for Windows"	PUID="fmt/252"	Version="4.5a">		<Extension>wdb</Extension>		</FileFormat>
-<FileFormat ID="991"	 	Name="Microsoft Works Spreadsheet for Windows"	PUID="fmt/253"	Version="4.5a"/>				
-<FileFormat ID="992"	 	Name="Microsoft Works Word Processor Windows"	PUID="fmt/254"	Version="4.5a"/>				
 <FileFormat ID="993"	MIMEType="image/vnd.djvu, image/x-djvu"	Name="DjVu File Format"	PUID="fmt/255">		<InternalSignatureID>411</InternalSignatureID>	<Extension>djv</Extension><Extension>djvu</Extension>		</FileFormat>
 <FileFormat ID="994"	 	Name="Microsoft Works Database for Windows"	PUID="fmt/256"	Version="2000">		<Extension>wdb</Extension>		</FileFormat>
-<FileFormat ID="995"	 	Name="Microsoft Works Spreadsheet for Windows"	PUID="fmt/257"	Version="2000"/>				
 <FileFormat ID="996"	 	Name="Microsoft Works Word Processor 5-6"	PUID="fmt/258">			<Extension>wps</Extension>		</FileFormat>
 <FileFormat ID="997"	 	Name="Microsoft Works Database for DOS"	PUID="fmt/259"	Version="3">		<Extension>wdb</Extension>		</FileFormat>
 <FileFormat ID="998"	 	Name="Microsoft Works Database for DOS"	PUID="fmt/260"	Version="3a">		<Extension>wdb</Extension>		</FileFormat>
 <FileFormat ID="999"	 	Name="Microsoft Works Database for DOS"	PUID="fmt/261"	Version="3b">		<Extension>wdb</Extension>		</FileFormat>
-<FileFormat ID="1000"	 	Name="Microsoft Works Spreadsheet for DOS"	PUID="fmt/262"	Version="3"/>				
-<FileFormat ID="1001"	 	Name="Microsoft Works Spreadsheet for DOS"	PUID="fmt/263"	Version="3a"/>				
-<FileFormat ID="1002"	 	Name="Microsoft Works Spreadsheet for DOS"	PUID="fmt/264"	Version="3b"/>				
-<FileFormat ID="1003"	 	Name="Microsoft Works Word Processor DOS"	PUID="fmt/265"	Version="3"/>				
-<FileFormat ID="1004"	 	Name="Microsoft Works Word Processor DOS"	PUID="fmt/266"	Version="3a"/>				
-<FileFormat ID="1005"	 	Name="Microsoft Works Word Processor DOS"	PUID="fmt/267"	Version="3b"/>				
 <FileFormat ID="1006"	 	Name="Microsoft Works Database for Macintosh"	PUID="fmt/268"	Version="3">		<Extension>wdb</Extension>		</FileFormat>
 <FileFormat ID="1007"	 	Name="Microsoft Works Database for Macintosh"	PUID="fmt/269"	Version="4">		<Extension>wdb</Extension>		</FileFormat>
 <FileFormat ID="1008"	 	Name="Microsoft Works Spreadsheet for Macintosh"	PUID="fmt/270"	Version="3">		<Extension>wks</Extension>		</FileFormat>
@@ -3272,7 +3195,6 @@
 <FileFormat ID="1792"	 	Name="Microsoft OneNote Package File"	PUID="fmt/987">		<InternalSignatureID>1354</InternalSignatureID>	<Extension>onepkg</Extension>	<HasPriorityOverFileFormatID>801</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1793"	 	Name="ESRI ArcScene Document"	PUID="fmt/988">			<Extension>sxd</Extension>		</FileFormat>
 <FileFormat ID="1794"	 	Name="ESRI ArcGlobe Document"	PUID="fmt/989">			<Extension>3dd</Extension>		</FileFormat>
-<FileFormat ID="1795"	 	Name="ESRI File Geodatabase"	PUID="fmt/990"/>					
 <FileFormat ID="1796"	 	Name="SHA256 File"	PUID="fmt/991">			<Extension>sha256</Extension>		</FileFormat>
 <FileFormat ID="1797"	 	Name="SHA1 File"	PUID="fmt/992">			<Extension>sha1</Extension>		</FileFormat>
 <FileFormat ID="1798"	 	Name="MD5 File"	PUID="fmt/993">			<Extension>md5</Extension>		</FileFormat>
@@ -3722,7 +3644,6 @@
 <FileFormat ID="2255"	 	Name="Minitab Worksheet"	PUID="fmt/1437"	Version="15+">		<Extension>mtw</Extension>		</FileFormat>
 <FileFormat ID="2256"	 	Name="Minitab Project"	PUID="fmt/1438"	Version="15+">		<Extension>mpj</Extension>		</FileFormat>
 <FileFormat ID="2257"	 	Name="Apple iWork Pages"	PUID="fmt/1439"	Version="09">		<Extension>pages</Extension>		</FileFormat>
-<FileFormat ID="2258"	 	Name="Apple iWork Numbers"	PUID="fmt/1440"	Version="09"/>				
 <FileFormat ID="2259"	 	Name="Apple iWork Document"	PUID="fmt/1441"	Version="14">		<Extension>iwa</Extension><Extension>key</Extension><Extension>numbers</Extension><Extension>pages</Extension><Extension>template</Extension>		</FileFormat>
 <FileFormat ID="2260"	MIMEType="application/vnd.Quark.QuarkXPress"	Name="QuarkXPress Document"	PUID="fmt/1442"	Version="1-2">	<InternalSignatureID>1801</InternalSignatureID><InternalSignatureID>1802</InternalSignatureID>			</FileFormat>
 <FileFormat ID="2261"	MIMEType="application/vnd.Quark.QuarkXPress"	Name="QuarkXPress Document"	PUID="fmt/1443"	Version="3.0">	<InternalSignatureID>1803</InternalSignatureID></FileFormat>			
