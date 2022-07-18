@@ -43,13 +43,12 @@
 <FileFormat ID="56"	 	Name="AutoCAD Batch Plot File"	PUID="x-fmt/26"	Version="1.0-R14">		<Extension>bp2</Extension><Extension>bpl</Extension>		</FileFormat>
 <FileFormat ID="57"	 	Name="AutoCAD Batch Plot File"	PUID="x-fmt/27"	Version="2000-2005">		<Extension>bp3</Extension>		</FileFormat>
 <FileFormat ID="59"	 	Name="CALS Compressed Bitmap"	PUID="x-fmt/28">		<InternalSignatureID>343</InternalSignatureID>	<Extension>cal</Extension>		</FileFormat>
-<FileFormat ID="60"	 	Name="CorelDraw Drawing"	PUID="x-fmt/29"	Version="6.0">	<InternalSignatureID>374</InternalSignatureID>	<Extension>cdr</Extension>		</FileFormat>
+<FileFormat ID="60"	 	Name="CorelDraw Drawing"	PUID="x-fmt/29 / x-fmt/291 / x-fmt/292 / x-fmt/374 / x-fmt/375 / x-fmt/378 / x-fmt/379 / fmt/427 / fmt/428 / fmt/429 / fmt/430 / fmt/464 / fmt/465 / fmt/466 / fmt/467"	>		<Extension>cdr</Extension>		</FileFormat>
 <FileFormat ID="61"	 	Name="CorelDraw Template"	PUID="x-fmt/30">			<Extension>cdt</Extension>		</FileFormat>
 <FileFormat ID="62"	 	Name="CorelDraw Compressed Drawing"	PUID="x-fmt/31"	Version="1">	<InternalSignatureID>1788</InternalSignatureID>	<Extension>cdx</Extension><Extension>cjw</Extension>		</FileFormat>
 <FileFormat ID="63"	 	Name="Harvard Graphics Chart"	PUID="x-fmt/32"	Version="3.0">	<InternalSignatureID>454</InternalSignatureID>	<Extension>ch3</Extension>		</FileFormat>
-<FileFormat ID="64"	 	Name="Corel R.A.V.E."	PUID="x-fmt/33"	Version="1">	<InternalSignatureID>646</InternalSignatureID>	<Extension>clk</Extension>		</FileFormat>
-<FileFormat ID="65"	 	Name="Corel Presentation Exchange File"	PUID="x-fmt/34"	Version="5.0">	<InternalSignatureID>372</InternalSignatureID>	<Extension>cmx</Extension>		</FileFormat>
-<FileFormat ID="66"	 	Name="Corel Presentation Exchange File"	PUID="x-fmt/35"	Version="6 and Later">	<InternalSignatureID>731</InternalSignatureID>	<Extension>cmx</Extension>		</FileFormat>
+<FileFormat ID="64"	 	Name="Corel R.A.V.E."	PUID="x-fmt/33 / fmt/431 / fmt/432"	>		<Extension>clk</Extension>		</FileFormat>
+<FileFormat ID="65"	 	Name="Corel Presentation Exchange File"	PUID="x-fmt/34 / x-fmt/35"	>		<Extension>cmx</Extension>		</FileFormat>
 <FileFormat ID="67"	 	Name="CorelDraw Compressed Drawing"	PUID="x-fmt/36"	Version="2">	<InternalSignatureID>1789</InternalSignatureID>	<Extension>cpx</Extension>		</FileFormat>
 <FileFormat ID="68"	 	Name="AutoCAD Colour-Dependant Plot Style Table"	PUID="x-fmt/37">		<InternalSignatureID>329</InternalSignatureID>	<Extension>ctb</Extension>		</FileFormat>
 <FileFormat ID="69"	 	Name="AutoCAD Custom Dictionary"	PUID="x-fmt/38">			<Extension>cus</Extension>		</FileFormat>
@@ -293,8 +292,6 @@
 <FileFormat ID="437"	MIMEType="application/dec-dx."	Name="DEC Data Exchange File"	PUID="x-fmt/286">			<Extension>dx</Extension>		</FileFormat>
 <FileFormat ID="438"	 	Name="DEC WPS Plus Document"	PUID="x-fmt/287">			<Extension>wpl</Extension>		</FileFormat>
 <FileFormat ID="441"	 	Name="AMI Draw Vector Image"	PUID="x-fmt/290">		<InternalSignatureID>325</InternalSignatureID>	<Extension>sdw</Extension>		</FileFormat>
-<FileFormat ID="444"	 	Name="CorelDraw Drawing"	PUID="x-fmt/291"	Version="7.0">	<InternalSignatureID>375</InternalSignatureID>	<Extension>cdr</Extension>		</FileFormat>
-<FileFormat ID="445"	 	Name="CorelDraw Drawing"	PUID="x-fmt/292"	Version="8.0">	<InternalSignatureID>376</InternalSignatureID>	<Extension>cdr</Extension>		</FileFormat>
 <FileFormat ID="446"	MIMEType="application/vnd.hp-HPGL"	Name="Hewlett Packard Graphics Language"	PUID="x-fmt/293">			<Extension>hpgl</Extension>		</FileFormat>
 <FileFormat ID="447"	 	Name="Micrografx Draw"	PUID="x-fmt/294"	Version="3.0">	<InternalSignatureID>1697</InternalSignatureID>	<Extension>drw</Extension>	<HasPriorityOverFileFormatID>78</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>449</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="448"	 	Name="Micrografx Draw"	PUID="x-fmt/295"	Version="4.0">	<InternalSignatureID>1698</InternalSignatureID>	<Extension>drt</Extension><Extension>drw</Extension>	<HasPriorityOverFileFormatID>78</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>447</HasPriorityOverFileFormatID>	</FileFormat>
@@ -375,13 +372,11 @@
 <FileFormat ID="547"	 	Name="XYWrite for Windows Document"	PUID="x-fmt/371"	Version="4.0">		<Extension>xyw</Extension>		</FileFormat>
 <FileFormat ID="548"	 	Name="XYWrite Document"	PUID="x-fmt/372"	Version="III+">		<Extension>xyp</Extension>		</FileFormat>
 <FileFormat ID="549"	 	Name="XYWrite Document"	PUID="x-fmt/373"	Version="IV">		<Extension>xy4</Extension>		</FileFormat>
-<FileFormat ID="552"	 	Name="CorelDraw Drawing"	PUID="x-fmt/374"	Version="9.0">	<InternalSignatureID>377</InternalSignatureID>	<Extension>cdr</Extension>		</FileFormat>
-<FileFormat ID="553"	 	Name="CorelDraw Drawing"	PUID="x-fmt/375"	Version="10.0">	<InternalSignatureID>378</InternalSignatureID>	<Extension>cdr</Extension>		</FileFormat>
 <FileFormat ID="554"	 	Name="Paint Shop Pro Image"	PUID="x-fmt/376"	Version="8">	<InternalSignatureID>513</InternalSignatureID>	<Extension>pspimage</Extension>		</FileFormat>
 <FileFormat ID="555"	 	Name="Paint Shop Pro Image"	PUID="x-fmt/377"	Version="4.00">	<InternalSignatureID>509</InternalSignatureID>	<Extension>psp</Extension>		</FileFormat>
 <FileFormat ID="556"	 	Name="CorelDraw Drawing"	PUID="x-fmt/378"	Version="11.0">	<InternalSignatureID>379</InternalSignatureID>	<Extension>cdr</Extension>		</FileFormat>
 <FileFormat ID="557"	 	Name="CorelDraw Drawing"	PUID="x-fmt/379"	Version="3.0">	<InternalSignatureID>724</InternalSignatureID>	<Extension>cdr</Extension>		</FileFormat>
-<FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version="5.0">		<Extension>dbf</Extension>		</FileFormat>
+FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version="5.0">		<Extension>dbf</Extension>		</FileFormat>
 <FileFormat ID="559"	 	Name="Dia Graphics Format"	PUID="x-fmt/381">			<Extension>dia</Extension>		</FileFormat>
 <FileFormat ID="613" 	MIMEType="application/pdf"	Name="Acrobat PDF - Portable Document Format"	PUID="PDF"	>	<InternalSignatureID>123</InternalSignatureID>	<Extension>pdf</Extension>	</FileFormat>
 <FileFormat ID="619"	MIMEType="image/gif"	Name="Graphics Interchange Format"	PUID="fmt/3"	Version="87a">	<InternalSignatureID>18</InternalSignatureID>	<Extension>gif</Extension>		</FileFormat>
@@ -501,8 +496,6 @@
 <FileFormat ID="761"	 	Name="Drawing Interchange Binary Format"	PUID="fmt/54"	Version="1.0">	<InternalSignatureID>166</InternalSignatureID>	<Extension>dxb</Extension>		</FileFormat>
 <FileFormat ID="766"	MIMEType="image/vnd.dxf"	Name="Drawing Interchange File Format (ASCII)"	PUID="fmt/63"	Version="Generic">	<InternalSignatureID>115</InternalSignatureID>	<Extension>dxf</Extension>		</FileFormat>
 <FileFormat ID="767"	 	Name="OLE2 Compound Document Format"	PUID="fmt/111">		<InternalSignatureID>170</InternalSignatureID></FileFormat>			
-<FileFormat ID="768"	MIMEType="text/xml"	Name="DROID Signature File Format"	PUID="fmt/121"	Version="1.0">	<InternalSignatureID>175</InternalSignatureID>	<Extension>xml</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="769"	MIMEType="text/xml"	Name="DROID File Collection File Format"	PUID="fmt/120"	Version="1.0">	<InternalSignatureID>176</InternalSignatureID>	<Extension>xml</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="770" 	MIMEType="application/pdf"	Name="Acrobat PDF/A - Portable Document Format" PUID="PDFA1"	Version="1">	<InternalSignatureID>264</InternalSignatureID>	<Extension>pdf</Extension>	<HasPriorityOverFileFormatID>613</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="771"	MIMEType="application/postscript"	Name="PostScript"	PUID="x-fmt/406"	Version="2.0">	<InternalSignatureID>191</InternalSignatureID>	<Extension>ps</Extension>	<HasPriorityOverFileFormatID>1073</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="772"	MIMEType="application/postscript"	Name="PostScript"	PUID="x-fmt/407"	Version="2.1">	<InternalSignatureID>192</InternalSignatureID>	<Extension>ps</Extension>	<HasPriorityOverFileFormatID>1073</HasPriorityOverFileFormatID>	</FileFormat>
@@ -577,12 +570,8 @@
 <FileFormat ID="897"	 	Name="Microsoft Works Database for DOS"	PUID="fmt/169"	Version="1.05">		<Extension>wdb</Extension>		</FileFormat>
 <FileFormat ID="898"	 	Name="Microsoft Works Database for DOS"	PUID="fmt/170"	Version="1.12">		<Extension>wdb</Extension>		</FileFormat>
 <FileFormat ID="899"	 	Name="Microsoft Works Database for DOS"	PUID="fmt/171"	Version="2.0">		<Extension>wdb</Extension>		</FileFormat>
-<FileFormat ID="904"	 	Name="PrimeOCR"	PUID="fmt/183"	Version="3.0">	<InternalSignatureID>257</InternalSignatureID>	<Extension>pro</Extension>		</FileFormat>
-<FileFormat ID="905"	 	Name="PrimeOCR"	PUID="fmt/184"	Version="3.8">	<InternalSignatureID>256</InternalSignatureID>	<Extension>pro</Extension>		</FileFormat>
-<FileFormat ID="906"	 	Name="Prime OCR"	PUID="fmt/185"	Version="3.9">	<InternalSignatureID>255</InternalSignatureID>	<Extension>pro</Extension>		</FileFormat>
-<FileFormat ID="907"	 	Name="PrimeOCR"	PUID="fmt/186"	Version="4.0">	<InternalSignatureID>254</InternalSignatureID>	<Extension>pro</Extension>		</FileFormat>
-<FileFormat ID="908"	 	Name="PrimeOCR"	PUID="fmt/187"	Version="4.2">	<InternalSignatureID>253</InternalSignatureID>	<Extension>pro</Extension>		</FileFormat>
-<FileFormat ID="909"	 	Name="PrimeOCR"	PUID="fmt/188"	Version="4.3">	<InternalSignatureID>252</InternalSignatureID>	<Extension>pro</Extension>		</FileFormat>
+<FileFormat ID="904"	 	Name="PrimeOCR"	PUID="fmt/183 / fmt/184"	Version="3.8">	<InternalSignatureID>256</InternalSignatureID>	<Extension>pro</Extension>		</FileFormat>
+<FileFormat ID="906"	 	Name="Prime OCR"	PUID="fmt/185 / fmt/186 / fmt/187 / fmt/188"	>		<Extension>pro</Extension>		</FileFormat>
 <FileFormat ID="910"	 	Name="Microsoft Office Open XML"	PUID="fmt/189"	Version="2007 onwards">	<InternalSignatureID>258</InternalSignatureID><HasPriorityOverFileFormatID>382</HasPriorityOverFileFormatID>			</FileFormat>
 <FileFormat ID="912"	MIMEType="application/vnd.framemaker"	Name="Adobe FrameMaker Document"	PUID="fmt/190"	Version="5.0">	<InternalSignatureID>840</InternalSignatureID>	<Extension>fm</Extension>		</FileFormat>
 <FileFormat ID="916"	 	Name="Sony ARW RAW Image File"	PUID="fmt/191"	Version="1.x">	<InternalSignatureID>1508</InternalSignatureID>	<Extension>arw</Extension>	<HasPriorityOverFileFormatID>1099</HasPriorityOverFileFormatID>	</FileFormat>
@@ -668,19 +657,10 @@
 <FileFormat ID="1042"	 	Name="Autodesk Animator Pro FLIC"	PUID="fmt/298">		<InternalSignatureID>356</InternalSignatureID>	<Extension>flc</Extension>		</FileFormat>
 <FileFormat ID="1043"	 	Name="Autodesk Animator (FlicLib)"	PUID="fmt/299">		<InternalSignatureID>357</InternalSignatureID>	<Extension>fli</Extension>		</FileFormat>
 <FileFormat ID="1044"	 	Name="ChiWriter Document"	PUID="fmt/300"	Version="4">	<InternalSignatureID>358</InternalSignatureID>	<Extension>chi</Extension>		</FileFormat>
-<FileFormat ID="1045"	MIMEType="image/cgm"	Name="Computer Graphics Metafile ASCII"	PUID="fmt/301"	Version="3">	<InternalSignatureID>359</InternalSignatureID><InternalSignatureID>361</InternalSignatureID><InternalSignatureID>362</InternalSignatureID><InternalSignatureID>363</InternalSignatureID>	<Extension>cgm</Extension>		</FileFormat>
-<FileFormat ID="1047"	MIMEType="image/cgm"	Name="Computer Graphics Metafile ASCII"	PUID="fmt/302"	Version="4">	<InternalSignatureID>364</InternalSignatureID><InternalSignatureID>365</InternalSignatureID><InternalSignatureID>366</InternalSignatureID><InternalSignatureID>367</InternalSignatureID>	<Extension>cgm</Extension>		</FileFormat>
-<FileFormat ID="1048"	MIMEType="image/cgm; version=1"	Name="Computer Graphics Metafile (Binary)"	PUID="fmt/303"	Version="1">	<InternalSignatureID>368</InternalSignatureID>	<Extension>cgm</Extension>		</FileFormat>
-<FileFormat ID="1049"	MIMEType="image/cgm; version=2"	Name="Computer Graphics Metafile (Binary)"	PUID="fmt/304"	Version="2">	<InternalSignatureID>369</InternalSignatureID>	<Extension>cgm</Extension>		</FileFormat>
-<FileFormat ID="1050"	MIMEType="image/cgm; version=3"	Name="Computer Graphics Metafile (Binary)"	PUID="fmt/305"	Version="3">	<InternalSignatureID>370</InternalSignatureID>	<Extension>cgm</Extension>		</FileFormat>
-<FileFormat ID="1051"	MIMEType="image/cgm; version=4"	Name="Computer Graphics Metafile (Binary)"	PUID="fmt/306"	Version="4">	<InternalSignatureID>371</InternalSignatureID>	<Extension>cgm</Extension>		</FileFormat>
+<FileFormat ID="1045"	MIMEType="image/cgm"	Name="Computer Graphics Metafile"	PUID="fmt/301 / fmt/302 / fmt/303 / fmt/304 / fmt/305 / fmt/306"	>	<Extension>cgm</Extension>		</FileFormat>
 <FileFormat ID="1052"	MIMEType="application/qif"	Name="Quicken Interchange Format"	PUID="fmt/307">		<InternalSignatureID>399</InternalSignatureID>	<Extension>qif</Extension>		</FileFormat>
 <FileFormat ID="1053"	 	Name="Quicken Data Format"	PUID="fmt/308">		<InternalSignatureID>400</InternalSignatureID>	<Extension>qdf</Extension>		</FileFormat>
-<FileFormat ID="1054"	MIMEType="application/x-ofx"	Name="Open Financial Exchange"	PUID="fmt/309"	Version="1.02">	<InternalSignatureID>401</InternalSignatureID>	<Extension>ofx</Extension><Extension>qfx</Extension>		</FileFormat>
-<FileFormat ID="1055"	MIMEType="application/x-ofx"	Name="Open Financial Exchange"	PUID="fmt/310"	Version="1.03">	<InternalSignatureID>402</InternalSignatureID>	<Extension>ofx</Extension><Extension>qfx</Extension>		</FileFormat>
-<FileFormat ID="1056"	MIMEType="application/x-ofx"	Name="Open Financial Exchange"	PUID="fmt/311"	Version="1.6">	<InternalSignatureID>403</InternalSignatureID>	<Extension>ofx</Extension><Extension>qfx</Extension>		</FileFormat>
-<FileFormat ID="1057"	MIMEType="application/x-ofx"	Name="Open Financial Exchange"	PUID="fmt/312"	Version="2.0.3">	<InternalSignatureID>404</InternalSignatureID>	<Extension>ofx</Extension><Extension>qfx</Extension>		</FileFormat>
-<FileFormat ID="1058"	MIMEType="application/x-ofx"	Name="Open Financial Exchange"	PUID="fmt/313"	Version="2.1.1">	<InternalSignatureID>405</InternalSignatureID>	<Extension>ofx</Extension><Extension>qfx</Extension>		</FileFormat>
+<FileFormat ID="1054"	MIMEType="application/x-ofx"	Name="Open Financial Exchange"	PUID="fmt/309 / fmt/310 / fmt/311 / fmt/312 / fmt/313"	>		<Extension>ofx</Extension><Extension>qfx</Extension>		</FileFormat>
 <FileFormat ID="1059"	MIMEType="audio/prs.sid"	Name="Play SID Audio"	PUID="fmt/314"	Version="1">	<InternalSignatureID>406</InternalSignatureID>	<Extension>dxr</Extension><Extension>psid</Extension>		</FileFormat>
 <FileFormat ID="1060"	MIMEType="audio/prs.sid"	Name="Play SID Audio"	PUID="fmt/315"	Version="2">	<InternalSignatureID>407</InternalSignatureID>	<Extension>psid</Extension><Extension>sid</Extension>		</FileFormat>
 <FileFormat ID="1061"	MIMEType="audio/prs.sid"	Name="Real SID Audio"	PUID="fmt/316">		<InternalSignatureID>408</InternalSignatureID>	<Extension>sid</Extension>		</FileFormat>
@@ -787,12 +767,6 @@
 <FileFormat ID="1206"	 	Name="OpenDocument Database Format"	PUID="fmt/424"	Version="1.2">		<Extension>odb</Extension>	<HasPriorityOverFileFormatID>382</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>777</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>778</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1231</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1207"	 	Name="Video Object File (MPEG-2 subset)"	PUID="fmt/425">		<InternalSignatureID>636</InternalSignatureID>	<Extension>vob</Extension>	<HasPriorityOverFileFormatID>659</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>660</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1210"	 	Name="Harris Matrix"	PUID="fmt/426">		<InternalSignatureID>637</InternalSignatureID>	<Extension>hm</Extension>		</FileFormat>
-<FileFormat ID="1211"	 	Name="CorelDraw Drawing"	PUID="fmt/427"	Version="12.0">	<InternalSignatureID>638</InternalSignatureID>	<Extension>cdr</Extension>		</FileFormat>
-<FileFormat ID="1213"	 	Name="CorelDraw Drawing"	PUID="fmt/428"	Version="X3">	<InternalSignatureID>640</InternalSignatureID>	<Extension>cdr</Extension>		</FileFormat>
-<FileFormat ID="1215"	 	Name="CorelDraw Drawing"	PUID="fmt/429"	Version="X4">	<InternalSignatureID>642</InternalSignatureID>	<Extension>cdr</Extension>	<HasPriorityOverFileFormatID>382</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1216"	 	Name="CorelDraw Drawing"	PUID="fmt/430"	Version="X5">	<InternalSignatureID>644</InternalSignatureID>	<Extension>cdr</Extension>	<HasPriorityOverFileFormatID>382</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1217"	 	Name="Corel R.A.V.E."	PUID="fmt/431"	Version="2">	<InternalSignatureID>648</InternalSignatureID>	<Extension>clk</Extension>		</FileFormat>
-<FileFormat ID="1218"	 	Name="Corel R.A.V.E."	PUID="fmt/432"	Version="3">	<InternalSignatureID>650</InternalSignatureID>	<Extension>clk</Extension>		</FileFormat>
 <FileFormat ID="1220"	MIMEType="image/vnd.dxf"	Name="Drawing Interchange File Format (ASCII)"	PUID="fmt/433"	Version="2007/2008/2009">	<InternalSignatureID>689</InternalSignatureID>	<Extension>dxf</Extension>	<HasPriorityOverFileFormatID>766</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1221"	MIMEType="image/vnd.dwg"	Name="AutoCAD Drawing"	PUID="fmt/434"	Version="2010/2011/2012">	<InternalSignatureID>654</InternalSignatureID>	<Extension>dwg</Extension>	<HasPriorityOverFileFormatID>766</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1222"	MIMEType="image/vnd.dxf"	Name="Drawing Interchange File Format (ASCII)"	PUID="fmt/435"	Version="2010/2011/2012">	<InternalSignatureID>652</InternalSignatureID>	<Extension>dxf</Extension>	<HasPriorityOverFileFormatID>766</HasPriorityOverFileFormatID>	</FileFormat>
@@ -822,10 +796,6 @@
 <FileFormat ID="1248"	 	Name="Verity Collection Index Descriptor File"	PUID="fmt/461">		<InternalSignatureID>715</InternalSignatureID>	<Extension>ddd</Extension><Extension>did</Extension><Extension>pdd</Extension><Extension>wld</Extension>		</FileFormat>
 <FileFormat ID="1249"	 	Name="MS-DOS Compression Format (SZDD Variant)"	PUID="fmt/462">		<InternalSignatureID>718</InternalSignatureID></FileFormat>			
 <FileFormat ID="1250"	MIMEType="image/jpm"	Name="JPM (JPEG 2000 part 6)"	PUID="fmt/463">		<InternalSignatureID>721</InternalSignatureID>	<Extension>jpm</Extension>		</FileFormat>
-<FileFormat ID="1251"	 	Name="CorelDraw Drawing"	PUID="fmt/464"	Version="5.0">	<InternalSignatureID>723</InternalSignatureID>	<Extension>cdr</Extension>		</FileFormat>
-<FileFormat ID="1252"	 	Name="CorelDraw Drawing"	PUID="fmt/465"	Version="4.0">	<InternalSignatureID>722</InternalSignatureID>	<Extension>cdr</Extension>		</FileFormat>
-<FileFormat ID="1253"	 	Name="CorelDraw Drawing"	PUID="fmt/466"	Version="2.0">	<InternalSignatureID>725</InternalSignatureID>	<Extension>cdr</Extension>		</FileFormat>
-<FileFormat ID="1254"	 	Name="CorelDraw Drawing"	PUID="fmt/467"	Version="1.0">	<InternalSignatureID>726</InternalSignatureID>	<Extension>cdr</Extension>		</FileFormat>
 <FileFormat ID="1255"	 	Name="ISO Disk Image File"	PUID="fmt/468">		<InternalSignatureID>730</InternalSignatureID>	<Extension>iso</Extension>		</FileFormat>
 <FileFormat ID="1256"	 	Name="MS DOS Compression Format (KWAJ Variant)"	PUID="fmt/469">		<InternalSignatureID>733</InternalSignatureID></FileFormat>			
 <FileFormat ID="1257"	 	Name="Asymetrix Toolbook File"	PUID="fmt/470">		<InternalSignatureID>734</InternalSignatureID>	<Extension>sbk</Extension><Extension>tbk</Extension>		</FileFormat>
@@ -996,7 +966,6 @@
 <FileFormat ID="1459"	 	Name="Adobe Type 1 Mac Font File"	PUID="fmt/660">		<InternalSignatureID>992</InternalSignatureID></FileFormat>			
 <FileFormat ID="1460"	 	Name="Sigma RAW Image"	PUID="fmt/661">		<InternalSignatureID>993</InternalSignatureID>	<Extension>x3f</Extension>		</FileFormat>
 <FileFormat ID="1461"	 	Name="Panasonic Raw"	PUID="fmt/662">		<InternalSignatureID>994</InternalSignatureID>	<Extension>RW2</Extension>		</FileFormat>
-<FileFormat ID="1462"	 	Name="Industry Foundation Classes XML"	PUID="fmt/663">		<InternalSignatureID>995</InternalSignatureID>	<Extension>ifcXML</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1463"	MIMEType="application/vnd.gerber"	Name="Gerber Format"	PUID="fmt/664">			<Extension>gbr</Extension>		</FileFormat>
 <FileFormat ID="1464"	 	Name="Chasys Draw image file"	PUID="fmt/665">		<InternalSignatureID>997</InternalSignatureID>	<Extension>cd5</Extension>		</FileFormat>
 <FileFormat ID="1465"	 	Name="ART image format"	PUID="fmt/666">		<InternalSignatureID>998</InternalSignatureID>	<Extension>art</Extension>		</FileFormat>
@@ -1004,17 +973,7 @@
 <FileFormat ID="1467"	 	Name="Olympus RAW"	PUID="fmt/668">		<InternalSignatureID>999</InternalSignatureID><InternalSignatureID>1001</InternalSignatureID><InternalSignatureID>1002</InternalSignatureID>	<Extension>orf</Extension>		</FileFormat>
 <FileFormat ID="1468"	 	Name="Minolta RAW"	PUID="fmt/669">		<InternalSignatureID>1000</InternalSignatureID>	<Extension>mrw</Extension>		</FileFormat>
 <FileFormat ID="1469"	 	Name="PKCS #7 Cryptographic Message File"	PUID="fmt/670">		<InternalSignatureID>1003</InternalSignatureID>	<Extension>p7m</Extension>		</FileFormat>
-<FileFormat ID="1470"	 	Name="Serif PagePlus Publication"	PUID="fmt/671"	Version="Generic">		<Extension>ppp</Extension>		</FileFormat>
-<FileFormat ID="1471"	 	Name="Serif PagePlus Publication"	PUID="fmt/672"	Version="4">		<Extension>ppp</Extension>	<HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1472"	 	Name="Serif PagePlus Publication"	PUID="fmt/673"	Version="5">		<Extension>ppp</Extension>	<HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1473"	 	Name="Serif PagePlus Publication"	PUID="fmt/674"	Version="6">		<Extension>ppp</Extension>	<HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1474"	 	Name="Serif PagePlus Publication"	PUID="fmt/675"	Version="7">		<Extension>ppp</Extension>		</FileFormat>
-<FileFormat ID="1475"	 	Name="Serif PagePlus Publication"	PUID="fmt/676"	Version="8">		<Extension>ppp</Extension>	<HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1476"	 	Name="Serif PagePlus Publication"	PUID="fmt/677"	Version="9">		<Extension>ppp</Extension>	<HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1477"	 	Name="Serif PagePlus Publication"	PUID="fmt/678"	Version="10">		<Extension>ppp</Extension>	<HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1478"	 	Name="Serif PagePlus Publication"	PUID="fmt/679"	Version="11">		<Extension>ppp</Extension>	<HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1479"	 	Name="Serif PagePlus Publication"	PUID="fmt/680"	Version="12">		<Extension>ppp</Extension>	<HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1480"	 	Name="Serif PagePlus Publication"	PUID="fmt/681"	Version="Home Office">		<Extension>ppp</Extension>	<HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>	</FileFormat>
+<FileFormat ID="1470"	 	Name="Serif PagePlus Publication"	PUID="fmt/671 / fmt/672 / fmt/673 / fmt/674 / fmt/675 / fmt/676 / fmt/677 / fmt/678 / fmt/679 / fmt/680 / fmt/681 / fmt/1529 / fmt/1530 / fmt/1531 / fmt/1532 / fmt/1533 / fmt/1534 / fmt/1535 / fmt/1536 / fmt/1537"	>		<Extension>ppb</Extension><Extension>ppp</Extension><Extension>ppx</Extension><Extension>ppt</Extension>		</FileFormat>
 <FileFormat ID="1481"	MIMEType="application/vnd.microsoft.windows.thumbnail-cache"	Name="Thumbs DB file"	PUID="fmt/682"	Version="XP">		<Extension>db</Extension>		</FileFormat>
 <FileFormat ID="1482"	 	Name="Advanced Function Presentation"	PUID="fmt/683">		<InternalSignatureID>1004</InternalSignatureID>	<Extension>afp</Extension>		</FileFormat>
 <FileFormat ID="1483"	MIMEType="application/vnd.vectorworks"	Name="Vectorworks"	PUID="fmt/684"	Version="2015">	<InternalSignatureID>1010</InternalSignatureID>	<Extension>vwx</Extension>		</FileFormat>
@@ -1228,7 +1187,6 @@
 <FileFormat ID="1697"	 	Name="i2 Analysts Notebook"	PUID="fmt/893">			<Extension>anb</Extension>		</FileFormat>
 <FileFormat ID="1698"	 	Name="Gaussian Input Data File"	PUID="fmt/894">		<InternalSignatureID>1241</InternalSignatureID>	<Extension>gjf</Extension>		</FileFormat>
 <FileFormat ID="1699"	 	Name="JEOL NMR Spectroscopy"	PUID="fmt/895">		<InternalSignatureID>1242</InternalSignatureID><InternalSignatureID>1244</InternalSignatureID>	<Extension>jdf</Extension>		</FileFormat>
-<FileFormat ID="1700"	MIMEType="application/vnd.recordare.musicxml+xml"	Name="MusicXML"	PUID="fmt/896">		<InternalSignatureID>1243</InternalSignatureID>	<Extension>musicxml</Extension><Extension>xml</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1701"	MIMEType="application/vnd.recordare.musicxml"	Name="Compressed MusicXML"	PUID="fmt/897">			<Extension>mxl</Extension>		</FileFormat>
 <FileFormat ID="1702"	 	Name="Zoomify Image Format"	PUID="fmt/898">		<InternalSignatureID>1245</InternalSignatureID>	<Extension>zif</Extension>		</FileFormat>
 <FileFormat ID="1704"	MIMEType="application/vnd.microsoft.portable-executable"	Name="Windows Portable Executable"	PUID="fmt/899"	Version="32 bit">	<InternalSignatureID>1249</InternalSignatureID>	<Extension>dll</Extension><Extension>exe</Extension><Extension>sys</Extension>	<HasPriorityOverFileFormatID>774</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>775</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>776</HasPriorityOverFileFormatID>	</FileFormat>
@@ -1517,7 +1475,6 @@
 <FileFormat ID="1996"	 	Name="Dr. Halo Image Palette"	PUID="fmt/1186">		<InternalSignatureID>1567</InternalSignatureID>	<Extension>pal</Extension>		</FileFormat>
 <FileFormat ID="1997"	 	Name="Apple iWork Template"	PUID="fmt/1187"	Version="13">		<Extension>template</Extension>		</FileFormat>
 <FileFormat ID="1998"	 	Name="Ogre Mesh 1.x"	PUID="fmt/1188">		<InternalSignatureID>1568</InternalSignatureID>	<Extension>mesh</Extension>		</FileFormat>
-<FileFormat ID="1999"	 	Name="Ogre Mesh XML"	PUID="fmt/1189">		<InternalSignatureID>1569</InternalSignatureID>	<Extension>xml</Extension>		</FileFormat>
 <FileFormat ID="2000"	 	Name="Adobe SWC Package"	PUID="fmt/1190">			<Extension>swc</Extension>		</FileFormat>
 <FileFormat ID="2001"	 	Name="Adobe InDesign Book"	PUID="fmt/1191">			<Extension>indb</Extension>		</FileFormat>	
 <FileFormat ID="2002"	 	Name="Adobe InDesign Library"	PUID="fmt/1192 / fmt/1642"	>		<Extension>indl</Extension>		</FileFormat>	
@@ -1701,13 +1658,6 @@
 <FileFormat ID="2189"	 	Name="OmniPage Pro Document"	PUID="fmt/1371"	Version="10">		<Extension>opd</Extension>	<HasPriorityOverFileFormatID>2190</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2190"	 	Name="OmniPage Document"	PUID="fmt/1372"	Version="12">		<Extension>opd</Extension>		</FileFormat>
 <FileFormat ID="2191"	 	Name="OmniPage Document"	PUID="fmt/1373"	Version="18">		<Extension>opd</Extension>		</FileFormat>
-<FileFormat ID="2192"	 	Name="XDOMEA"	PUID="fmt/1374"	Version="1.0">	<InternalSignatureID>1752</InternalSignatureID>	<Extension>xml</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2193"	 	Name="XDOMEA"	PUID="fmt/1376"	Version="2.0.1">	<InternalSignatureID>1754</InternalSignatureID>	<Extension>xml</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2194"	 	Name="XDOMEA"	PUID="fmt/1375"	Version="2.0.0">	<InternalSignatureID>1753</InternalSignatureID>	<Extension>xml</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2195"	 	Name="XDOMEA"	PUID="fmt/1377"	Version="2.1.0">	<InternalSignatureID>1755</InternalSignatureID>	<Extension>xml</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2196"	 	Name="XDOMEA"	PUID="fmt/1378"	Version="2.2.0">	<InternalSignatureID>1756</InternalSignatureID>	<Extension>xml</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2197"	 	Name="XDOMEA"	PUID="fmt/1379"	Version="2.3.0">	<InternalSignatureID>1757</InternalSignatureID>	<Extension>xml</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2198"	 	Name="XDOMEA"	PUID="fmt/1380"	Version="2.4.0">	<InternalSignatureID>1758</InternalSignatureID><HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>			</FileFormat>
 <FileFormat ID="2199"	 	Name="VariCAD Drawing"	PUID="fmt/1381"	Version="7+">	<InternalSignatureID>1759</InternalSignatureID>	<Extension>dwb</Extension>		</FileFormat>
 <FileFormat ID="2200"	MIMEType="application/vnd.ms-fontobject"	Name="Embedded OpenType (EOT) File Format"	PUID="fmt/1382"	Version="0x00010000">	<InternalSignatureID>1760</InternalSignatureID>	<Extension>eot</Extension>		</FileFormat>
 <FileFormat ID="2201"	MIMEType="application/vnd.ms-fontobject"	Name="Embedded OpenType (EOT) File Format"	PUID="fmt/1383"	Version="0x00020001">	<InternalSignatureID>1761</InternalSignatureID>	<Extension>eot</Extension>		</FileFormat>
@@ -1799,10 +1749,7 @@
 <FileFormat ID="2294"	 	Name="Multi Palette Picture File"	PUID="fmt/1471">		<InternalSignatureID>1842</InternalSignatureID>	<Extension>mpp</Extension>		</FileFormat>
 <FileFormat ID="2295"	MIMEType=" application/vnd.msa-disk-image"	Name="Magic Shadow Archiver Disk Image File"	PUID="fmt/1472">		<InternalSignatureID>1843</InternalSignatureID>	<Extension>msa</Extension>		</FileFormat>
 <FileFormat ID="2296"	 	Name="Archimedes Tracker Module"	PUID="fmt/1473">		<InternalSignatureID>1844</InternalSignatureID>	<Extension>musx</Extension>		</FileFormat>
-<FileFormat ID="2297"	MIMEType="application/tei+xml"	Name="TEI P4 XML - Single Text File"	PUID="fmt/1474"	Version="P4">	<InternalSignatureID>1846</InternalSignatureID>	<Extension>odd</Extension><Extension>tei</Extension><Extension>xml</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2298"	MIMEType="application/tei+xml"	Name="TEI P4 XML - Corpus File"	PUID="fmt/1475"	Version="P4">	<InternalSignatureID>1847</InternalSignatureID>	<Extension>odd</Extension><Extension>tei</Extension><Extension>xml</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2299"	MIMEType="application/tei+xml"	Name="TEI P5 - Single Text File"	PUID="fmt/1476"	Version="P5">	<InternalSignatureID>1848</InternalSignatureID>	<Extension>odd</Extension><Extension>tei</Extension><Extension>xml</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2300"	MIMEType="application/tei+xml"	Name="TEI P5 XML - Corpus File"	PUID="fmt/1477"	Version="P5">	<InternalSignatureID>1849</InternalSignatureID>	<Extension>odd</Extension><Extension>tei</Extension><Extension>xml</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>2299</HasPriorityOverFileFormatID>	</FileFormat>
+<FileFormat ID="2297"	MIMEType="application/tei+xml"	Name="TEI P XML"	PUID="fmt/1474 / fmt/1475 / fmt/1476 / fmt/1477"	>		<Extension>odd</Extension><Extension>tei</Extension><Extension>xml</Extension>	</FileFormat>
 <FileFormat ID="2301"	 	Name="Unisig"	PUID="fmt/1478">		<InternalSignatureID>1850</InternalSignatureID></FileFormat>			
 <FileFormat ID="2302"	MIMEType="image/vnd.xiff"	Name="XIFF (Xerox Image File Format)"	PUID="fmt/1479"	Version="2">	<InternalSignatureID>1851</InternalSignatureID>	<Extension>xif</Extension>	<HasPriorityOverFileFormatID>1099</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2303"	MIMEType="image/vnd.xiff"	Name="XIFF (Xerox Image File Format)"	PUID="fmt/1480"	Version="3">	<InternalSignatureID>1852</InternalSignatureID>	<Extension>xif</Extension>	<HasPriorityOverFileFormatID>1099</HasPriorityOverFileFormatID>	</FileFormat>
@@ -1853,15 +1800,6 @@
 <FileFormat ID="2350"	 	Name="Serif DrawPlus Drawing"	PUID="fmt/1526"	Version="X6">		<Extension>dpa</Extension><Extension>dpp</Extension><Extension>dpx</Extension>	<HasPriorityOverFileFormatID>2352</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2351"	 	Name="Serif DrawPlus Drawing"	PUID="fmt/1527"	Version="X8">		<Extension>dpa</Extension><Extension>dpp</Extension><Extension>dpx</Extension>	<HasPriorityOverFileFormatID>2352</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2352"	 	Name="Serif DrawPlus Drawing"	PUID="fmt/1528"	Version="Generic">		<Extension>dpa</Extension><Extension>dpp</Extension>		</FileFormat>
-<FileFormat ID="2353"	 	Name="Serif PagePlus Publication"	PUID="fmt/1529"	Version="X3">		<Extension>ppb</Extension><Extension>ppp</Extension><Extension>ppx</Extension>	<HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2354"	 	Name="Serif PagePlus Publication"	PUID="fmt/1530"	Version="X4">		<Extension>ppb</Extension><Extension>ppp</Extension><Extension>ppx</Extension>	<HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2355"	 	Name="Serif PagePlus Publication"	PUID="fmt/1531"	Version="X5">		<Extension>ppb</Extension><Extension>ppp</Extension><Extension>ppx</Extension>	<HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2356"	 	Name="Serif PagePlus Publication"	PUID="fmt/1532"	Version="X6">		<Extension>ppb</Extension><Extension>ppp</Extension><Extension>ppx</Extension>	<HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2357"	 	Name="Serif PagePlus Publication"	PUID="fmt/1533"	Version="X7">		<Extension>ppb</Extension><Extension>ppp</Extension><Extension>ppx</Extension>	<HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2358"	 	Name="Serif PagePlus Publication"	PUID="fmt/1534"	Version="X8">		<Extension>ppb</Extension><Extension>ppp</Extension><Extension>ppx</Extension>	<HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2359"	 	Name="Serif PagePlus Publication"	PUID="fmt/1535"	Version="X9">		<Extension>ppb</Extension><Extension>ppp</Extension><Extension>ppx</Extension>	<HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2360"	 	Name="Serif PagePlus Publication"	PUID="fmt/1536"	Version="SE">		<Extension>ppb</Extension><Extension>ppp</Extension><Extension>ppx</Extension>	<HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2361"	 	Name="Serif PagePlus Publication"	PUID="fmt/1537"	Version="1-3">	<InternalSignatureID>1883</InternalSignatureID>	<Extension>ppp</Extension><Extension>ppt</Extension>	<HasPriorityOverFileFormatID>1470</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2362"	 	Name="CompuServe RLE"	PUID="fmt/1538">		<InternalSignatureID>1884</InternalSignatureID>	<Extension>rle</Extension>		</FileFormat>
 <FileFormat ID="2363"	 	Name="Raster Matrix Format"	PUID="fmt/1539">		<InternalSignatureID>1885</InternalSignatureID>	<Extension>rsw</Extension>		</FileFormat>
 <FileFormat ID="2364"	 	Name="NeoDisk Icon File"	PUID="fmt/1540"	Version="3">	<InternalSignatureID>1886</InternalSignatureID>	<Extension>nic</Extension>		</FileFormat>
