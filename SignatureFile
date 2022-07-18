@@ -754,8 +754,7 @@
 <FileFormat ID="1234"	 	Name="Adobe Portable Document Catalog Index File"	PUID="fmt/447"	Version="3.0">	<InternalSignatureID>699</InternalSignatureID>	<Extension>pdx</Extension>		</FileFormat>
 <FileFormat ID="1235"	 	Name="Adobe Portable Document Catalog Index File"	PUID="fmt/448"	Version="3.1">	<InternalSignatureID>700</InternalSignatureID><InternalSignatureID>701</InternalSignatureID>	<Extension>pdx</Extension>		</FileFormat>
 <FileFormat ID="1236"	 	Name="Adobe Portable Document Catalog Index File"	PUID="fmt/449"	Version="3.2">	<InternalSignatureID>702</InternalSignatureID><InternalSignatureID>703</InternalSignatureID>	<Extension>pdx</Extension>		</FileFormat>
-<FileFormat ID="1237"	MIMEType="application/vnd.vectorworks"	Name="VectorWorks"	PUID="fmt/450"	Version="12.5">	<InternalSignatureID>704</InternalSignatureID><InternalSignatureID>1009</InternalSignatureID>	<Extension>vwx</Extension>		</FileFormat>
-<FileFormat ID="1238"	MIMEType="application/vnd.vectorworks"	Name="VectorWorks"	PUID="fmt/451"	Version="2009">	<InternalSignatureID>705</InternalSignatureID>	<Extension>vwx</Extension>		</FileFormat>
+<FileFormat ID="1237"	MIMEType="application/vnd.vectorworks"	Name="VectorWorks / MiniCAD"	PUID="fmt/450 / fmt/451 / fmt/684 / fmt/686 / fmt/1136 / fmt/1137 / fmt/1138 / fmt/1139 / fmt/1140 / fmt/1141"	>		<Extension>vwx</Extension><Extension>mcd</Extension>		</FileFormat>
 <FileFormat ID="1239"	 	Name="Acrobat Catalog Cat File"	PUID="fmt/452">		<InternalSignatureID>706</InternalSignatureID>	<Extension>cat</Extension>		</FileFormat>
 <FileFormat ID="1240"	 	Name="Verity Collection Stop List"	PUID="fmt/453">		<InternalSignatureID>707</InternalSignatureID>	<Extension>stp</Extension>		</FileFormat>
 <FileFormat ID="1241"	 	Name="Verity Collection Index About File"	PUID="fmt/454">		<InternalSignatureID>708</InternalSignatureID>	<Extension>abt</Extension>		</FileFormat>
@@ -862,10 +861,7 @@
 <FileFormat ID="1394"	 	Name="Statistical Analysis System Catalogue XPT (Unix)"	PUID="fmt/602"	Version="9.1">	<InternalSignatureID>939</InternalSignatureID>	<Extension>xpt</Extension>		</FileFormat>
 <FileFormat ID="1395"	 	Name="Statistical Analysis System Data XPT (Windows)"	PUID="fmt/603"	Version="9.1">	<InternalSignatureID>940</InternalSignatureID>	<Extension>xpt</Extension>		</FileFormat>
 <FileFormat ID="1396"	 	Name="Statistical Analysis System Data XPT (Unix)"	PUID="fmt/604"	Version="9.1">	<InternalSignatureID>941</InternalSignatureID>	<Extension>xpt</Extension>		</FileFormat>
-<FileFormat ID="1397"	 	Name="Statistical Analysis System Catalog (Windows)"	PUID="fmt/605"	Version="9.1">	<InternalSignatureID>942</InternalSignatureID>	<Extension>sas7bcat</Extension><Extension>sc7</Extension>	<HasPriorityOverFileFormatID>1828</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1398"	 	Name="Statistical Analysis System Catalog (Unix)"	PUID="fmt/606"	Version="9.1">	<InternalSignatureID>943</InternalSignatureID>	<Extension>sas7bcat</Extension><Extension>sc7</Extension>	<HasPriorityOverFileFormatID>1829</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1399"	 	Name="Statistical Analysis System Data (Windows)"	PUID="fmt/607"	Version="9.1">	<InternalSignatureID>944</InternalSignatureID>	<Extension>sas7bdat</Extension><Extension>sd7</Extension>	<HasPriorityOverFileFormatID>1820</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1400"	 	Name="Statistical Analysis System Data (Unix)"	PUID="fmt/608"	Version="9.1">	<InternalSignatureID>945</InternalSignatureID>	<Extension>sas7bdat</Extension><Extension>sd7</Extension>	<HasPriorityOverFileFormatID>1821</HasPriorityOverFileFormatID>	</FileFormat>
+<FileFormat ID="1397"	 	Name="Statistical Analysis System"	PUID="fmt/605 / fmt/606 / fmt/607 / fmt/608 / fmt/1015 / fmt/1016 / fmt/1017 / fmt/1018 / fmt/1019 / fmt/1020 / fmt/1021 / fmt/1022 / fmt/1023 / fmt/1024 / fmt/1025 / fmt/1026 / fmt/1027 / fmt/1028"	>		<Extension>sas7bcat</Extension><Extension>sc7</Extension><Extension>sas7bdat</Extension><Extension>sd7</Extension>	<HasPriorityOverFileFormatID>1828</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1401"	MIMEType="application/msword"	Name="Microsoft Word (Generic)"	PUID="fmt/609"	Version="6.0-2003">		<Extension>doc</Extension>		</FileFormat>
 <FileFormat ID="1406"	 	Name="ARJ File Format"	PUID="fmt/610">		<InternalSignatureID>946</InternalSignatureID>	<Extension>arj</Extension>		</FileFormat>
 <FileFormat ID="1407"	 	Name="LDAP Data Interchange Format"	PUID="fmt/611">		<InternalSignatureID>947</InternalSignatureID>	<Extension>ldif</Extension>		</FileFormat>
@@ -926,8 +922,6 @@
 <FileFormat ID="1470"	 	Name="Serif PagePlus Publication"	PUID="fmt/671 / fmt/672 / fmt/673 / fmt/674 / fmt/675 / fmt/676 / fmt/677 / fmt/678 / fmt/679 / fmt/680 / fmt/681 / fmt/1529 / fmt/1530 / fmt/1531 / fmt/1532 / fmt/1533 / fmt/1534 / fmt/1535 / fmt/1536 / fmt/1537"	>		<Extension>ppb</Extension><Extension>ppp</Extension><Extension>ppx</Extension><Extension>ppt</Extension>		</FileFormat>
 <FileFormat ID="1481"	MIMEType="application/vnd.microsoft.windows.thumbnail-cache"	Name="Thumbs DB file"	PUID="fmt/682"	Version="XP">		<Extension>db</Extension>		</FileFormat>
 <FileFormat ID="1482"	 	Name="Advanced Function Presentation"	PUID="fmt/683">		<InternalSignatureID>1004</InternalSignatureID>	<Extension>afp</Extension>		</FileFormat>
-<FileFormat ID="1483"	MIMEType="application/vnd.vectorworks"	Name="Vectorworks"	PUID="fmt/684"	Version="2015">	<InternalSignatureID>1010</InternalSignatureID>	<Extension>vwx</Extension>		</FileFormat>
-<FileFormat ID="1485"	MIMEType="application/vnd.vectorworks"	Name="Vectorworks"	PUID="fmt/686"	Version="2010">	<InternalSignatureID>1013</InternalSignatureID>	<Extension>vwx</Extension>		</FileFormat>
 <FileFormat ID="1486"	 	Name="Better Portable Graphics"	PUID="fmt/687">		<InternalSignatureID>1014</InternalSignatureID>	<Extension>bpg</Extension>		</FileFormat>
 <FileFormat ID="1487"	 	Name="Executable and Linkable Format"	PUID="fmt/688"	Version="32bit Little Endian">	<InternalSignatureID>1015</InternalSignatureID>	<Extension>elf</Extension><Extension>o</Extension>		</FileFormat>
 <FileFormat ID="1488"	 	Name="Executable and Linkable Format"	PUID="fmt/689"	Version="32bit Big Endian">	<InternalSignatureID>1016</InternalSignatureID>	<Extension>elf</Extension><Extension>o</Extension>		</FileFormat>
@@ -1200,11 +1194,7 @@
 <FileFormat ID="1804"	MIMEType="application/x-krita"	Name="Krita Document Format"	PUID="fmt/999">			<Extension>kra</Extension>		</FileFormat>
 <FileFormat ID="1805"	 	Name="TZX Format"	PUID="fmt/1000">		<InternalSignatureID>1363</InternalSignatureID>	<Extension>tzx</Extension>		</FileFormat>
 <FileFormat ID="1806"	MIMEType="image/x-exr"	Name="OpenEXR"	PUID="fmt/1001"	Version="2">	<InternalSignatureID>1364</InternalSignatureID>	<Extension>exr</Extension>		</FileFormat>
-<FileFormat ID="1807"	 	Name="Nearly Raw Raster Data"	PUID="fmt/1002"	Version="1">	<InternalSignatureID>1357</InternalSignatureID>	<Extension>nrrd</Extension>		</FileFormat>
-<FileFormat ID="1808"	 	Name="Nearly Raw Raster Data"	PUID="fmt/1003"	Version="2">	<InternalSignatureID>1358</InternalSignatureID>	<Extension>nrrd</Extension>		</FileFormat>
-<FileFormat ID="1809"	 	Name="Nearly Raw Raster Data"	PUID="fmt/1004"	Version="3">	<InternalSignatureID>1359</InternalSignatureID>	<Extension>nrrd</Extension>		</FileFormat>
-<FileFormat ID="1810"	 	Name="Nearly Raw Raster Data"	PUID="fmt/1005"	Version="4">	<InternalSignatureID>1360</InternalSignatureID>	<Extension>nrrd</Extension>		</FileFormat>
-<FileFormat ID="1811"	 	Name="Nearly Raw Raster Data"	PUID="fmt/1006"	Version="5">	<InternalSignatureID>1361</InternalSignatureID>	<Extension>nrrd</Extension>		</FileFormat>
+<FileFormat ID="1807"	 	Name="Nearly Raw Raster Data"	PUID="fmt/1002 / fmt/1003 / fmt/1004 / fmt/1005 / fmt/1006"	>		<Extension>nrrd</Extension>		</FileFormat>
 <FileFormat ID="1812"	 	Name="Digital Speech Standard"	PUID="fmt/1007">		<InternalSignatureID>1365</InternalSignatureID>	<Extension>dss</Extension>		</FileFormat>
 <FileFormat ID="1813"	 	Name="DSS Pro"	PUID="fmt/1008">		<InternalSignatureID>1366</InternalSignatureID>	<Extension>ds2</Extension>		</FileFormat>
 <FileFormat ID="1815"	 	Name="FBX (Filmbox) Text"	PUID="fmt/1010">		<InternalSignatureID>1382</InternalSignatureID>	<Extension>fbx</Extension>		</FileFormat>
@@ -1212,29 +1202,7 @@
 <FileFormat ID="1817"	 	Name="INTERLIS Model File"	PUID="fmt/1012"	Version="2.2">	<InternalSignatureID>1385</InternalSignatureID>	<Extension>ili</Extension>		</FileFormat>
 <FileFormat ID="1818"	 	Name="INTERLIS Transfer File"	PUID="fmt/1013"	Version="1">	<InternalSignatureID>1386</InternalSignatureID>	<Extension>itf</Extension>		</FileFormat>
 <FileFormat ID="1819"	 	Name="INTERLIS Model File"	PUID="fmt/1014"	Version="1">	<InternalSignatureID>1387</InternalSignatureID>	<Extension>ili</Extension>		</FileFormat>
-<FileFormat ID="1820"	 	Name="Statistical Analysis System Data (Windows)"	PUID="fmt/1015"	Version="Generic">	<InternalSignatureID>1378</InternalSignatureID>	<Extension>sas7bdat</Extension><Extension>sd7</Extension>		</FileFormat>
-<FileFormat ID="1821"	 	Name="Statistical Analysis System Data (Unix)"	PUID="fmt/1016"	Version="Generic">	<InternalSignatureID>1377</InternalSignatureID>	<Extension>sas7bdat</Extension><Extension>sd7</Extension>		</FileFormat>
-<FileFormat ID="1822"	 	Name="Statistical Analysis System Data (Windows)"	PUID="fmt/1017"	Version="8.2">	<InternalSignatureID>1373</InternalSignatureID>	<Extension>sas7bdat</Extension><Extension>sd7</Extension>	<HasPriorityOverFileFormatID>1820</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1823"	 	Name="Statistical Analysis System Data (Unix)"	PUID="fmt/1018"	Version="8.2">	<InternalSignatureID>1376</InternalSignatureID>	<Extension>sas7bdat</Extension><Extension>sd7</Extension>	<HasPriorityOverFileFormatID>1821</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1824"	 	Name="Statistical Analysis System Data (Windows)"	PUID="fmt/1019"	Version="9.2">	<InternalSignatureID>1371</InternalSignatureID>	<Extension>sas7bdat</Extension><Extension>sd7</Extension>	<HasPriorityOverFileFormatID>1820</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1825"	 	Name="Statistical Analysis System Data (Unix)"	PUID="fmt/1020"	Version="9.2">	<InternalSignatureID>1374</InternalSignatureID>	<Extension>sas7bdat</Extension><Extension>sd7</Extension>	<HasPriorityOverFileFormatID>1821</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1826"	 	Name="Statistical Analysis System Data (Windows)"	PUID="fmt/1021"	Version="9.3">	<InternalSignatureID>1372</InternalSignatureID>	<Extension>sas7bdat</Extension><Extension>sd7</Extension>	<HasPriorityOverFileFormatID>1820</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1827"	 	Name="Statistical Analysis System Data (Unix)"	PUID="fmt/1022"	Version="9.3">	<InternalSignatureID>1375</InternalSignatureID>	<Extension>sas7bdat</Extension><Extension>sd7</Extension>	<HasPriorityOverFileFormatID>1821</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1828"	 	Name="Statistical Analysis System Catalog (Windows)"	PUID="fmt/1023"	Version="Generic">	<InternalSignatureID>1380</InternalSignatureID>	<Extension>sas7bcat</Extension><Extension>sc7</Extension>		</FileFormat>
-<FileFormat ID="1829"	 	Name="Statistical Analysis System Catalog (Unix)"	PUID="fmt/1024"	Version="Generic">	<InternalSignatureID>1379</InternalSignatureID>	<Extension>sas7bcat</Extension><Extension>sc7</Extension>		</FileFormat>
-<FileFormat ID="1830"	 	Name="Statistical Analysis System Catalog (Windows)"	PUID="fmt/1025"	Version="9.2">	<InternalSignatureID>1367</InternalSignatureID>	<Extension>sas7bcat</Extension><Extension>sc7</Extension>	<HasPriorityOverFileFormatID>1828</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1831"	 	Name="Statistical Analysis System Catalog (Unix)"	PUID="fmt/1026"	Version="9.2">	<InternalSignatureID>1369</InternalSignatureID>	<Extension>sas7bcat</Extension><Extension>sc7</Extension>	<HasPriorityOverFileFormatID>1829</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1832"	 	Name="Statistical Analysis System Catalog (Windows)"	PUID="fmt/1027"	Version="9.3">	<InternalSignatureID>1368</InternalSignatureID>	<Extension>sas7bcat</Extension><Extension>sc7</Extension>	<HasPriorityOverFileFormatID>1828</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1833"	 	Name="Statistical Analysis System Catalog (Unix)"	PUID="fmt/1028"	Version="9.3">	<InternalSignatureID>1370</InternalSignatureID>	<Extension>sas7bcat</Extension><Extension>sc7</Extension>	<HasPriorityOverFileFormatID>1829</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1834"	 	Name="Stata Data (DTA) Format"	PUID="fmt/1029"	Version="104">	<InternalSignatureID>1388</InternalSignatureID>	<Extension>dta</Extension>		</FileFormat>
-<FileFormat ID="1835"	 	Name="Stata Data (DTA) Format"	PUID="fmt/1030"	Version="105">	<InternalSignatureID>1389</InternalSignatureID>	<Extension>dta</Extension>		</FileFormat>
-<FileFormat ID="1836"	 	Name="Stata Data (DTA) Format"	PUID="fmt/1031"	Version="110">	<InternalSignatureID>1390</InternalSignatureID>	<Extension>dta</Extension>		</FileFormat>
-<FileFormat ID="1837"	 	Name="Stata Data (DTA) Format"	PUID="fmt/1032"	Version="111">	<InternalSignatureID>1391</InternalSignatureID>	<Extension>dta</Extension>		</FileFormat>
-<FileFormat ID="1838"	 	Name="Stata Data (DTA) Format"	PUID="fmt/1034"	Version="114">	<InternalSignatureID>1393</InternalSignatureID>	<Extension>dta</Extension>		</FileFormat>
-<FileFormat ID="1839"	 	Name="Stata Data (DTA) Format"	PUID="fmt/1033"	Version="113">	<InternalSignatureID>1392</InternalSignatureID>	<Extension>dta</Extension>		</FileFormat>
-<FileFormat ID="1840"	 	Name="Stata Data (DTA) Format"	PUID="fmt/1035"	Version="115">	<InternalSignatureID>1394</InternalSignatureID>	<Extension>dta</Extension>		</FileFormat>
-<FileFormat ID="1841"	 	Name="Stata Data (DTA) Format"	PUID="fmt/1036"	Version="117">	<InternalSignatureID>1395</InternalSignatureID>	<Extension>dta</Extension>		</FileFormat>
-<FileFormat ID="1842"	 	Name="Stata Data (DTA) Format"	PUID="fmt/1037"	Version="118">	<InternalSignatureID>1396</InternalSignatureID>	<Extension>dta</Extension>		</FileFormat>
+<FileFormat ID="1834"	 	Name="Stata Data (DTA) Format"	PUID="fmt/1029 / fmt/1030 / fmt/1031 / fmt/1032 / fmt/1034 / fmt/1033 / fmt/1035 / fmt/1036 / fmt/1037"	>		<Extension>dta</Extension>		</FileFormat>
 <FileFormat ID="1843"	 	Name="Redcode RAW (R3D) Media File"	PUID="fmt/1038"	Version="2">	<InternalSignatureID>1397</InternalSignatureID>	<Extension>r3d</Extension>		</FileFormat>
 <FileFormat ID="1844"	 	Name="Redcode Metadata (RMD) File"	PUID="fmt/1039">		<InternalSignatureID>1398</InternalSignatureID>	<Extension>rmd</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1845"	 	Name="DirectDraw Surface"	PUID="fmt/1040">		<InternalSignatureID>1399</InternalSignatureID>	<Extension>dds</Extension>		</FileFormat>
@@ -1313,12 +1281,6 @@
 <FileFormat ID="1943"	 	Name="Farbfeld Image Format"	PUID="fmt/1133">		<InternalSignatureID>1515</InternalSignatureID>	<Extension>ff</Extension>		</FileFormat>
 <FileFormat ID="1944"	 	Name="GPS Exchange Format"	PUID="fmt/1134"	Version="1.1">	<InternalSignatureID>1516</InternalSignatureID>	<Extension>gpx</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1945"	 	Name="SQLite Database File Format"	PUID="fmt/1135"	Version="2">	<InternalSignatureID>1517</InternalSignatureID>	<Extension>db</Extension><Extension>sqlite</Extension>		</FileFormat>
-<FileFormat ID="1946"	MIMEType="application/vnd.vectorworks"	Name="MiniCAD"	PUID="fmt/1136"	Version="6">	<InternalSignatureID>1518</InternalSignatureID>	<Extension>mcd</Extension>		</FileFormat>
-<FileFormat ID="1947"	MIMEType="application/vnd.vectorworks"	Name="MiniCAD"	PUID="fmt/1137"	Version="7">	<InternalSignatureID>1519</InternalSignatureID>	<Extension>mcd</Extension>		</FileFormat>
-<FileFormat ID="1948"	MIMEType="application/vnd.vectorworks"	Name="MiniCAD/VectorWorks"	PUID="fmt/1138"	Version="8">	<InternalSignatureID>1520</InternalSignatureID>	<Extension>mcd</Extension><Extension>vwx</Extension>		</FileFormat>
-<FileFormat ID="1949"	MIMEType="application/vnd.vectorworks"	Name="VectorWorks"	PUID="fmt/1139"	Version="9">	<InternalSignatureID>1521</InternalSignatureID>	<Extension>vwx</Extension>		</FileFormat>
-<FileFormat ID="1950"	MIMEType="application/vnd.vectorworks"	Name="VectorWorks"	PUID="fmt/1140"	Version="10">	<InternalSignatureID>1522</InternalSignatureID>	<Extension>vwx</Extension>		</FileFormat>
-<FileFormat ID="1951"	MIMEType="application/vnd.vectorworks"	Name="VectorWorks"	PUID="fmt/1141"	Version="11">	<InternalSignatureID>1523</InternalSignatureID>	<Extension>vwx</Extension>		</FileFormat>
 <FileFormat ID="1952"	MIMEType="application/vnd.vectorworks"	Name="VectorWorks Plugin or Script"	PUID="fmt/1142">		<InternalSignatureID>1524</InternalSignatureID>	<Extension>vsm</Extension><Extension>vso</Extension><Extension>vst</Extension>		</FileFormat>
 <FileFormat ID="1953"	 	Name="ZISRAW (CZI) File Format"	PUID="fmt/1143">		<InternalSignatureID>1525</InternalSignatureID>	<Extension>czi</Extension>		</FileFormat>
 <FileFormat ID="1954"	 	Name="CompuServe WinCIM Message Format"	PUID="fmt/1144">		<InternalSignatureID>1526</InternalSignatureID>	<Extension>msg</Extension><Extension>plx</Extension>		</FileFormat>
@@ -1329,9 +1291,7 @@
 <FileFormat ID="1959"	MIMEType="text/markdown"	Name="Markdown"	PUID="fmt/1149">			<Extension>md</Extension>		</FileFormat>
 <FileFormat ID="1960"	 	Name="4X Movie File"	PUID="fmt/1150">		<InternalSignatureID>1531</InternalSignatureID>	<Extension>4xa</Extension><Extension>4xm</Extension>		</FileFormat>
 <FileFormat ID="1961"	 	Name="Lightwright Show File"	PUID="fmt/1151 / fmt/1152 / fmt/1153 / fmt/1154 / fmt/1155 / fmt/1156"	>		<Extension>lw</Extension><Extension>lw1</Extension><Extension>lw2</Extension><Extension>lw3</Extension><Extension>lw4</Extension><Extension>lw5</Extension><Extension>lw6</Extension>		</FileFormat>
-<FileFormat ID="1967"	 	Name="Folio Infobase File"	PUID="fmt/1157"	Version="2">	<InternalSignatureID>1539</InternalSignatureID>	<Extension>nfo</Extension>		</FileFormat>
-<FileFormat ID="1968"	 	Name="Folio Infobase File"	PUID="fmt/1158"	Version="3">	<InternalSignatureID>1540</InternalSignatureID>	<Extension>nfo</Extension>		</FileFormat>
-<FileFormat ID="1969"	 	Name="Folio Infobase File"	PUID="fmt/1159"	Version="4">	<InternalSignatureID>1541</InternalSignatureID>	<Extension>nfo</Extension>		</FileFormat>
+<FileFormat ID="1967"	 	Name="Folio Infobase File"	PUID="fmt/1157" / fmt/1158 / fmt/1159"	>		<Extension>nfo</Extension>		</FileFormat>
 <FileFormat ID="1970"	 	Name="Folio Shadow File"	PUID="fmt/1160"	Version="3">	<InternalSignatureID>1542</InternalSignatureID>	<Extension>sdw</Extension>		</FileFormat>
 <FileFormat ID="1971"	 	Name="Folio Shadow File"	PUID="fmt/1161"	Version="4">	<InternalSignatureID>1543</InternalSignatureID>	<Extension>sdw</Extension>		</FileFormat>
 <FileFormat ID="1972"	 	Name="Folio Flat File"	PUID="fmt/1162">		<InternalSignatureID>1544</InternalSignatureID>	<Extension>fff</Extension>		</FileFormat>
@@ -1414,8 +1374,7 @@
 <FileFormat ID="2093"	 	Name="3M Printscape"	PUID="fmt/1275"	Version="2">	<InternalSignatureID>1650</InternalSignatureID><InternalSignatureID>1651</InternalSignatureID>	<Extension>psc</Extension>		</FileFormat>
 <FileFormat ID="2094"	 	Name="SureThing Project File"	PUID="fmt/1276">		<InternalSignatureID>1652</InternalSignatureID>	<Extension>std</Extension>		</FileFormat>
 <FileFormat ID="2095"	 	Name="Cindex Document"	PUID="fmt/1277"	Version="2">	<InternalSignatureID>1653</InternalSignatureID>	<Extension>cdx</Extension><Extension>tpl</Extension>		</FileFormat>
-<FileFormat ID="2096"	 	Name="Cindex Document"	PUID="fmt/1278"	Version="3">	<InternalSignatureID>1654</InternalSignatureID>	<Extension>ucdx</Extension><Extension>utpl</Extension>		</FileFormat>
-<FileFormat ID="2097"	 	Name="Cindex Document"	PUID="fmt/1279"	Version="4">	<InternalSignatureID>1655</InternalSignatureID>	<Extension>ucdx</Extension><Extension>utpl</Extension>		</FileFormat>
+<FileFormat ID="2096"	 	Name="Cindex Document"	PUID="fmt/1278 / fmt/1279"	>		<Extension>ucdx</Extension><Extension>utpl</Extension>		</FileFormat>
 <FileFormat ID="2098"	 	Name="NCH Dictation Audio File"	PUID="fmt/1280">		<InternalSignatureID>1656</InternalSignatureID>	<Extension>dct</Extension>	<HasPriorityOverFileFormatID>687</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2099"	MIMEType="application/warc"	Name="WARC"	PUID="fmt/1281"	Version="1.1">	<InternalSignatureID>1661</InternalSignatureID>	<Extension>warc</Extension>	<HasPriorityOverFileFormatID>639</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>640</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>641</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>642</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>643</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>644</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>645</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1029</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1258</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2100"	 	Name="PFS:First Choice Document"	PUID="fmt/1282"	Version="1-2">	<InternalSignatureID>1662</InternalSignatureID>	<Extension>doc</Extension>		</FileFormat>
@@ -1473,8 +1432,7 @@
 <FileFormat ID="2171"	 	Name="FamilyTree Maker Database"	PUID="fmt/1353"	Version="5-16">		<Extension>fbk</Extension><Extension>ftw</Extension>		</FileFormat>
 <FileFormat ID="2172"	 	Name="QuickBooks Backup File"	PUID="fmt/1354">		<InternalSignatureID>1737</InternalSignatureID>	<Extension>qbb</Extension>		</FileFormat>
 <FileFormat ID="2173"	MIMEType="application/warc"	Name="WARC"	PUID="fmt/1355"	Version="1.0">	<InternalSignatureID>1738</InternalSignatureID>	<Extension>warc</Extension>	<HasPriorityOverFileFormatID>639</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>640</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>641</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>642</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>643</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>644</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>645</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1029</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1258</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2174"	 	Name="Virtual Format (Raster)"	PUID="fmt/1356">		<InternalSignatureID>1739</InternalSignatureID>	<Extension>vrt</Extension>		</FileFormat>
-<FileFormat ID="2175"	 	Name="Virtual Format (Vector)"	PUID="fmt/1357">		<InternalSignatureID>1740</InternalSignatureID>	<Extension>vrt</Extension>		</FileFormat>
+<FileFormat ID="2174"	 	Name="Virtual Format"	PUID="fmt/1356 / fmt/1357">			<Extension>vrt</Extension>		</FileFormat>
 <FileFormat ID="2176"	 	Name="MicroStation Base File"	PUID="fmt/1358">		<InternalSignatureID>1741</InternalSignatureID>	<Extension>bse</Extension>	<HasPriorityOverFileFormatID>2374</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2177"	 	Name="Softdisk Text Compressor"	PUID="fmt/1359">		<InternalSignatureID>1742</InternalSignatureID>	<Extension>ctx</Extension>		</FileFormat>
 <FileFormat ID="2178"	 	Name="Picture Publisher Bitmap"	PUID="fmt/1360"	Version="6-10">		<Extension>ppf</Extension>		</FileFormat>
@@ -1492,9 +1450,7 @@
 <FileFormat ID="2190"	 	Name="OmniPage Document"	PUID="fmt/1372"	Version="12">		<Extension>opd</Extension>		</FileFormat>
 <FileFormat ID="2191"	 	Name="OmniPage Document"	PUID="fmt/1373"	Version="18">		<Extension>opd</Extension>		</FileFormat>
 <FileFormat ID="2199"	 	Name="VariCAD Drawing"	PUID="fmt/1381"	Version="7+">	<InternalSignatureID>1759</InternalSignatureID>	<Extension>dwb</Extension>		</FileFormat>
-<FileFormat ID="2200"	MIMEType="application/vnd.ms-fontobject"	Name="Embedded OpenType (EOT) File Format"	PUID="fmt/1382"	Version="0x00010000">	<InternalSignatureID>1760</InternalSignatureID>	<Extension>eot</Extension>		</FileFormat>
-<FileFormat ID="2201"	MIMEType="application/vnd.ms-fontobject"	Name="Embedded OpenType (EOT) File Format"	PUID="fmt/1383"	Version="0x00020001">	<InternalSignatureID>1761</InternalSignatureID>	<Extension>eot</Extension>		</FileFormat>
-<FileFormat ID="2202"	MIMEType="application/vnd.ms-fontobject"	Name="Embedded OpenType (EOT) File Format"	PUID="fmt/1384"	Version="0x00020002">	<InternalSignatureID>1762</InternalSignatureID>	<Extension>eot</Extension>		</FileFormat>
+<FileFormat ID="2200"	MIMEType="application/vnd.ms-fontobject"	Name="Embedded OpenType (EOT) File Format"	PUID="fmt/1382 / fmt/1383 / fmt/1384"	>		<Extension>eot</Extension>		</FileFormat>
 <FileFormat ID="2203"	 	Name="Bruker PDZ"	PUID="fmt/1385">		<InternalSignatureID>1763</InternalSignatureID>	<Extension>pdz</Extension><Extension>xpdz</Extension>		</FileFormat>
 <FileFormat ID="2204"	 	Name="Muvee autoProducer Project File"	PUID="fmt/1386"	Version="1-5">		<Extension>mve</Extension>		</FileFormat>
 <FileFormat ID="2205"	 	Name="Muvee autoProducer Project File"	PUID="fmt/1387"	Version="6">		<Extension>mvex</Extension>		</FileFormat>
@@ -1530,15 +1486,7 @@
 <FileFormat ID="2240"	 	Name="Corel Photo House Image"	PUID="fmt/1422">			<Extension>cps</Extension>		</FileFormat>
 <FileFormat ID="2241"	 	Name="HP TRIM Outlook Saved Message File"	PUID="fmt/1423">			<Extension>mbx</Extension><Extension>vmbx</Extension>		</FileFormat>
 <FileFormat ID="2242"	MIMEType="application/vnd.wordperfect"	Name="WordPerfect Encrypted Document"	PUID="fmt/1424"	Version="4.2">	<InternalSignatureID>1792</InternalSignatureID>	<Extension>wp</Extension>		</FileFormat>
-<FileFormat ID="2248"	 	Name="Minitab Worksheet"	PUID="fmt/1430"	Version="8-11">	<InternalSignatureID>1799</InternalSignatureID>	<Extension>mtw</Extension>		</FileFormat>
-<FileFormat ID="2249"	 	Name="Minitab Portable Worksheet"	PUID="fmt/1431">		<InternalSignatureID>1800</InternalSignatureID>	<Extension>mtp</Extension>		</FileFormat>
-<FileFormat ID="2250"	 	Name="Minitab Worksheet"	PUID="fmt/1432"	Version="12">		<Extension>mtw</Extension>		</FileFormat>
-<FileFormat ID="2251"	 	Name="Minitab Worksheet"	PUID="fmt/1433"	Version="13">		<Extension>mtw</Extension>		</FileFormat>
-<FileFormat ID="2252"	 	Name="Minitab Project"	PUID="fmt/1434"	Version="12-13">		<Extension>mpj</Extension>		</FileFormat>
-<FileFormat ID="2253"	 	Name="Minitab Worksheet"	PUID="fmt/1435"	Version="14">		<Extension>mtw</Extension>		</FileFormat>
-<FileFormat ID="2254"	 	Name="Minitab Project"	PUID="fmt/1436"	Version="14">		<Extension>mpj</Extension>		</FileFormat>
-<FileFormat ID="2255"	 	Name="Minitab Worksheet"	PUID="fmt/1437"	Version="15+">		<Extension>mtw</Extension>		</FileFormat>
-<FileFormat ID="2256"	 	Name="Minitab Project"	PUID="fmt/1438"	Version="15+">		<Extension>mpj</Extension>		</FileFormat>
+<FileFormat ID="2248"	 	Name="Minitab Worksheet / Project"	PUID="fmt/1430 / fmt/1431 / fmt/1432 / fmt/1433 / fmt/1434 / fmt/1435 / fmt/1436 / fmt/1437 / fmt/1438"	>		<Extension>mtw</Extension><Extension>mtp</Extension><Extension>mpj</Extension>		</FileFormat>
 <FileFormat ID="2257"	 	Name="Apple iWork Pages"	PUID="fmt/1439"	Version="09">		<Extension>pages</Extension>		</FileFormat>
 <FileFormat ID="2259"	 	Name="Apple iWork Document"	PUID="fmt/1441"	Version="14">		<Extension>iwa</Extension><Extension>key</Extension><Extension>numbers</Extension><Extension>pages</Extension><Extension>template</Extension>		</FileFormat>
 <FileFormat ID="2265"	 	Name="XLD4 (Bitmap Image)"	PUID="fmt/1447">		<InternalSignatureID>1809</InternalSignatureID>	<Extension>q4</Extension>		</FileFormat>
