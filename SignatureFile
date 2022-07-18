@@ -369,7 +369,7 @@
 <FileFormat ID="549"	 	Name="XYWrite Document"	PUID="x-fmt/373"	Version="IV">		<Extension>xy4</Extension>		</FileFormat>
 <FileFormat ID="554"	 	Name="Paint Shop Pro Image"	PUID="x-fmt/376"	Version="8">	<InternalSignatureID>513</InternalSignatureID>	<Extension>pspimage</Extension>		</FileFormat>
 <FileFormat ID="555"	 	Name="Paint Shop Pro Image"	PUID="x-fmt/377"	Version="4.00">	<InternalSignatureID>509</InternalSignatureID>	<Extension>psp</Extension>		</FileFormat>
-FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version="5.0">		<Extension>dbf</Extension>		</FileFormat>
+<FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version="5.0">		<Extension>dbf</Extension>		</FileFormat>
 <FileFormat ID="559"	 	Name="Dia Graphics Format"	PUID="x-fmt/381">			<Extension>dia</Extension>		</FileFormat>
 <FileFormat ID="613" 	MIMEType="application/pdf"	Name="Acrobat PDF - Portable Document Format"	PUID="PDF"	>	<InternalSignatureID>123</InternalSignatureID>	<Extension>pdf</Extension>	</FileFormat>
 <FileFormat ID="619"	MIMEType="image/gif"	Name="Graphics Interchange Format"	PUID="fmt/3"	Version="87a">	<InternalSignatureID>18</InternalSignatureID>	<Extension>gif</Extension>		</FileFormat>
@@ -478,7 +478,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="755"	MIMEType="application/vnd.stardivision.draw"	Name="StarOffice Draw"	PUID="x-fmt/401"	Version="5.x">		<Extension>sda</Extension>		</FileFormat>
 <FileFormat ID="761"	 	Name="Drawing Interchange Binary Format"	PUID="fmt/54"	Version="1.0">	<InternalSignatureID>166</InternalSignatureID>	<Extension>dxb</Extension>		</FileFormat>
 <FileFormat ID="766"	MIMEType="image/vnd.dxf"	Name="Drawing Interchange File Format (ASCII)"	PUID="fmt/63"	Version="Generic">	<InternalSignatureID>115</InternalSignatureID>	<Extension>dxf</Extension>		</FileFormat>
-<FileFormat ID="767"	 	Name="OLE2 Compound Document Format"	PUID="fmt/111">		<InternalSignatureID>170</InternalSignatureID></FileFormat>			
 <FileFormat ID="770" 	MIMEType="application/pdf"	Name="Acrobat PDF/A - Portable Document Format" PUID="PDFA1"	Version="1">	<InternalSignatureID>264</InternalSignatureID>	<Extension>pdf</Extension>	<HasPriorityOverFileFormatID>613</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="771"	MIMEType="application/postscript"	Name="PostScript"	PUID="x-fmt/406"	Version="2.0">	<InternalSignatureID>191</InternalSignatureID>	<Extension>ps</Extension>	<HasPriorityOverFileFormatID>1073</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="772"	MIMEType="application/postscript"	Name="PostScript"	PUID="x-fmt/407"	Version="2.1">	<InternalSignatureID>192</InternalSignatureID>	<Extension>ps</Extension>	<HasPriorityOverFileFormatID>1073</HasPriorityOverFileFormatID>	</FileFormat>
@@ -487,7 +486,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="775"	 	Name="Windows New Executable"	PUID="x-fmt/410">		<InternalSignatureID>197</InternalSignatureID>	<Extension>exe</Extension>	<HasPriorityOverFileFormatID>774</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="776"	MIMEType="application/vnd.microsoft.portable-executable"	Name="Windows Portable Executable"	PUID="x-fmt/411">		<InternalSignatureID>198</InternalSignatureID>	<Extension>dll</Extension><Extension>exe</Extension><Extension>sys</Extension>	<HasPriorityOverFileFormatID>774</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>775</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="777"	MIMEType="application/java-archive"	Name="Java Archive Format"	PUID="x-fmt/412">		<InternalSignatureID>199</InternalSignatureID>	<Extension>jar</Extension>	<HasPriorityOverFileFormatID>382</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>643</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>644</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>645</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="778"	 	Name="OpenDocument Format"	PUID="fmt/135"	Version="1.0">	<InternalSignatureID>202</InternalSignatureID><HasPriorityOverFileFormatID>382</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>777</HasPriorityOverFileFormatID>			</FileFormat>
 <FileFormat ID="779"	MIMEType="application/vnd.oasis.opendocument.text"	Name="OpenDocument Text"	PUID="fmt/136"	Version="1.0">	<InternalSignatureID>203</InternalSignatureID>	<Extension>odt</Extension><Extension>ott</Extension>	<HasPriorityOverFileFormatID>778</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1033</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="780"	MIMEType="application/vnd.oasis.opendocument.spreadsheet"	Name="OpenDocument Spreadsheet"	PUID="fmt/137"	Version="1.0">	<InternalSignatureID>204</InternalSignatureID>	<Extension>ods</Extension><Extension>ots</Extension>	<HasPriorityOverFileFormatID>778</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1037</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="781"	MIMEType="application/vnd.oasis.opendocument.presentation"	Name="OpenDocument Presentation"	PUID="fmt/138"	Version="1.0">	<InternalSignatureID>205</InternalSignatureID>	<Extension>odp</Extension><Extension>otp</Extension>	<HasPriorityOverFileFormatID>778</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1035</HasPriorityOverFileFormatID>	</FileFormat>
@@ -552,7 +550,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="899"	 	Name="Microsoft Works Database for DOS"	PUID="fmt/171"	Version="2.0">		<Extension>wdb</Extension>		</FileFormat>
 <FileFormat ID="904"	 	Name="PrimeOCR"	PUID="fmt/183 / fmt/184"	Version="3.8">	<InternalSignatureID>256</InternalSignatureID>	<Extension>pro</Extension>		</FileFormat>
 <FileFormat ID="906"	 	Name="Prime OCR"	PUID="fmt/185 / fmt/186 / fmt/187 / fmt/188"	>		<Extension>pro</Extension>		</FileFormat>
-<FileFormat ID="910"	 	Name="Microsoft Office Open XML"	PUID="fmt/189"	Version="2007 onwards">	<InternalSignatureID>258</InternalSignatureID><HasPriorityOverFileFormatID>382</HasPriorityOverFileFormatID>			</FileFormat>
 <FileFormat ID="916"	 	Name="Sony ARW RAW Image File"	PUID="fmt/191"	Version="1.x">	<InternalSignatureID>1508</InternalSignatureID>	<Extension>arw</Extension>	<HasPriorityOverFileFormatID>1099</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="917"	 	Name="Kodak Digital Camera Raw Image File"	PUID="fmt/192">		<InternalSignatureID>1439</InternalSignatureID>	<Extension>dcr</Extension>	<HasPriorityOverFileFormatID>1099</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="918"	 	Name="Digital Moving Picture Exchange Bitmap"	PUID="fmt/193"	Version="1.0">	<InternalSignatureID>848</InternalSignatureID><InternalSignatureID>849</InternalSignatureID>	<Extension>dpx</Extension>		</FileFormat>
@@ -615,8 +612,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="1017"	 	Name="ESRI Arc/View Shapefile Index"	PUID="fmt/277">		<InternalSignatureID>290</InternalSignatureID>	<Extension>shx</Extension>		</FileFormat>
 <FileFormat ID="1018"	MIMEType="message/rfc822"	Name="Internet Message Format"	PUID="fmt/278">		<InternalSignatureID>293</InternalSignatureID><InternalSignatureID>294</InternalSignatureID>	<Extension>eml</Extension>	<HasPriorityOverFileFormatID>645</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1019"	MIMEType="audio/flac"	Name="FLAC (Free Lossless Audio Codec)"	PUID="fmt/279"	Version="1.2.1">	<InternalSignatureID>295</InternalSignatureID>	<Extension>flac</Extension>		</FileFormat>
-<FileFormat ID="1020"	 	Name="LaTeX (Master document)"	PUID="fmt/280">		<InternalSignatureID>296</InternalSignatureID><HasPriorityOverFileFormatID>1021</HasPriorityOverFileFormatID>			</FileFormat>
-<FileFormat ID="1021"	 	Name="LaTeX (Subdocument)"	PUID="fmt/281">		<InternalSignatureID>297</InternalSignatureID></FileFormat>			
 <FileFormat ID="1022"	MIMEType="application/netcdf, application/x-netcdf"	Name="netCDF-3 Classic"	PUID="fmt/282">		<InternalSignatureID>298</InternalSignatureID>	<Extension>cdf</Extension><Extension>nc</Extension>		</FileFormat>
 <FileFormat ID="1023"	MIMEType="application/netcdf, application/x-netcdf"	Name="netCDF-3 64-bit"	PUID="fmt/283">		<InternalSignatureID>299</InternalSignatureID>	<Extension>cdf</Extension><Extension>nc</Extension>		</FileFormat>
 <FileFormat ID="1024"	 	Name="Gridded Binary"	PUID="fmt/284"	Version="1.0">	<InternalSignatureID>300</InternalSignatureID>	<Extension>grb</Extension><Extension>wmo</Extension>		</FileFormat>
@@ -771,10 +766,8 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="1246"	 	Name="Verity Collection Word List Descriptor Style Set"	PUID="fmt/459">		<InternalSignatureID>713</InternalSignatureID>	<Extension>wld</Extension>		</FileFormat>
 <FileFormat ID="1247"	 	Name="Verity Collection Partition Definition Descriptor Style Set"	PUID="fmt/460">		<InternalSignatureID>714</InternalSignatureID>	<Extension>pdd</Extension>		</FileFormat>
 <FileFormat ID="1248"	 	Name="Verity Collection Index Descriptor File"	PUID="fmt/461">		<InternalSignatureID>715</InternalSignatureID>	<Extension>ddd</Extension><Extension>did</Extension><Extension>pdd</Extension><Extension>wld</Extension>		</FileFormat>
-<FileFormat ID="1249"	 	Name="MS-DOS Compression Format (SZDD Variant)"	PUID="fmt/462">		<InternalSignatureID>718</InternalSignatureID></FileFormat>			
 <FileFormat ID="1250"	MIMEType="image/jpm"	Name="JPM (JPEG 2000 part 6)"	PUID="fmt/463">		<InternalSignatureID>721</InternalSignatureID>	<Extension>jpm</Extension>		</FileFormat>
 <FileFormat ID="1255"	 	Name="ISO Disk Image File"	PUID="fmt/468">		<InternalSignatureID>730</InternalSignatureID>	<Extension>iso</Extension>		</FileFormat>
-<FileFormat ID="1256"	 	Name="MS DOS Compression Format (KWAJ Variant)"	PUID="fmt/469">		<InternalSignatureID>733</InternalSignatureID></FileFormat>			
 <FileFormat ID="1257"	 	Name="Asymetrix Toolbook File"	PUID="fmt/470">		<InternalSignatureID>734</InternalSignatureID>	<Extension>sbk</Extension><Extension>tbk</Extension>		</FileFormat>
 <FileFormat ID="1258"	MIMEType="text/html"	Name="Hypertext Markup Language"	PUID="fmt/471"	Version="5">	<InternalSignatureID>735</InternalSignatureID><InternalSignatureID>736</InternalSignatureID>	<Extension>htm</Extension><Extension>html</Extension>	<HasPriorityOverFileFormatID>645</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1259"	 	Name="Sony Digital Voice File/Sony Memory Stick Voice File"	PUID="fmt/472">		<InternalSignatureID>737</InternalSignatureID>	<Extension>dvf</Extension><Extension>msv</Extension>		</FileFormat>
@@ -798,7 +791,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="1287"	 	Name="Internet Explorer for Mac cache file"	PUID="fmt/500">		<InternalSignatureID>776</InternalSignatureID>	<Extension>waf</Extension>	<HasPriorityOverFileFormatID>639</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>640</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>641</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>642</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>645</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1258</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1288"	MIMEType="application/postscript"	Name="PostScript"	PUID="fmt/501"	Version="3.1">	<InternalSignatureID>777</InternalSignatureID>	<Extension>ps</Extension>	<HasPriorityOverFileFormatID>1073</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1289"	 	Name="Bentley V8 DGN"	PUID="fmt/502">			<Extension>dgn</Extension>		</FileFormat>
-<FileFormat ID="1290"	MIMEType="multipart/appledouble"	Name="AppleDouble Resource Fork"	PUID="fmt/503"	Version="2">	<InternalSignatureID>778</InternalSignatureID></FileFormat>			
 <FileFormat ID="1291"	 	Name="Standard Flowgram Format"	PUID="fmt/504">		<InternalSignatureID>779</InternalSignatureID>	<Extension>sff</Extension>		</FileFormat>
 <FileFormat ID="1295"	 	Name="Quarter Inch Cartridge Host Interchange Format"	PUID="fmt/508">		<InternalSignatureID>801</InternalSignatureID>	<Extension>qic</Extension>		</FileFormat>
 <FileFormat ID="1296"	 	Name="Adobe PostScript Font Metrics file"	PUID="fmt/509">		<InternalSignatureID>802</InternalSignatureID>	<Extension>pfm</Extension>		</FileFormat>
@@ -922,7 +914,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="1456"	MIMEType="application/oxps"	Name="Open XML Paper Specification"	PUID="fmt/657">			<Extension>xps</Extension>		</FileFormat>
 <FileFormat ID="1457"	 	Name="Cypher Query Language"	PUID="fmt/658">			<Extension>cql</Extension>		</FileFormat>
 <FileFormat ID="1458"	 	Name="Industry Foundation Classes"	PUID="fmt/659"	Version="2x2">	<InternalSignatureID>991</InternalSignatureID>	<Extension>ifc</Extension>	<HasPriorityOverFileFormatID>1497</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1459"	 	Name="Adobe Type 1 Mac Font File"	PUID="fmt/660">		<InternalSignatureID>992</InternalSignatureID></FileFormat>			
 <FileFormat ID="1460"	 	Name="Sigma RAW Image"	PUID="fmt/661">		<InternalSignatureID>993</InternalSignatureID>	<Extension>x3f</Extension>		</FileFormat>
 <FileFormat ID="1461"	 	Name="Panasonic Raw"	PUID="fmt/662">		<InternalSignatureID>994</InternalSignatureID>	<Extension>RW2</Extension>		</FileFormat>
 <FileFormat ID="1463"	MIMEType="application/vnd.gerber"	Name="Gerber Format"	PUID="fmt/664">			<Extension>gbr</Extension>		</FileFormat>
@@ -942,8 +933,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="1488"	 	Name="Executable and Linkable Format"	PUID="fmt/689"	Version="32bit Big Endian">	<InternalSignatureID>1016</InternalSignatureID>	<Extension>elf</Extension><Extension>o</Extension>		</FileFormat>
 <FileFormat ID="1489"	 	Name="Executable and Linkable Format"	PUID="fmt/690"	Version="64bit Little Endian">	<InternalSignatureID>1017</InternalSignatureID>	<Extension>elf</Extension><Extension>o</Extension>		</FileFormat>
 <FileFormat ID="1490"	 	Name="Executable and Linkable Format"	PUID="fmt/691"	Version="64bit Big Endian">	<InternalSignatureID>1018</InternalSignatureID>	<Extension>elf</Extension><Extension>o</Extension>		</FileFormat>
-<FileFormat ID="1491"	 	Name="Mach-O"	PUID="fmt/692"	Version="32bit">	<InternalSignatureID>1019</InternalSignatureID><InternalSignatureID>1020</InternalSignatureID>			</FileFormat>
-<FileFormat ID="1492"	 	Name="Mach-O"	PUID="fmt/693"	Version="64bit">	<InternalSignatureID>1021</InternalSignatureID><InternalSignatureID>1022</InternalSignatureID>			</FileFormat>
 <FileFormat ID="1493"	 	Name="Dalvik Executable Format"	PUID="fmt/694">		<InternalSignatureID>1023</InternalSignatureID>	<Extension>dex</Extension>		</FileFormat>
 <FileFormat ID="1494"	 	Name="Optimised Dalvik Executable Format"	PUID="fmt/695">		<InternalSignatureID>1024</InternalSignatureID>	<Extension>odex</Extension>		</FileFormat>
 <FileFormat ID="1495"	 	Name="Sibelius"	PUID="fmt/696">		<InternalSignatureID>1025</InternalSignatureID>	<Extension>sib</Extension>		</FileFormat>
@@ -1028,7 +1017,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="1595"	 	Name="Adobe After Effects"	PUID="fmt/796">		<InternalSignatureID>1155</InternalSignatureID>	<Extension>aep</Extension>		</FileFormat>
 <FileFormat ID="1596"	 	Name="Apple ProRes"	PUID="fmt/797">		<InternalSignatureID>1156</InternalSignatureID>	<Extension>mov</Extension>	<HasPriorityOverFileFormatID>658</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1598"	 	Name="The Neuroimaging Informatics Technology Initiative File Format"	PUID="fmt/798"	Version="1">	<InternalSignatureID>1164</InternalSignatureID><InternalSignatureID>1174</InternalSignatureID>	<Extension>nii</Extension>		</FileFormat>
-<FileFormat ID="1599"	 	Name="WriteNow"	PUID="fmt/799">		<InternalSignatureID>1165</InternalSignatureID></FileFormat>			
 <FileFormat ID="1600"	MIMEType="text/csv-schema"	Name="CSV Schema"	PUID="fmt/800">			<Extension>csvs</Extension>		</FileFormat>
 <FileFormat ID="1601"	 	Name="TAP (ZX Spectrum)"	PUID="fmt/801">		<InternalSignatureID>1166</InternalSignatureID>	<Extension>tap</Extension>		</FileFormat>
 <FileFormat ID="1602"	 	Name="TAP (Commodore 64)"	PUID="fmt/802">		<InternalSignatureID>1167</InternalSignatureID>	<Extension>tap</Extension>		</FileFormat>
@@ -1110,7 +1098,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="1683"	 	Name="Fortran"	PUID="fmt/879">			<Extension>f</Extension><Extension>f03</Extension><Extension>f90</Extension><Extension>f95</Extension><Extension>for</Extension>		</FileFormat>
 <FileFormat ID="1684"	 	Name="JSON-LD"	PUID="fmt/880">			<Extension>jsonld</Extension>		</FileFormat>
 <FileFormat ID="1685"	MIMEType="image/vnd.ms-modi"	Name="Microsoft Document Imaging File Format"	PUID="fmt/881">		<InternalSignatureID>1233</InternalSignatureID>	<Extension>mdi</Extension>		</FileFormat>
-<FileFormat ID="1686"	 	Name="Wordstar 2000"	PUID="fmt/882"	Version="1">	<InternalSignatureID>1234</InternalSignatureID></FileFormat>			
 <FileFormat ID="1687"	 	Name="Siegfried Signature File"	PUID="fmt/883">		<InternalSignatureID>1235</InternalSignatureID>	<Extension>sig</Extension>		</FileFormat>
 <FileFormat ID="1688"	 	Name="AXD HTTP Handler File"	PUID="fmt/884">			<Extension>axd</Extension>		</FileFormat>
 <FileFormat ID="1689"	 	Name="BASIC File"	PUID="fmt/885">			<Extension>bas</Extension>		</FileFormat>
@@ -1182,9 +1169,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="1768"	 	Name="OMNIC Spectral Data File"	PUID="fmt/963">		<InternalSignatureID>1320</InternalSignatureID>	<Extension>spa</Extension>		</FileFormat>
 <FileFormat ID="1769"	 	Name="Final Draft Document"	PUID="fmt/964"	Version="5-7">	<InternalSignatureID>1328</InternalSignatureID>	<Extension>fdr</Extension>		</FileFormat>
 <FileFormat ID="1770"	 	Name="Music Encoding Initiative"	PUID="fmt/965">		<InternalSignatureID>1329</InternalSignatureID>	<Extension>mei</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1771"	MIMEType="multipart/appledouble"	Name="AppleDouble Resource Fork"	PUID="fmt/966"	Version="1">	<InternalSignatureID>1330</InternalSignatureID></FileFormat>			
-<FileFormat ID="1772"	MIMEType="application/applefile"	Name="AppleSingle"	PUID="fmt/967"	Version="1">	<InternalSignatureID>1331</InternalSignatureID></FileFormat>			
-<FileFormat ID="1773"	MIMEType="application/applefile"	Name="AppleSingle"	PUID="fmt/968"	Version="2">	<InternalSignatureID>1332</InternalSignatureID></FileFormat>			
 <FileFormat ID="1774"	MIMEType="application/rtf"	Name="Rich Text Format"	PUID="fmt/969"	Version="0">	<InternalSignatureID>1333</InternalSignatureID>	<Extension>rtf</Extension>		</FileFormat>
 <FileFormat ID="1775"	MIMEType="image/ktx"	Name="Khronos Texture File"	PUID="fmt/970">		<InternalSignatureID>1334</InternalSignatureID>	<Extension>ktx</Extension>		</FileFormat>
 <FileFormat ID="1776"	 	Name="Microsoft Windows Movie Maker File"	PUID="fmt/971">			<Extension>mswmm</Extension>		</FileFormat>
@@ -1223,7 +1207,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="1811"	 	Name="Nearly Raw Raster Data"	PUID="fmt/1006"	Version="5">	<InternalSignatureID>1361</InternalSignatureID>	<Extension>nrrd</Extension>		</FileFormat>
 <FileFormat ID="1812"	 	Name="Digital Speech Standard"	PUID="fmt/1007">		<InternalSignatureID>1365</InternalSignatureID>	<Extension>dss</Extension>		</FileFormat>
 <FileFormat ID="1813"	 	Name="DSS Pro"	PUID="fmt/1008">		<InternalSignatureID>1366</InternalSignatureID>	<Extension>ds2</Extension>		</FileFormat>
-<FileFormat ID="1814"	 	Name="FBX (Filmbox) Binary"	PUID="fmt/1009">		<InternalSignatureID>1381</InternalSignatureID></FileFormat>			
 <FileFormat ID="1815"	 	Name="FBX (Filmbox) Text"	PUID="fmt/1010">		<InternalSignatureID>1382</InternalSignatureID>	<Extension>fbx</Extension>		</FileFormat>
 <FileFormat ID="1816"	 	Name="INTERLIS Transfer File"	PUID="fmt/1011"	Version="2.2">	<InternalSignatureID>1383</InternalSignatureID><InternalSignatureID>1384</InternalSignatureID>	<Extension>xml</Extension><Extension>xtf</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1817"	 	Name="INTERLIS Model File"	PUID="fmt/1012"	Version="2.2">	<InternalSignatureID>1385</InternalSignatureID>	<Extension>ili</Extension>		</FileFormat>
@@ -1259,7 +1242,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="1847"	 	Name="WordPerfect Graphics Metafile"	PUID="fmt/1042"	Version="2.0">	<InternalSignatureID>1401</InternalSignatureID>	<Extension>wpg</Extension>		</FileFormat>
 <FileFormat ID="1848"	 	Name="Microsoft PRX File"	PUID="fmt/1043">		<InternalSignatureID>1402</InternalSignatureID>	<Extension>prx</Extension>		</FileFormat>
 <FileFormat ID="1849"	 	Name="AutoShade Rendering Slide"	PUID="fmt/1044">		<InternalSignatureID>1403</InternalSignatureID>	<Extension>rnd</Extension>		</FileFormat>
-<FileFormat ID="1850"	 	Name="Q&amp;A Word Processor Document"	PUID="fmt/1045">		<InternalSignatureID>1404</InternalSignatureID><InternalSignatureID>1405</InternalSignatureID></FileFormat>			
 <FileFormat ID="1851"	 	Name="Draco File Format"	PUID="fmt/1046">		<InternalSignatureID>1406</InternalSignatureID>	<Extension>drc</Extension>		</FileFormat>
 <FileFormat ID="1852"	MIMEType="application/gml+xml"	Name="Geography Markup Language"	PUID="fmt/1047"	Version="3.2">	<InternalSignatureID>1407</InternalSignatureID>	<Extension>gml</Extension>	<HasPriorityOverFileFormatID>319</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1853"	 	Name="OGR GFS File"	PUID="fmt/1048">		<InternalSignatureID>1408</InternalSignatureID>	<Extension>gfs</Extension>		</FileFormat>
@@ -1281,9 +1263,7 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="1874"	 	Name="Silo"	PUID="fmt/1067"	Version="PDB Variant">	<InternalSignatureID>1443</InternalSignatureID><InternalSignatureID>1444</InternalSignatureID>	<Extension>silo</Extension>	<HasPriorityOverFileFormatID>1871</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1872</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1875"	 	Name="Silo"	PUID="fmt/1068"	Version="HDF5 Variant">	<InternalSignatureID>1445</InternalSignatureID>	<Extension>silo</Extension>	<HasPriorityOverFileFormatID>1026</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1027</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1607</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1876"	 	Name="Cue Sheet"	PUID="fmt/1069">		<InternalSignatureID>1446</InternalSignatureID>	<Extension>cue</Extension>		</FileFormat>
-<FileFormat ID="1877"	 	Name="Preferred Executable Format"	PUID="fmt/1070">		<InternalSignatureID>1448</InternalSignatureID></FileFormat>			
 <FileFormat ID="1878"	MIMEType="application/x-apple-diskimage"	Name="Apple Disk Image"	PUID="fmt/1071">		<InternalSignatureID>1449</InternalSignatureID>	<Extension>dmg</Extension>		</FileFormat>
-<FileFormat ID="1879"	 	Name="FileMaker Pro Database"	PUID="fmt/1072"	Version="1">	<InternalSignatureID>1450</InternalSignatureID></FileFormat>			
 <FileFormat ID="1880"	 	Name="Google Document Link File"	PUID="fmt/1073">		<InternalSignatureID>1451</InternalSignatureID>	<Extension>gdoc</Extension><Extension>gdraw</Extension><Extension>gform</Extension><Extension>gmap</Extension><Extension>gsheet</Extension><Extension>gsite</Extension><Extension>gslides</Extension>		</FileFormat>
 <FileFormat ID="1881"	 	Name="AVCHD Playlist File"	PUID="fmt/1074">		<InternalSignatureID>1452</InternalSignatureID><InternalSignatureID>1453</InternalSignatureID>	<Extension>mpl</Extension><Extension>mpls</Extension>		</FileFormat>
 <FileFormat ID="1882"	 	Name="AVCHD Movie Object File"	PUID="fmt/1075">		<InternalSignatureID>1454</InternalSignatureID>	<Extension>bdm</Extension><Extension>bdmv</Extension>		</FileFormat>
@@ -1362,12 +1342,9 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="1977"	 	Name="Softimage 3D Picture File Format"	PUID="fmt/1167">		<InternalSignatureID>1548</InternalSignatureID>	<Extension>pic</Extension>		</FileFormat>
 <FileFormat ID="1978"	 	Name="Maya Icons or Swatches file"	PUID="fmt/1168">		<InternalSignatureID>1549</InternalSignatureID>	<Extension>icons</Extension><Extension>swatches</Extension>		</FileFormat>
 <FileFormat ID="1979"	 	Name="Maya IFF Image File"	PUID="fmt/1169">		<InternalSignatureID>1550</InternalSignatureID>	<Extension>ico</Extension><Extension>iff</Extension>		</FileFormat>
-<FileFormat ID="1980"	 	Name="Alias Studio Wire File"	PUID="fmt/1170"	Version="8.5">	<InternalSignatureID>1551</InternalSignatureID></FileFormat>			
-<FileFormat ID="1981"	 	Name="Alias PowerAnimator File"	PUID="fmt/1171"	Version="9.0">	<InternalSignatureID>1552</InternalSignatureID></FileFormat>			
 <FileFormat ID="1982"	MIMEType="font/woff2"	Name="Web Open Font Format"	PUID="fmt/1172"	Version="2.0">	<InternalSignatureID>1553</InternalSignatureID>	<Extension>woff2</Extension>		</FileFormat>
 <FileFormat ID="1983"	 	Name="FrameMD5"	PUID="fmt/1173">		<InternalSignatureID>1554</InternalSignatureID>	<Extension>framemd5</Extension><Extension>md5</Extension>		</FileFormat>
 <FileFormat ID="1984"	MIMEType="application/vnd.hp-HPGL"	Name="Hewlett Packard Graphics Language"	PUID="fmt/1174"	Version="2">	<InternalSignatureID>1555</InternalSignatureID>	<Extension>000</Extension>		</FileFormat>
-<FileFormat ID="1985"	 	Name="Alias Studio Wire File"	PUID="fmt/1175"	Version="9.0">	<InternalSignatureID>1556</InternalSignatureID></FileFormat>			
 <FileFormat ID="1986"	 	Name="Nullsoft Streaming Video"	PUID="fmt/1176">		<InternalSignatureID>1557</InternalSignatureID><InternalSignatureID>1558</InternalSignatureID>	<Extension>nsv</Extension>	<HasPriorityOverFileFormatID>687</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1987"	 	Name="MicroStation Material Library"	PUID="fmt/1177">		<InternalSignatureID>1559</InternalSignatureID>	<Extension>mat</Extension>		</FileFormat>
 <FileFormat ID="1988"	MIMEType="application/vnd.yamaha.smaf-audio"	Name="Synthetic Music Mobile Application Format"	PUID="fmt/1178">		<InternalSignatureID>1560</InternalSignatureID>	<Extension>mmf</Extension>		</FileFormat>
@@ -1390,10 +1367,7 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="2007"	 	Name="MyISAM Indexes File"	PUID="fmt/1197">		<InternalSignatureID>1575</InternalSignatureID>	<Extension>myi</Extension>		</FileFormat>
 <FileFormat ID="2008"	 	Name="RData"	PUID="fmt/1198"	Version="Binary">	<InternalSignatureID>1576</InternalSignatureID>	<Extension>rdata</Extension>		</FileFormat>
 <FileFormat ID="2009"	 	Name="RData"	PUID="fmt/1199"	Version="ASCII">	<InternalSignatureID>1577</InternalSignatureID>	<Extension>rdata</Extension>		</FileFormat>
-<FileFormat ID="2010"	 	Name="PowerDraw"	PUID="fmt/1200"	Version="6">	<InternalSignatureID>1578</InternalSignatureID></FileFormat>			
-<FileFormat ID="2011"	 	Name="PowerCADD"	PUID="fmt/1201">		<InternalSignatureID>1579</InternalSignatureID></FileFormat>			
 <FileFormat ID="2012"	 	Name="Guymager Acquisition Info File"	PUID="fmt/1202">		<InternalSignatureID>1580</InternalSignatureID>	<Extension>info</Extension>		</FileFormat>
-<FileFormat ID="2014"	 	Name="Strata StudioPro Vis Format"	PUID="fmt/1204">		<InternalSignatureID>1582</InternalSignatureID></FileFormat>			
 <FileFormat ID="2015"	 	Name="LightWave 3D Object"	PUID="fmt/1205">		<InternalSignatureID>1583</InternalSignatureID>	<Extension>lw</Extension>	<HasPriorityOverFileFormatID>221</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2016"	 	Name="Impulse 3D Data Description Object"	PUID="fmt/1206">		<InternalSignatureID>1584</InternalSignatureID>	<Extension>iob</Extension>	<HasPriorityOverFileFormatID>221</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2017"	 	Name="Sony SFK File"	PUID="fmt/1207">		<InternalSignatureID>1585</InternalSignatureID>	<Extension>sfk</Extension>		</FileFormat>
@@ -1409,9 +1383,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="2027"	 	Name="Leonardo Image Format"	PUID="fmt/1217">		<InternalSignatureID>1594</InternalSignatureID>	<Extension>leo</Extension>		</FileFormat>
 <FileFormat ID="2028"	 	Name="SubRip Subtitle File"	PUID="fmt/1218">			<Extension>srt</Extension>		</FileFormat>
 <FileFormat ID="2029"	MIMEType="application/x-gnumeric"	Name="Gnumeric"	PUID="fmt/1219">		<InternalSignatureID>1596</InternalSignatureID><InternalSignatureID>1597</InternalSignatureID>	<Extension>gnumeric</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2030"	MIMEType="application/vnd.wordperfect"	Name="WordPerfect for Macintosh Document"	PUID="fmt/1220"	Version="2.x">	<InternalSignatureID>1598</InternalSignatureID></FileFormat>			
-<FileFormat ID="2031"	MIMEType="application/vnd.wordperfect"	Name="WordPerfect for Macintosh Document"	PUID="fmt/1221"	Version="3.x">	<InternalSignatureID>1599</InternalSignatureID></FileFormat>			
-<FileFormat ID="2032"	MIMEType="application/vnd.wordperfect"	Name="WordPerfect for Macintosh Document"	PUID="fmt/1222"	Version="3.5-4.x">	<InternalSignatureID>1600</InternalSignatureID></FileFormat>			
 <FileFormat ID="2033"	 	Name="PaperPort MAX"	PUID="fmt/1223"	Version="2">	<InternalSignatureID>1601</InternalSignatureID>	<Extension>max</Extension>		</FileFormat>
 <FileFormat ID="2034"	 	Name="PaperPort MAX"	PUID="fmt/1224"	Version="3-4">	<InternalSignatureID>1602</InternalSignatureID>	<Extension>max</Extension>		</FileFormat>
 <FileFormat ID="2035"	 	Name="PaperPort MAX"	PUID="fmt/1225"	Version="5-7">	<InternalSignatureID>1603</InternalSignatureID>	<Extension>max</Extension>		</FileFormat>
@@ -1420,7 +1391,7 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="2040"	 	Name="NMRPipe"	PUID="fmt/1228">		<InternalSignatureID>1607</InternalSignatureID><InternalSignatureID>1608</InternalSignatureID>	<Extension>dat</Extension><Extension>ft2</Extension><Extension>ft3</Extension><Extension>pipe</Extension>		</FileFormat>
 <FileFormat ID="2041"	 	Name="Sibelius Sound Set Definition"	PUID="fmt/1229">			<Extension>set</Extension>		</FileFormat>
 <FileFormat ID="2042"	 	Name="SK-XML"	PUID="fmt/1230"	Version="1.0">	<InternalSignatureID>1609</InternalSignatureID>	<Extension>ddoc</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2044"	 	Name="DIGIDOC-XML"	PUID="fmt/1231 / fmt/1232" / fmt/1233"	>		<Extension>ddoc</Extension>		</FileFormat>
+<FileFormat ID="2044"	 	Name="DIGIDOC-XML"	PUID="fmt/1231 / fmt/1232 / fmt/1233"	>		<Extension>ddoc</Extension>		</FileFormat>
 <FileFormat ID="2052"	MIMEType="video/vnd.radgamettools.smacker"	Name="Smacker Video"	PUID="fmt/1234">		<InternalSignatureID>1613</InternalSignatureID>	<Extension>smk</Extension>		</FileFormat>
 <FileFormat ID="2053"	 	Name="EclipseCrossword Puzzle File"	PUID="fmt/1235">		<InternalSignatureID>1615</InternalSignatureID>	<Extension>ecw</Extension>		</FileFormat>
 <FileFormat ID="2054"	 	Name="EclipseCrossword Word List File"	PUID="fmt/1236">		<InternalSignatureID>1616</InternalSignatureID>	<Extension>ewl</Extension>		</FileFormat>
@@ -1429,7 +1400,7 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="2057"	 	Name="Band Interleaved By Pixel (BIP) Image Encoding"	PUID="fmt/1239">			<Extension>bip</Extension>		</FileFormat>
 <FileFormat ID="2058"	 	Name="Band Sequential (BSQ) Image Encoding"	PUID="fmt/1240">			<Extension>bsq</Extension>		</FileFormat>
 <FileFormat ID="2059"	 	Name="FO File"	PUID="fmt/1241">		<InternalSignatureID>1618</InternalSignatureID>	<Extension>fo</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2060"	MIMEType="application/vnd.software602.filler.form-xml-zip"	Name="ZFO File"	PUID="fmt/1242" / fmt/1243 / fmt/1244" / fmt/1245">			<Extension>zfo</Extension>		</FileFormat>
+<FileFormat ID="2060"	MIMEType="application/vnd.software602.filler.form-xml-zip"	Name="ZFO File"	PUID="fmt/1242 / fmt/1243 / fmt/1244 / fmt/1245">			<Extension>zfo</Extension>		</FileFormat>
 <FileFormat ID="2064"	MIMEType="text/vnd.sosi"	Name="SOSI"	PUID="fmt/1246 / fmt/1247 / fmt/1248 / fmt/1249 / fmt/1250"	>	<Extension>sos</Extension>	<HasPriorityOverFileFormatID>2064</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2069"	MIMEType="application/vnd.etsi.asic-e+zip"	Name="Electronically Certified Document (EDOC)"	PUID="fmt/1251">			<Extension>edoc</Extension>	<HasPriorityOverFileFormatID>2389</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2070"	 	Name="Raw Flux Image"	PUID="fmt/1252">		<InternalSignatureID>1627</InternalSignatureID>	<Extension>rfi</Extension>		</FileFormat>
@@ -1469,13 +1440,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="2119"	 	Name="The Print Shop Project"	PUID="fmt/1301"	Version="2-5">	<InternalSignatureID>1676</InternalSignatureID>	<Extension>psproj</Extension>		</FileFormat>
 <FileFormat ID="2120"	 	Name="PrintMaster Gold Project"	PUID="fmt/1302"	Version="1">	<InternalSignatureID>1677</InternalSignatureID>	<Extension>ban</Extension><Extension>cal</Extension><Extension>car</Extension><Extension>let</Extension><Extension>sig</Extension>		</FileFormat>
 <FileFormat ID="2121"	 	Name="Microsoft Shell Scrap Object File"	PUID="fmt/1303">			<Extension>shs</Extension>		</FileFormat>
-<FileFormat ID="2122"	 	Name="LocoScript Document"	PUID="fmt/1304"	Version="1">	<InternalSignatureID>1679</InternalSignatureID></FileFormat>			
-<FileFormat ID="2123"	 	Name="LocoScript Document"	PUID="fmt/1305"	Version="2">	<InternalSignatureID>1680</InternalSignatureID></FileFormat>			
-<FileFormat ID="2124"	 	Name="LocoScript Document"	PUID="fmt/1306"	Version="3">	<InternalSignatureID>1681</InternalSignatureID></FileFormat>			
-<FileFormat ID="2125"	 	Name="LocoScript Document"	PUID="fmt/1307"	Version="4">	<InternalSignatureID>1682</InternalSignatureID></FileFormat>			
-<FileFormat ID="2126"	 	Name="LocoScript PC"	PUID="fmt/1308">		<InternalSignatureID>1683</InternalSignatureID></FileFormat>			
-<FileFormat ID="2127"	 	Name="LocoScript Professional"	PUID="fmt/1309">		<InternalSignatureID>1684</InternalSignatureID></FileFormat>			
-<FileFormat ID="2128"	 	Name="LocoFile"	PUID="fmt/1310">		<InternalSignatureID>1685</InternalSignatureID></FileFormat>			
 <FileFormat ID="2129"	MIMEType="application/json"	Name="Tweet JSON"	PUID="fmt/1311">		<InternalSignatureID>1687</InternalSignatureID><InternalSignatureID>1688</InternalSignatureID><InternalSignatureID>1689</InternalSignatureID>	<Extension>json</Extension>	<HasPriorityOverFileFormatID>1617</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2130"	 	Name="CorelCHART Document"	PUID="fmt/1312"	Version="3-4">	<InternalSignatureID>1690</InternalSignatureID>	<Extension>cch</Extension>	<HasPriorityOverFileFormatID>1099</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2131"	 	Name="CorelCHART Document"	PUID="fmt/1313"	Version="5">	<InternalSignatureID>1691</InternalSignatureID>	<Extension>cch</Extension>	<HasPriorityOverFileFormatID>1099</HasPriorityOverFileFormatID>	</FileFormat>
@@ -1545,7 +1509,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="2214"	 	Name="FinePrint"	PUID="fmt/1396">		<InternalSignatureID>1772</InternalSignatureID>	<Extension>fp</Extension>		</FileFormat>
 <FileFormat ID="2215"	 	Name="FARO Laser Scan File"	PUID="fmt/1397">			<Extension>fls</Extension>		</FileFormat>
 <FileFormat ID="2216"	 	Name="FARO WorkSpace File"	PUID="fmt/1398">			<Extension>fws</Extension>		</FileFormat>
-<FileFormat ID="2217"	 	Name="DiskDoubler"	PUID="fmt/1399">		<InternalSignatureID>1773</InternalSignatureID></FileFormat>			
 <FileFormat ID="2218"	MIMEType="application/x-js-taro"	Name="Ichitaro Document"	PUID="fmt/1400"	Version="8">		<Extension>$td</Extension><Extension>jtd</Extension><Extension>jtt</Extension>		</FileFormat>
 <FileFormat ID="2219"	 	Name="Student Writing Center Report"	PUID="fmt/1401">		<InternalSignatureID>1775</InternalSignatureID>	<Extension>rp</Extension><Extension>rpt</Extension>		</FileFormat>
 <FileFormat ID="2220"	 	Name="Student Writing Center Journal"	PUID="fmt/1402">		<InternalSignatureID>1776</InternalSignatureID>	<Extension>jn</Extension><Extension>jnt</Extension>		</FileFormat>
@@ -1567,11 +1530,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="2240"	 	Name="Corel Photo House Image"	PUID="fmt/1422">			<Extension>cps</Extension>		</FileFormat>
 <FileFormat ID="2241"	 	Name="HP TRIM Outlook Saved Message File"	PUID="fmt/1423">			<Extension>mbx</Extension><Extension>vmbx</Extension>		</FileFormat>
 <FileFormat ID="2242"	MIMEType="application/vnd.wordperfect"	Name="WordPerfect Encrypted Document"	PUID="fmt/1424"	Version="4.2">	<InternalSignatureID>1792</InternalSignatureID>	<Extension>wp</Extension>		</FileFormat>
-<FileFormat ID="2243"	 	Name="MacDraw"	PUID="fmt/1425"	Version="0.9">	<InternalSignatureID>1793</InternalSignatureID></FileFormat>			
-<FileFormat ID="2244"	 	Name="MacDraw"	PUID="fmt/1426"	Version="1.x">	<InternalSignatureID>1794</InternalSignatureID></FileFormat>			
-<FileFormat ID="2245"	 	Name="MacDraw"	PUID="fmt/1427"	Version="II">	<InternalSignatureID>1795</InternalSignatureID></FileFormat>			
-<FileFormat ID="2246"	 	Name="MacDraw"	PUID="fmt/1428"	Version="Pro">	<InternalSignatureID>1796</InternalSignatureID></FileFormat>			
-<FileFormat ID="2247"	 	Name="MacPaint Image"	PUID="fmt/1429"	Version="2">	<InternalSignatureID>1798</InternalSignatureID></FileFormat>			
 <FileFormat ID="2248"	 	Name="Minitab Worksheet"	PUID="fmt/1430"	Version="8-11">	<InternalSignatureID>1799</InternalSignatureID>	<Extension>mtw</Extension>		</FileFormat>
 <FileFormat ID="2249"	 	Name="Minitab Portable Worksheet"	PUID="fmt/1431">		<InternalSignatureID>1800</InternalSignatureID>	<Extension>mtp</Extension>		</FileFormat>
 <FileFormat ID="2250"	 	Name="Minitab Worksheet"	PUID="fmt/1432"	Version="12">		<Extension>mtw</Extension>		</FileFormat>
@@ -1583,12 +1541,8 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="2256"	 	Name="Minitab Project"	PUID="fmt/1438"	Version="15+">		<Extension>mpj</Extension>		</FileFormat>
 <FileFormat ID="2257"	 	Name="Apple iWork Pages"	PUID="fmt/1439"	Version="09">		<Extension>pages</Extension>		</FileFormat>
 <FileFormat ID="2259"	 	Name="Apple iWork Document"	PUID="fmt/1441"	Version="14">		<Extension>iwa</Extension><Extension>key</Extension><Extension>numbers</Extension><Extension>pages</Extension><Extension>template</Extension>		</FileFormat>
-<FileFormat ID="2260"	MIMEType="application/vnd.Quark.QuarkXPress"	Name="QuarkXPress Document"	PUID="fmt/1442"	Version="1-2">	<InternalSignatureID>1801</InternalSignatureID><InternalSignatureID>1802</InternalSignatureID>			</FileFormat>
-<FileFormat ID="2261"	MIMEType="application/vnd.Quark.QuarkXPress"	Name="QuarkXPress Document"	PUID="fmt/1443"	Version="3.0">	<InternalSignatureID>1803</InternalSignatureID></FileFormat>			
 <FileFormat ID="2265"	 	Name="XLD4 (Bitmap Image)"	PUID="fmt/1447">		<InternalSignatureID>1809</InternalSignatureID>	<Extension>q4</Extension>		</FileFormat>
 <FileFormat ID="2266"	 	Name="XLD4 (Graphic Data Document)"	PUID="fmt/1448">		<InternalSignatureID>1810</InternalSignatureID>	<Extension>q4d</Extension>		</FileFormat>
-<FileFormat ID="2269"	 	Name="Aldus FreeHand Drawing"	PUID="fmt/1449"	Version="1">	<InternalSignatureID>1811</InternalSignatureID></FileFormat>			
-<FileFormat ID="2270"	 	Name="Aldus FreeHand Drawing"	PUID="fmt/1450"	Version="2">	<InternalSignatureID>1812</InternalSignatureID></FileFormat>			
 <FileFormat ID="2274"	MIMEType="application/vnd.lotus-1-2-3, application/x-123"	Name="Lotus 1-2-3 Worksheet"	PUID="fmt/1452"	Version="97">	<InternalSignatureID>1815</InternalSignatureID>	<Extension>123</Extension>		</FileFormat>
 <FileFormat ID="2275"	MIMEType="application/vnd.lotus-1-2-3, application/x-123"	Name="Lotus 1-2-3 Worksheet"	PUID="fmt/1453"	Version="9.8 Millennium">	<InternalSignatureID>1817</InternalSignatureID>	<Extension>123</Extension>		</FileFormat>
 <FileFormat ID="2277"	MIMEType="text/vtt"	Name="Web Video Text Tracks (WebVTT) Format"	PUID="fmt/1454">		<InternalSignatureID>1819</InternalSignatureID>	<Extension>vtt</Extension>		</FileFormat>
@@ -1601,7 +1555,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="2284"	 	Name="Autorun Maestro Menu File"	PUID="fmt/1461">		<InternalSignatureID>1827</InternalSignatureID>	<Extension>mnu</Extension>		</FileFormat>
 <FileFormat ID="2285"	 	Name="Comic Book Archive"	PUID="fmt/1462">			<Extension>cb7</Extension><Extension>cba</Extension><Extension>cbr</Extension><Extension>cbt</Extension><Extension>cbz</Extension>		</FileFormat>
 <FileFormat ID="2286"	 	Name=" Ableton Live Set"	PUID="fmt/1463"	Version="8.2.1 onwards">	<InternalSignatureID>1828</InternalSignatureID>	<Extension>als</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2287"	 	Name="Maestro Music File"	PUID="fmt/1464">		<InternalSignatureID>1829</InternalSignatureID></FileFormat>			
 <FileFormat ID="2288"	 	Name="OrCAD Layout File"	PUID="fmt/1465">		<InternalSignatureID>1831</InternalSignatureID>	<Extension>max</Extension>		</FileFormat>
 <FileFormat ID="2289"	 	Name="InstallShield Executable"	PUID="fmt/1466">		<InternalSignatureID>1833</InternalSignatureID>	<Extension>ex_</Extension>		</FileFormat>
 <FileFormat ID="2290"	 	Name="STOS Memory Bank"	PUID="fmt/1467">		<InternalSignatureID>1832</InternalSignatureID>	<Extension>mbk</Extension>	<HasPriorityOverFileFormatID>687</HasPriorityOverFileFormatID>	</FileFormat>
@@ -1612,7 +1565,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="2295"	MIMEType=" application/vnd.msa-disk-image"	Name="Magic Shadow Archiver Disk Image File"	PUID="fmt/1472">		<InternalSignatureID>1843</InternalSignatureID>	<Extension>msa</Extension>		</FileFormat>
 <FileFormat ID="2296"	 	Name="Archimedes Tracker Module"	PUID="fmt/1473">		<InternalSignatureID>1844</InternalSignatureID>	<Extension>musx</Extension>		</FileFormat>
 <FileFormat ID="2297"	MIMEType="application/tei+xml"	Name="TEI P XML"	PUID="fmt/1474 / fmt/1475 / fmt/1476 / fmt/1477"	>		<Extension>odd</Extension><Extension>tei</Extension><Extension>xml</Extension>	</FileFormat>
-<FileFormat ID="2301"	 	Name="Unisig"	PUID="fmt/1478">		<InternalSignatureID>1850</InternalSignatureID></FileFormat>			
 <FileFormat ID="2302"	MIMEType="image/vnd.xiff"	Name="XIFF (Xerox Image File Format)"	PUID="fmt/1479"	Version="2">	<InternalSignatureID>1851</InternalSignatureID>	<Extension>xif</Extension>	<HasPriorityOverFileFormatID>1099</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2303"	MIMEType="image/vnd.xiff"	Name="XIFF (Xerox Image File Format)"	PUID="fmt/1480"	Version="3">	<InternalSignatureID>1852</InternalSignatureID>	<Extension>xif</Extension>	<HasPriorityOverFileFormatID>1099</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2304"	 	Name="Micrografx In-A-Vision Drawing"	PUID="fmt/1481">		<InternalSignatureID>1853</InternalSignatureID>	<Extension>pic</Extension>		</FileFormat>
@@ -1624,7 +1576,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="2310"	 	Name="Timeline Maker Document"	PUID="fmt/1487">		<InternalSignatureID>1859</InternalSignatureID><InternalSignatureID>1860</InternalSignatureID>	<Extension>tlm</Extension><Extension>tlm3</Extension><Extension>tlm4</Extension><Extension>tlmp</Extension>		</FileFormat>
 <FileFormat ID="2311"	 	Name="Phantom CINE Video File"	PUID="fmt/1488">		<InternalSignatureID>1861</InternalSignatureID>	<Extension>cin</Extension><Extension>cine</Extension>		</FileFormat>
 <FileFormat ID="2312"	 	Name="Phantom CINE Compressed Video File"	PUID="fmt/1489">		<InternalSignatureID>1862</InternalSignatureID>	<Extension>cci</Extension>		</FileFormat>
-<FileFormat ID="2313"	 	Name="HyperCard Stack"	PUID="fmt/1490">		<InternalSignatureID>1863</InternalSignatureID></FileFormat>			
 <FileFormat ID="2314"	 	Name="Harvard Graphics Presentation"	PUID="fmt/1491"	Version="1-3">	<InternalSignatureID>1864</InternalSignatureID>	<Extension>prs</Extension>		</FileFormat>
 <FileFormat ID="2315"	 	Name="Harvard Graphics Presentation"	PUID="fmt/1492"	Version="4">		<Extension>pr4</Extension>		</FileFormat>
 <FileFormat ID="2316"	 	Name="NTI JewelCase Maker"	PUID="fmt/1493">			<Extension>jwc</Extension>		</FileFormat>
@@ -1648,7 +1599,7 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="2368"	 	Name="ELAN Annotation File"	PUID="fmt/1543">		<InternalSignatureID>1889</InternalSignatureID>	<Extension>eaf</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2369"	 	Name="ELAN Preference File"	PUID="fmt/1544">		<InternalSignatureID>1890</InternalSignatureID>	<Extension>pfsx</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2370"	 	Name="NeoDesk Icon File"	PUID="fmt/1545"	Version="1 and 2">		<Extension>nic</Extension>		</FileFormat>
-<FileFormat ID="2371"	 	Name="Daisy-Dot Font File"	PUID="fmt/1546" / fmt/1547"	>		<Extension>nlq</Extension>		</FileFormat>
+<FileFormat ID="2371"	 	Name="Daisy-Dot Font File"	PUID="fmt/1546 / fmt/1547"	>		<Extension>nlq</Extension>		</FileFormat>
 <FileFormat ID="2373"	 	Name="Visual Basics MAK File"	PUID="fmt/1548"	Version="3 or earlier">	<InternalSignatureID>1893</InternalSignatureID>	<Extension>mak</Extension>		</FileFormat>
 <FileFormat ID="2374"	 	Name="Bentley Microstation Hidden Line File"	PUID="fmt/1549">		<InternalSignatureID>1894</InternalSignatureID>	<Extension>hln</Extension>		</FileFormat>
 <FileFormat ID="2375"	 	Name="MATLAB Mat File"	PUID="fmt/1550"	Version="Level 4">		<Extension>mat</Extension>		</FileFormat>
