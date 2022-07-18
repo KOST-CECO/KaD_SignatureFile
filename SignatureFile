@@ -129,7 +129,7 @@
 <FileFormat ID="158"	MIMEType="image/svg+xml"	Name="Scalable Vector Graphics Compressed"	PUID="x-fmt/109">			<Extension>svgz</Extension>		</FileFormat>
 <FileFormat ID="163"	MIMEType="text/plain"	Name="Plain Text File"	PUID="x-fmt/111">			<Extension>txt</Extension>		</FileFormat>
 <FileFormat ID="164"	 	Name="AutoCAD External Database Configuration File"	PUID="x-fmt/112">			<Extension>udl</Extension>		</FileFormat>
-<FileFormat ID="165"	MIMEType="application/vnd.visio"	Name="Microsoft Visio Drawing"	PUID="x-fmt/113"	Version="5.0">		<Extension>vsd</Extension><Extension>vss</Extension><Extension>vst</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1229</HasPriorityOverFileFormatID>	</FileFormat>
+<FileFormat ID="165"	MIMEType="application/vnd.visio"	Name="Microsoft Visio"	PUID="x-fmt/113 / x-fmt/258 / fmt/442 / fmt/443 / fmt/1508 / fmt/1509 / fmt/1510"	>		<Extension>vsd</Extension><Extension>vss</Extension><Extension>vst</Extension><Extension>vsw</Extension>	</FileFormat>
 <FileFormat ID="166"	MIMEType="application/vnd.lotus-1-2-3, application/x-123"	Name="Lotus 1-2-3 Worksheet"	PUID="x-fmt/114"	Version="2.0">	<InternalSignatureID>461</InternalSignatureID>	<Extension>wk1</Extension><Extension>wk2</Extension>		</FileFormat>
 <FileFormat ID="167"	MIMEType="application/lotus123, application/vnd.lotus-1-2-3"	Name="Lotus 1-2-3 Worksheet"	PUID="x-fmt/115"	Version="3.0">	<InternalSignatureID>462</InternalSignatureID>	<Extension>wk3</Extension>		</FileFormat>
 <FileFormat ID="168"	MIMEType="application/lotus123, application/vnd.lotus-1-2-3"	Name="Lotus 1-2-3 Worksheet"	PUID="x-fmt/116"	Version="4-5">	<InternalSignatureID>463</InternalSignatureID>	<Extension>wk4</Extension>		</FileFormat>
@@ -257,13 +257,7 @@
 <FileFormat ID="363"	MIMEType="application/vnd.ms-project"	Name="Microsoft Project"	PUID="x-fmt/247"	Version="2000-2003">		<Extension>mpp</Extension>		</FileFormat>
 <FileFormat ID="364"	 	Name="Microsoft Outlook Personal Folders (ANSI)"	PUID="x-fmt/248"	Version="1997-2002">	<InternalSignatureID>260</InternalSignatureID>	<Extension>pst</Extension>		</FileFormat>
 <FileFormat ID="365"	 	Name="Microsoft Outlook Personal Folders (Unicode)"	PUID="x-fmt/249"	Version="2003-2007">	<InternalSignatureID>261</InternalSignatureID>	<Extension>pst</Extension>		</FileFormat>
-<FileFormat ID="370"	MIMEType="application/x-mspublisher"	Name="Microsoft Publisher"	PUID="x-fmt/252"	Version="2.0">		<Extension>pub</Extension>		</FileFormat>
-<FileFormat ID="371"	MIMEType="application/x-mspublisher"	Name="Microsoft Publisher"	PUID="x-fmt/253"	Version="95">		<Extension>pub</Extension>		</FileFormat>
-<FileFormat ID="372"	MIMEType="application/x-mspublisher"	Name="Microsoft Publisher"	PUID="x-fmt/254"	Version="97">		<Extension>pub</Extension>		</FileFormat>
-<FileFormat ID="373"	MIMEType="application/x-mspublisher"	Name="Microsoft Publisher"	PUID="x-fmt/255"	Version="98">		<Extension>pub</Extension>		</FileFormat>
-<FileFormat ID="374"	MIMEType="application/x-mspublisher"	Name="Microsoft Publisher"	PUID="x-fmt/256"	Version="2000">		<Extension>pub</Extension>		</FileFormat>
-<FileFormat ID="375"	MIMEType="application/x-mspublisher"	Name="Microsoft Publisher"	PUID="x-fmt/257"	Version="2002">		<Extension>pub</Extension>		</FileFormat>
-<FileFormat ID="376"	MIMEType="application/vnd.visio"	Name="Microsoft Visio Drawing"	PUID="x-fmt/258"	Version="2000-2002">		<Extension>vsd</Extension><Extension>vss</Extension><Extension>vst</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1229</HasPriorityOverFileFormatID>	</FileFormat>
+<FileFormat ID="370"	MIMEType="application/x-mspublisher"	Name="Microsoft Publisher"	PUID="x-fmt/252 / x-fmt/253 / x-fmt/254 / x-fmt/255 / x-fmt/256 / x-fmt/257 / fmt/1511 / fmt/1512 / fmt/1513 / fmt/1514 / fmt/1515 / fmt/1516"	>		<Extension>pub</Extension>		</FileFormat>
 <FileFormat ID="378"	 	Name="WordStar for MS-DOS Document"	PUID="x-fmt/260"	Version="4.0">		<Extension>ws</Extension><Extension>ws4</Extension>		</FileFormat>
 <FileFormat ID="379"	 	Name="WordStar for MS-DOS Document"	PUID="x-fmt/261"	Version="7.0">	<InternalSignatureID>613</InternalSignatureID>	<Extension>ws</Extension><Extension>ws7</Extension>		</FileFormat>
 <FileFormat ID="380"	 	Name="WordStar for Windows Document"	PUID="x-fmt/262"	Version="2.0">		<Extension>ws</Extension><Extension>wsw</Extension>		</FileFormat>
@@ -759,8 +753,6 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="1226"	 	Name="BSDIFF"	PUID="fmt/439"	Version="4.0">	<InternalSignatureID>672</InternalSignatureID>	<Extension>bsdiff</Extension>		</FileFormat>
 <FileFormat ID="1227"	MIMEType="application/vnd.ms-project"	Name="Microsoft Project"	PUID="fmt/440"	Version="2007">		<Extension>mpp</Extension>		</FileFormat>
 <FileFormat ID="1228"	 	Name="Windows Media Video 9 Advanced Profile (WVC1)"	PUID="fmt/441"	Version="9 Advanced Profile (WVC1)">	<InternalSignatureID>685</InternalSignatureID>	<Extension>wmv</Extension>	<HasPriorityOverFileFormatID>691</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>692</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1229"	MIMEType="application/vnd.visio"	Name="Microsoft Visio (generic)"	PUID="fmt/442">			<Extension>vsd</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1230"	MIMEType="application/vnd.visio"	Name="Microsoft Visio Drawing"	PUID="fmt/443"	Version="2003-2010">		<Extension>vsd</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1229</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1231"	 	Name="OpenDocument Database Format"	PUID="fmt/444"	Version="1.1">		<Extension>odb</Extension>	<HasPriorityOverFileFormatID>382</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>777</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>778</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1232"	MIMEType="application/vnd.ms-excel.sheet.macroEnabled.12"	Name="Microsoft Excel Macro-Enabled"	PUID="fmt/445"	Version="2007">		<Extension>xlsm</Extension>		</FileFormat>
 <FileFormat ID="1233"	 	Name="Adobe Portable Document Catalog Index File"	PUID="fmt/446"	Version="2.0">	<InternalSignatureID>698</InternalSignatureID>	<Extension>pdx</Extension>		</FileFormat>
@@ -1571,11 +1563,7 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="2232"	 	Name="PFS:Write Document"	PUID="fmt/1414">		<InternalSignatureID>1790</InternalSignatureID>	<Extension>pfs</Extension>		</FileFormat>
 <FileFormat ID="2233"	 	Name="GST Publisher File"	PUID="fmt/1415"	Version="1">	<InternalSignatureID>1791</InternalSignatureID>	<Extension>dtp</Extension>		</FileFormat>
 <FileFormat ID="2234"	 	Name="GST Publisher File"	PUID="fmt/1416"	Version="2">		<Extension>dtp</Extension>		</FileFormat>
-<FileFormat ID="2235"	 	Name="Corel Print House Document"	PUID="fmt/1417"	Version="1">		<Extension>cpd</Extension><Extension>cph</Extension>		</FileFormat>
-<FileFormat ID="2236"	 	Name="Corel Print House Document"	PUID="fmt/1418"	Version="2">		<Extension>cpd</Extension><Extension>cph</Extension>		</FileFormat>
-<FileFormat ID="2237"	 	Name="Corel Print House/Print Office Document"	PUID="fmt/1419"	Version="3">		<Extension>cpd</Extension><Extension>cph</Extension><Extension>cpo</Extension>		</FileFormat>
-<FileFormat ID="2238"	 	Name="Corel Print House/Print Office Document"	PUID="fmt/1420"	Version="4">		<Extension>cpd</Extension><Extension>cph</Extension><Extension>cpo</Extension>		</FileFormat>
-<FileFormat ID="2239"	 	Name="Corel Print House/Print Office Document"	PUID="fmt/1421"	Version="5">		<Extension>cpd</Extension><Extension>cph</Extension><Extension>cpo</Extension>		</FileFormat>
+<FileFormat ID="2235"	 	Name="Corel Print House/Print Office Document"	PUID="fmt/1417 / fmt/1418 / fmt/1419 / fmt/1420 / fmt/1421"	>		<Extension>cpd</Extension><Extension>cph</Extension><Extension>cpo</Extension>		</FileFormat>
 <FileFormat ID="2240"	 	Name="Corel Photo House Image"	PUID="fmt/1422">			<Extension>cps</Extension>		</FileFormat>
 <FileFormat ID="2241"	 	Name="HP TRIM Outlook Saved Message File"	PUID="fmt/1423">			<Extension>mbx</Extension><Extension>vmbx</Extension>		</FileFormat>
 <FileFormat ID="2242"	MIMEType="application/vnd.wordperfect"	Name="WordPerfect Encrypted Document"	PUID="fmt/1424"	Version="4.2">	<InternalSignatureID>1792</InternalSignatureID>	<Extension>wp</Extension>		</FileFormat>
@@ -1651,37 +1639,16 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="2327"	 	Name="Agisoft Tiled Model"	PUID="fmt/1504">		<InternalSignatureID>1876</InternalSignatureID>	<Extension>tls</Extension>		</FileFormat>
 <FileFormat ID="2328"	 	Name="Agisoft Point Cloud"	PUID="fmt/1505">		<InternalSignatureID>1877</InternalSignatureID>	<Extension>oc3</Extension>		</FileFormat>
 <FileFormat ID="2329"	 	Name="EinScan RGE 3D Range File"	PUID="fmt/1506">		<InternalSignatureID>1878</InternalSignatureID>	<Extension>rge</Extension>		</FileFormat>
-<FileFormat ID="2331"	MIMEType="application/vnd.visio"	Name="Microsoft Visio Drawing"	PUID="fmt/1508"	Version="2">	<InternalSignatureID>1881</InternalSignatureID>	<Extension>vsd</Extension><Extension>vss</Extension><Extension>vst</Extension>		</FileFormat>
-<FileFormat ID="2332"	MIMEType="application/vnd.visio"	Name="Microsoft Visio Drawing"	PUID="fmt/1509"	Version="3">		<Extension>vsd</Extension><Extension>vss</Extension><Extension>vst</Extension>	<HasPriorityOverFileFormatID>1229</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2333"	MIMEType="application/vnd.visio"	Name="Microsoft Visio Drawing"	PUID="fmt/1510"	Version="4">		<Extension>vsd</Extension><Extension>vss</Extension><Extension>vst</Extension><Extension>vsw</Extension>	<HasPriorityOverFileFormatID>1229</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2335"	MIMEType="application/x-mspublisher"	Name="Microsoft Publisher"	PUID="fmt/1511"	Version="1">	<InternalSignatureID>1882</InternalSignatureID>	<Extension>pub</Extension>		</FileFormat>
-<FileFormat ID="2336"	MIMEType="application/x-mspublisher"	Name="Microsoft Publisher"	PUID="fmt/1512"	Version="2003">		<Extension>pub</Extension>		</FileFormat>
-<FileFormat ID="2337"	MIMEType="application/x-mspublisher"	Name="Microsoft Publisher"	PUID="fmt/1513"	Version="2007">		<Extension>pub</Extension>		</FileFormat>
-<FileFormat ID="2338"	MIMEType="application/x-mspublisher"	Name="Microsoft Publisher"	PUID="fmt/1514"	Version="2010">		<Extension>pub</Extension>		</FileFormat>
-<FileFormat ID="2339"	MIMEType="application/x-mspublisher"	Name="Microsoft Publisher"	PUID="fmt/1515"	Version="2013">		<Extension>pub</Extension>		</FileFormat>
-<FileFormat ID="2340"	MIMEType="application/x-mspublisher"	Name="Microsoft Publisher"	PUID="fmt/1516"	Version="2016-2019">		<Extension>pub</Extension>		</FileFormat>
-<FileFormat ID="2341"	 	Name="Serif PhotoPlus Image"	PUID="fmt/1517"	Version="5-X2">		<Extension>spp</Extension>		</FileFormat>
-<FileFormat ID="2342"	 	Name="Serif PhotoPlus Image"	PUID="fmt/1518"	Version="X3 Onwards">		<Extension>spp</Extension>		</FileFormat>
-<FileFormat ID="2343"	 	Name="Serif DrawPlus Drawing"	PUID="fmt/1519"	Version="6">		<Extension>dpa</Extension><Extension>dpp</Extension><Extension>dpx</Extension>	<HasPriorityOverFileFormatID>2352</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2344"	 	Name="Serif DrawPlus Drawing"	PUID="fmt/1520"	Version="7">		<Extension>dpa</Extension><Extension>dpp</Extension><Extension>dpx</Extension>	<HasPriorityOverFileFormatID>2352</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2345"	 	Name="Serif DrawPlus Drawing"	PUID="fmt/1521"	Version="8">		<Extension>dpa</Extension><Extension>dpp</Extension><Extension>dpx</Extension>	<HasPriorityOverFileFormatID>2352</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2346"	 	Name="Serif DrawPlus Drawing"	PUID="fmt/1522"	Version="X2">		<Extension>dpa</Extension><Extension>dpp</Extension><Extension>dpx</Extension>	<HasPriorityOverFileFormatID>2352</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2347"	 	Name="Serif DrawPlus Drawing"	PUID="fmt/1523"	Version="X3">		<Extension>dpa</Extension><Extension>dpp</Extension><Extension>dpx</Extension>	<HasPriorityOverFileFormatID>2352</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2348"	 	Name="Serif DrawPlus Drawing"	PUID="fmt/1524"	Version="X4">		<Extension>dpa</Extension><Extension>dpp</Extension><Extension>dpx</Extension>	<HasPriorityOverFileFormatID>2352</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2349"	 	Name="Serif DrawPlus Drawing"	PUID="fmt/1525"	Version="X5">		<Extension>dpa</Extension><Extension>dpp</Extension><Extension>dpx</Extension>	<HasPriorityOverFileFormatID>2352</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2350"	 	Name="Serif DrawPlus Drawing"	PUID="fmt/1526"	Version="X6">		<Extension>dpa</Extension><Extension>dpp</Extension><Extension>dpx</Extension>	<HasPriorityOverFileFormatID>2352</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2351"	 	Name="Serif DrawPlus Drawing"	PUID="fmt/1527"	Version="X8">		<Extension>dpa</Extension><Extension>dpp</Extension><Extension>dpx</Extension>	<HasPriorityOverFileFormatID>2352</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2352"	 	Name="Serif DrawPlus Drawing"	PUID="fmt/1528"	Version="Generic">		<Extension>dpa</Extension><Extension>dpp</Extension>		</FileFormat>
+<FileFormat ID="2341"	 	Name="Serif PhotoPlus Image"	PUID="fmt/1517 / fmt/1518"	>		<Extension>spp</Extension>		</FileFormat>
+<FileFormat ID="2343"	 	Name="Serif DrawPlus Drawing"	PUID="fmt/1519 / fmt/1520 / fmt/1521 / fmt/1522 / fmt/1523 / fmt/1524 / fmt/1525 / fmt/1526 / fmt/1527 / fmt/1528"	>		<Extension>dpa</Extension><Extension>dpp</Extension><Extension>dpx</Extension>		</FileFormat>
 <FileFormat ID="2362"	 	Name="CompuServe RLE"	PUID="fmt/1538">		<InternalSignatureID>1884</InternalSignatureID>	<Extension>rle</Extension>		</FileFormat>
 <FileFormat ID="2363"	 	Name="Raster Matrix Format"	PUID="fmt/1539">		<InternalSignatureID>1885</InternalSignatureID>	<Extension>rsw</Extension>		</FileFormat>
 <FileFormat ID="2364"	 	Name="NeoDisk Icon File"	PUID="fmt/1540"	Version="3">	<InternalSignatureID>1886</InternalSignatureID>	<Extension>nic</Extension>		</FileFormat>
-<FileFormat ID="2366"	 	Name="Visual Basic Form File"	PUID="fmt/1541"	Version="4 onwards">	<InternalSignatureID>1887</InternalSignatureID>	<Extension>frm</Extension>	<HasPriorityOverFileFormatID>2399</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2367"	 	Name="Visual Basic Form File"	PUID="fmt/1542"	Version="3 or earlier">	<InternalSignatureID>1888</InternalSignatureID>	<Extension>frm</Extension>		</FileFormat>
+<FileFormat ID="2366"	 	Name="Visual Basic Form File"	PUID="fmt/1541 / fmt/1542"	>		<Extension>frm</Extension>		</FileFormat>
 <FileFormat ID="2368"	 	Name="ELAN Annotation File"	PUID="fmt/1543">		<InternalSignatureID>1889</InternalSignatureID>	<Extension>eaf</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2369"	 	Name="ELAN Preference File"	PUID="fmt/1544">		<InternalSignatureID>1890</InternalSignatureID>	<Extension>pfsx</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2370"	 	Name="NeoDesk Icon File"	PUID="fmt/1545"	Version="1 and 2">		<Extension>nic</Extension>		</FileFormat>
-<FileFormat ID="2371"	 	Name="Daisy-Dot Font File"	PUID="fmt/1546"	Version="I and II">	<InternalSignatureID>1891</InternalSignatureID>	<Extension>nlq</Extension>		</FileFormat>
-<FileFormat ID="2372"	 	Name="Daisy-Dot Font File"	PUID="fmt/1547"	Version="III">	<InternalSignatureID>1892</InternalSignatureID>	<Extension>nlq</Extension>		</FileFormat>
+<FileFormat ID="2371"	 	Name="Daisy-Dot Font File"	PUID="fmt/1546" / fmt/1547"	>		<Extension>nlq</Extension>		</FileFormat>
 <FileFormat ID="2373"	 	Name="Visual Basics MAK File"	PUID="fmt/1548"	Version="3 or earlier">	<InternalSignatureID>1893</InternalSignatureID>	<Extension>mak</Extension>		</FileFormat>
 <FileFormat ID="2374"	 	Name="Bentley Microstation Hidden Line File"	PUID="fmt/1549">		<InternalSignatureID>1894</InternalSignatureID>	<Extension>hln</Extension>		</FileFormat>
 <FileFormat ID="2375"	 	Name="MATLAB Mat File"	PUID="fmt/1550"	Version="Level 4">		<Extension>mat</Extension>		</FileFormat>
@@ -1711,8 +1678,7 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="2399"	 	Name="Visual Basic Project Workspace File"	PUID="fmt/1574"	Version="1-6">	<InternalSignatureID>1915</InternalSignatureID>	<Extension>vbw</Extension>		</FileFormat>
 <FileFormat ID="2400"	 	Name="Spectrum 512 Compressed | Spectrum 512 Smooshed"	PUID="fmt/1575">		<InternalSignatureID>1916</InternalSignatureID>	<Extension>spc</Extension><Extension>sps</Extension>	<HasPriorityOverFileFormatID>687</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2401"	 	Name="Spectrum 512 Uncompressed | Spectrum 512 Uncompressed Enhanced"	PUID="fmt/1576">			<Extension>spu</Extension>	<HasPriorityOverFileFormatID>687</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2402"	 	Name="Spectrum 512 Extended"	PUID="fmt/1577"	Version="1">	<InternalSignatureID>1917</InternalSignatureID>	<Extension>spx</Extension>		</FileFormat>
-<FileFormat ID="2403"	 	Name="Spectrum 512 Extended"	PUID="fmt/1578"	Version="2">	<InternalSignatureID>1918</InternalSignatureID>	<Extension>spx</Extension>		</FileFormat>
+<FileFormat ID="2402"	 	Name="Spectrum 512 Extended"	PUID="fmt/1577 / fmt/1578"	>		<Extension>spx</Extension>		</FileFormat>
 <FileFormat ID="2404"	 	Name="SPYne Containers"	PUID="fmt/1579">		<InternalSignatureID>1929</InternalSignatureID>	<Extension>spy</Extension>		</FileFormat>
 <FileFormat ID="2405"	 	Name="Envision Publisher file"	PUID="fmt/1580">		<InternalSignatureID>1919</InternalSignatureID>	<Extension>evp</Extension>		</FileFormat>
 <FileFormat ID="2406"	 	Name="Envision Publisher font files"	PUID="fmt/1581">		<InternalSignatureID>1920</InternalSignatureID>	<Extension>svf</Extension>		</FileFormat>
@@ -1735,8 +1701,7 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="2425"	 	Name="Stata .do command file"	PUID="fmt/1598">			<Extension>do</Extension>		</FileFormat>
 <FileFormat ID="2426"	 	Name="R program file"	PUID="fmt/1599">			<Extension>r</Extension>		</FileFormat>
 <FileFormat ID="2427"	 	Name="ESRI ArcInfo DAT File (internal)"	PUID="fmt/1600">			<Extension>dat</Extension>		</FileFormat>
-<FileFormat ID="2428"	 	Name="Type Library"	PUID="fmt/1601"	Version="Type 1">	<InternalSignatureID>1936</InternalSignatureID>	<Extension>tlb</Extension>		</FileFormat>
-<FileFormat ID="2429"	 	Name="Type Library"	PUID="fmt/1602"	Version="Type 2">	<InternalSignatureID>1937</InternalSignatureID>	<Extension>tlb</Extension>		</FileFormat>
+<FileFormat ID="2428"	 	Name="Type Library"	PUID="fmt/1601 / fmt/1602"	>		<Extension>tlb</Extension>		</FileFormat>
 <FileFormat ID="2430"	 	Name="TUNDRA"	PUID="fmt/1603">		<InternalSignatureID>1938</InternalSignatureID>	<Extension>tnd</Extension>		</FileFormat>
 <FileFormat ID="2431"	 	Name="EggPaint (Atari Falcon)"	PUID="fmt/1604">		<InternalSignatureID>1939</InternalSignatureID>	<Extension>trp</Extension>		</FileFormat>
 <FileFormat ID="2432"	 	Name="True Colour Sprites [Spooky Sprites] (Atari Falcon)"	PUID="fmt/1605">		<InternalSignatureID>1940</InternalSignatureID>	<Extension>trs</Extension>		</FileFormat>
@@ -1757,16 +1722,13 @@ FileFormat ID="558"	 	Name="dBASE for Windows database"	PUID="x-fmt/380"	Version
 <FileFormat ID="2447"	 	Name="Aero Studio Song"	PUID="fmt/1620">		<InternalSignatureID>1961</InternalSignatureID>	<Extension>aero</Extension>		</FileFormat>
 <FileFormat ID="2448"	 	Name="AHX-Module Format (formerly THX module format)"	PUID="fmt/1621"	Version="0-2">	<InternalSignatureID>1962</InternalSignatureID>	<Extension>ahx</Extension>		</FileFormat>
 <FileFormat ID="2449"	 	Name="Asylum Music Format"	PUID="fmt/1622">		<InternalSignatureID>1963</InternalSignatureID>	<Extension>amf</Extension>		</FileFormat>
-<FileFormat ID="2450"	 	Name="Art Of Noise"	PUID="fmt/1623"	Version="4 Channel Module">	<InternalSignatureID>1964</InternalSignatureID>	<Extension>aon</Extension>		</FileFormat>
-<FileFormat ID="2451"	 	Name="Art Of Noise"	PUID="fmt/1624"	Version="8 Channel Module">	<InternalSignatureID>1965</InternalSignatureID>	<Extension>aon</Extension>		</FileFormat>
+<FileFormat ID="2450"	 	Name="Art Of Noise"	PUID="fmt/1623 / fmt/1624"	>		<Extension>aon</Extension>		</FileFormat>
 <FileFormat ID="2452"	 	Name="ESRI Colour File Format"	PUID="fmt/1625">			<Extension>clr</Extension>		</FileFormat>
 <FileFormat ID="2453"	 	Name="MicroStation Symbology Resource File"	PUID="fmt/1626">		<InternalSignatureID>1966</InternalSignatureID>	<Extension>rsc</Extension>		</FileFormat>
 <FileFormat ID="2454"	 	Name="Z Print Build File"	PUID="fmt/1627">		<InternalSignatureID>1967</InternalSignatureID>	<Extension>zbd</Extension>		</FileFormat>
 <FileFormat ID="2468"	 	Name="Adobe InDesign Interchange Document"	PUID="fmt/1641">			<Extension>inx</Extension>		</FileFormat>	
 <FileFormat ID="2470"	 	Name="Lenel Network Video Recorder File"	PUID="fmt/1643">		<InternalSignatureID>1983</InternalSignatureID>	<Extension>lnr</Extension>		</FileFormat>
-<FileFormat ID="2471"	 	Name="Roxio Label Creator Project File"	PUID="fmt/1644"	Version="4-5">		<Extension>jwl</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2472"	 	Name="Roxio Label Creator Project File"	PUID="fmt/1645"	Version="6-7">		<Extension>jwl</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2473"	 	Name="Roxio Label Creator Project File"	PUID="fmt/1646"	Version="8-11">	<InternalSignatureID>1984</InternalSignatureID>	<Extension>jwl</Extension>		</FileFormat>
+<FileFormat ID="2471"	 	Name="Roxio Label Creator Project File"	PUID="fmt/1644 / fmt/1645 / fmt/1646"	>		<Extension>jwl</Extension>		</FileFormat>
 <FileFormat ID="2474"	 	Name="Inspiration Software File"	PUID="fmt/1647">		<InternalSignatureID>1985</InternalSignatureID>	<Extension>isf</Extension>		</FileFormat>
 <FileFormat ID="2475"	MIMEType="application/x-rpt"	Name="Crystal Reports File"	PUID="fmt/1648">			<Extension>rpt</Extension>		</FileFormat>
 </FileFormatCollection>
