@@ -106,9 +106,9 @@
 <FileFormat ID="70"	 	Name="AutoCAD dbConnect Query Set"	PUID="x-fmt/39">			<Extension>dbq</Extension>		</FileFormat>
 <FileFormat ID="71"	 	Name="AutoCAD dbConnect Template Set"	PUID="x-fmt/40">			<Extension>dbt</Extension>		</FileFormat>
 <FileFormat ID="72"	 	Name="Data Interchange Format"	PUID="x-fmt/41">		<InternalSignatureID>380</InternalSignatureID>	<Extension>dif</Extension>		</FileFormat>
-<FileFormat ID="73"	 	Name="Wordperfect Secondary File"	PUID="x-fmt/42"	Version="5.0">		<Extension>doc</Extension>		</FileFormat>
-<FileFormat ID="74"	 	Name="Wordperfect Secondary File"	PUID="x-fmt/43"	Version="5.1/5.2">		<Extension>doc</Extension>		</FileFormat>
-<FileFormat ID="75"	MIMEType="application/vnd.wordperfect"	Name="WordPerfect for MS-DOS/Windows Document"	PUID="x-fmt/44"	Version="6.0">	<InternalSignatureID>246</InternalSignatureID>	<Extension>doc</Extension><Extension>w60</Extension><Extension>wp</Extension><Extension>wp6</Extension><Extension>wpd</Extension>		</FileFormat>
+<FileFormat ID="73"	 	Name="Wordperfect Secondary File"	PUID="x-fmt/42"	Version="5.0">				</FileFormat>
+<FileFormat ID="74"	 	Name="Wordperfect Secondary File"	PUID="x-fmt/43"	Version="5.1/5.2">				</FileFormat>
+<FileFormat ID="75"	MIMEType="application/vnd.wordperfect"	Name="WordPerfect for MS-DOS/Windows Document"	PUID="x-fmt/44"	Version="6.0">	<InternalSignatureID>246</InternalSignatureID>	<Extension>w60</Extension><Extension>wp</Extension><Extension>wp6</Extension><Extension>wpd</Extension>		</FileFormat>
 <FileFormat ID="76"	 	Name="Microsoft Word Document Template"	PUID="x-fmt/45"	Version="97-2003">		<Extension>dot</Extension>	<HasPriorityOverFileFormatID>690</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1401</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="77"	 	Name="Microsoft Excel ODBC Query"	PUID="x-fmt/46">			<Extension>dqy</Extension>		</FileFormat>
 <FileFormat ID="78"	 	Name="Micrografx Draw"	PUID="x-fmt/47"	Version="1-2">	<InternalSignatureID>1696</InternalSignatureID>	<Extension>drw</Extension>		</FileFormat>
@@ -153,7 +153,7 @@
 <FileFormat ID="130"	 	Name="Picture Publisher Bitmap"	PUID="x-fmt/85"	Version="5.0">	<InternalSignatureID>1743</InternalSignatureID>	<Extension>pp5</Extension>		</FileFormat>
 <FileFormat ID="131"	 	Name="Microsoft Powerpoint Add-In"	PUID="x-fmt/86">			<Extension>ppa</Extension>		</FileFormat>
 <FileFormat ID="132"	MIMEType="application/vnd.ms-powerpoint"	Name="Microsoft Powerpoint Presentation Show"	PUID="x-fmt/87"	Version="97-2003">		<Extension>pps</Extension>		</FileFormat>
-<FileFormat ID="133"	MIMEType="application/vnd.ms-powerpoint"	Name="Microsoft Powerpoint Presentation"	PUID="x-fmt/88"	Version="4.0">	<InternalSignatureID>181</InternalSignatureID>	<Extension>ppt</Extension>	<HasPriorityOverFileFormatID>135</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>	</FileFormat>
+<FileFormat ID="133"	MIMEType="application/vnd.ms-powerpoint"	Name="Microsoft Powerpoint Presentation"	PUID="PPT"	>		<Extension>ppt</Extension>		</FileFormat>
 <FileFormat ID="134"	MIMEType="application/vnd.ms-powerpoint"	Name="Microsoft Powerpoint Presentation"	PUID="fmt/125"	Version="95">	<InternalSignatureID>171</InternalSignatureID>	<Extension>ppt</Extension>	<HasPriorityOverFileFormatID>135</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="135"	MIMEType="application/vnd.ms-powerpoint"	Name="Microsoft Powerpoint Presentation"	PUID="fmt/126"	Version="97-2003">	<InternalSignatureID>172</InternalSignatureID>	<Extension>ppt</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="136"	 	Name="Freelance File"	PUID="x-fmt/89"	Version="1.0-2.1">		<Extension>pre</Extension>		</FileFormat>
@@ -194,7 +194,6 @@
 <FileFormat ID="181"	 	Name="Microsoft Excel Chart"	PUID="x-fmt/126"	Version="4.0">	<InternalSignatureID>876</InternalSignatureID>	<Extension>xlc</Extension>		</FileFormat>
 <FileFormat ID="182"	 	Name="AutoCAD Xref Log"	PUID="x-fmt/127">			<Extension>xlg</Extension>		</FileFormat>
 <FileFormat ID="186"	 	Name="Microsoft Excel Workspace"	PUID="x-fmt/128">			<Extension>xlw</Extension>		</FileFormat>
-<FileFormat ID="190"	 	Name="Stationery for Mac OS X"	PUID="x-fmt/131">			<Extension>doc</Extension>		</FileFormat>
 <FileFormat ID="191"	 	Name="Speller Custom Dictionary"	PUID="x-fmt/132">			<Extension>dic</Extension>		</FileFormat>
 <FileFormat ID="192"	 	Name="Speller Exclude Dictionary"	PUID="x-fmt/133">			<Extension>dic</Extension>		</FileFormat>
 <FileFormat ID="193"	 	Name="AutoCAD Device-Independent Binary Plotter File"	PUID="x-fmt/134">			<Extension>adi</Extension>		</FileFormat>
@@ -321,10 +320,7 @@
 <FileFormat ID="402"	MIMEType="image/bmp"	Name="OS/2 Bitmap"	PUID="x-fmt/270"	Version="2.0">	<InternalSignatureID>505</InternalSignatureID><InternalSignatureID>506</InternalSignatureID><InternalSignatureID>507</InternalSignatureID>	<Extension>bmp</Extension>		</FileFormat>
 <FileFormat ID="403"	 	Name="dBASE Database"	PUID="x-fmt/271"	Version="III+">	<InternalSignatureID>385</InternalSignatureID>	<Extension>dbf</Extension>		</FileFormat>
 <FileFormat ID="404"	 	Name="dBASE Database"	PUID="x-fmt/272"	Version="V">		<Extension>dbf</Extension>		</FileFormat>
-<FileFormat ID="405"	MIMEType="application/msword"	Name="Microsoft Word for MS-DOS Document"	PUID="x-fmt/273"	Version="3.0">		<Extension>doc</Extension>		</FileFormat>
-<FileFormat ID="406"	MIMEType="application/msword"	Name="Microsoft Word for MS-DOS Document"	PUID="x-fmt/274"	Version="4.0">	<InternalSignatureID>488</InternalSignatureID>	<Extension>doc</Extension>		</FileFormat>
-<FileFormat ID="407"	MIMEType="application/msword"	Name="Microsoft Word for MS-DOS Document"	PUID="x-fmt/275"	Version="5.0">	<InternalSignatureID>489</InternalSignatureID>	<Extension>doc</Extension>		</FileFormat>
-<FileFormat ID="408"	MIMEType="application/msword"	Name="Microsoft Word for MS-DOS Document"	PUID="x-fmt/276"	Version="5.5">	<InternalSignatureID>490</InternalSignatureID>	<Extension>doc</Extension>		</FileFormat>
+<FileFormat ID="405"	MIMEType="application/msword"	Name="Microsoft Word"	PUID="DOC"	>		<Extension>doc</Extension>		</FileFormat>
 <FileFormat ID="422"	MIMEType="video/vnd.rn-realvideo"	Name="Real Video"	PUID="x-fmt/277">			<Extension>rv</Extension>		</FileFormat>
 <FileFormat ID="424"	MIMEType="audio/vnd.rn-realaudio"	Name="RealAudio"	PUID="x-fmt/278"	Version="3">	<InternalSignatureID>592</InternalSignatureID>	<Extension>ra</Extension>		</FileFormat>
 <FileFormat ID="425"	MIMEType="audio/mpeg"	Name="MPEG 1/2 Audio Layer 3 Streaming"	PUID="x-fmt/279">			<Extension>m3u</Extension>		</FileFormat>
@@ -373,7 +369,6 @@
 <FileFormat ID="489"	 	Name="Hewlett Packard AdvanceWrite Text File"	PUID="x-fmt/326">			<Extension>aw</Extension>		</FileFormat>
 <FileFormat ID="490"	 	Name="IntelliDraw Vector Graphics"	PUID="x-fmt/327">			<Extension>idw</Extension>		</FileFormat>
 <FileFormat ID="491"	 	Name="InterBase Database"	PUID="x-fmt/328">			<Extension>gdb</Extension>		</FileFormat>
-<FileFormat ID="492"	 	Name="Interleaf Document"	PUID="x-fmt/329">			<Extension>doc</Extension>		</FileFormat>
 <FileFormat ID="493"	 	Name="JustWrite Text Document"	PUID="x-fmt/330">		<InternalSignatureID>1353</InternalSignatureID>	<Extension>jw</Extension><Extension>jwt</Extension>		</FileFormat>
 <FileFormat ID="494"	 	Name="Lotus 1-2-3 Spreadsheet Formatting File"	PUID="x-fmt/331"	Version="2.3-2.4">	<InternalSignatureID>465</InternalSignatureID>	<Extension>fm1</Extension><Extension>fmt</Extension>		</FileFormat>
 <FileFormat ID="495"	 	Name="Lotus 1-2-3 Spreadsheet Formatting File"	PUID="x-fmt/332"	Version="3.0">		<Extension>fm3</Extension>		</FileFormat>
@@ -444,17 +439,16 @@
 <FileFormat ID="664"	MIMEType="image/png"	Name="Portable Network Graphics"	PUID="PNG"	>	<InternalSignatureID>58</InternalSignatureID>	<Extension>png</Extension>	</FileFormat>
 <FileFormat ID="667" 	MIMEType="image/jpeg" 	Name="JPEG File Interchange Format"	PUID="JPEG"	>	<InternalSignatureID>66</InternalSignatureID>	<Extension>jpe</Extension><Extension>jpeg</Extension><Extension>jpg</Extension>	</FileFormat>
 <FileFormat ID="671"	MIMEType="image/jpeg"	Name="Still Picture Interchange File Format"	PUID="fmt/112"	Version="1.0">	<InternalSignatureID>70</InternalSignatureID>	<Extension>jpg</Extension><Extension>spf</Extension>	<HasPriorityOverFileFormatID>670</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="678"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 2.x Worksheet (xls)"	PUID="fmt/55"	Version="2">	<InternalSignatureID>72</InternalSignatureID>	<Extension>xls</Extension>		</FileFormat>
-<FileFormat ID="679"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 3.0 Worksheet (xls)"	PUID="fmt/56"	Version="3">	<InternalSignatureID>73</InternalSignatureID>	<Extension>xls</Extension>		</FileFormat>
-<FileFormat ID="680"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 4.0 Worksheet (xls)"	PUID="fmt/57"	Version="4S">	<InternalSignatureID>74</InternalSignatureID>	<Extension>xls</Extension>		</FileFormat>
+<FileFormat ID="678"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel"	PUID="XLS"	>		<Extension>xls</Extension>		</FileFormat>
+<FileFormat ID="679"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 3.0 Worksheet (xls)"	PUID="fmt/56"	Version="3">	<InternalSignatureID>73</InternalSignatureID>			</FileFormat>
+<FileFormat ID="680"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 4.0 Worksheet (xls)"	PUID="fmt/57"	Version="4S">	<InternalSignatureID>74</InternalSignatureID>			</FileFormat>
 <FileFormat ID="681"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 4.0 Workbook (xls)"	PUID="fmt/58"	Version="4W">	<InternalSignatureID>75</InternalSignatureID>	<Extension>xlw</Extension>		</FileFormat>
-<FileFormat ID="682"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 5.0/95 Workbook (xls)"	PUID="fmt/59"	Version="5/95">		<Extension>xls</Extension><Extension>xlw</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="684"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 97 Workbook (xls)"	PUID="fmt/61"	Version="8">	<InternalSignatureID>78</InternalSignatureID>	<Extension>xls</Extension><Extension>xlw</Extension>	<HasPriorityOverFileFormatID>682</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="685"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 2000-2003 Workbook (xls)"	PUID="fmt/62"	Version="8X">	<InternalSignatureID>78</InternalSignatureID>	<Extension>xls</Extension><Extension>xlw</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>	</FileFormat>
+<FileFormat ID="682"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 5.0/95 Workbook (xls)"	PUID="fmt/59"	Version="5/95">		<Extension>xlw</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>	</FileFormat>
+<FileFormat ID="684"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 97 Workbook (xls)"	PUID="fmt/61"	Version="8">	<InternalSignatureID>78</InternalSignatureID>	<Extension>xlw</Extension>	<HasPriorityOverFileFormatID>682</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>	</FileFormat>
+<FileFormat ID="685"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 2000-2003 Workbook (xls)"	PUID="fmt/62"	Version="8X">	<InternalSignatureID>78</InternalSignatureID>	<Extension>xlw</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="686"	MIMEType="image/jp2"	Name="JP2 (JPEG 2000 part 1)"	PUID="JP2">		<InternalSignatureID>251</InternalSignatureID>	<Extension>jp2</Extension>		</FileFormat>
 <FileFormat ID="687"	MIMEType="audio/mpeg"	Name="MPEG 1/2 Audio Layer 3"	PUID="MP3">		<InternalSignatureID>266</InternalSignatureID><InternalSignatureID>267</InternalSignatureID><InternalSignatureID>268</InternalSignatureID><InternalSignatureID>269</InternalSignatureID><InternalSignatureID>279</InternalSignatureID><InternalSignatureID>280</InternalSignatureID><InternalSignatureID>281</InternalSignatureID><InternalSignatureID>282</InternalSignatureID><InternalSignatureID>1733</InternalSignatureID>	<Extension>mp3</Extension>		</FileFormat>
-<FileFormat ID="688"	MIMEType="application/msword"	Name="Microsoft Word Document"	PUID="fmt/39"	Version="6.0/95">	<InternalSignatureID>128</InternalSignatureID>	<Extension>doc</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1401</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="690"	MIMEType="application/msword"	Name="Microsoft Word Document"	PUID="fmt/40"	Version="97-2003">	<InternalSignatureID>182</InternalSignatureID>	<Extension>doc</Extension><Extension>wbk</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1401</HasPriorityOverFileFormatID>	</FileFormat>
+<FileFormat ID="690"	MIMEType="application/msword"	Name="Microsoft Word Document"	PUID="fmt/40"	Version="97-2003">	<InternalSignatureID>182</InternalSignatureID>	<Extension>wbk</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1401</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="691"	MIMEType="application/vnd.ms-asf"	Name="Advanced Systems Format"	PUID="fmt/131">		<InternalSignatureID>80</InternalSignatureID>	<Extension>asf</Extension>		</FileFormat>
 <FileFormat ID="692"	MIMEType="audio/x-ms-wma"	Name="Windows Media Audio"	PUID="fmt/132">		<InternalSignatureID>81</InternalSignatureID>	<Extension>asf</Extension><Extension>wma</Extension>	<HasPriorityOverFileFormatID>691</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="693"	MIMEType="video/x-ms-wmv"	Name="Windows Media Video"	PUID="fmt/133">		<InternalSignatureID>82</InternalSignatureID>	<Extension>asf</Extension><Extension>wmv</Extension>	<HasPriorityOverFileFormatID>691</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>692</HasPriorityOverFileFormatID>	</FileFormat>
@@ -466,8 +460,6 @@
 <FileFormat ID="730"	MIMEType="image/bmp"	Name="Windows Bitmap"	PUID="fmt/117"	Version="3.0 NT">	<InternalSignatureID>119</InternalSignatureID>	<Extension>bmp</Extension><Extension>dib</Extension>		</FileFormat>
 <FileFormat ID="731"	MIMEType="image/bmp"	Name="Windows Bitmap"	PUID="fmt/118"	Version="4.0">	<InternalSignatureID>120</InternalSignatureID>	<Extension>bmp</Extension><Extension>dib</Extension>		</FileFormat>
 <FileFormat ID="732"	MIMEType="image/bmp"	Name="Windows Bitmap"	PUID="fmt/119"	Version="5.0">	<InternalSignatureID>121</InternalSignatureID>	<Extension>bmp</Extension><Extension>dib</Extension>		</FileFormat>
-<FileFormat ID="733"	MIMEType="application/msword"	Name="Microsoft Word for Windows Document"	PUID="fmt/37"	Version="1.0">	<InternalSignatureID>126</InternalSignatureID>	<Extension>doc</Extension>		</FileFormat>
-<FileFormat ID="734"	MIMEType="application/msword"	Name="Microsoft Word for Windows Document"	PUID="fmt/38"	Version="2.0">	<InternalSignatureID>127</InternalSignatureID>	<Extension>doc</Extension>		</FileFormat>
 <FileFormat ID="736"	MIMEType="application/vnd.wordperfect"	Name="WordPerfect for MS-DOS Document"	PUID="x-fmt/393"	Version="5.0">	<InternalSignatureID>130</InternalSignatureID>	<Extension>w50</Extension><Extension>wp</Extension><Extension>wp5</Extension><Extension>wpd</Extension>		</FileFormat>
 <FileFormat ID="737"	MIMEType="application/vnd.wordperfect"	Name="WordPerfect for MS-DOS/Windows Document"	PUID="x-fmt/394"	Version="5.1">	<InternalSignatureID>131</InternalSignatureID>	<Extension>w51</Extension><Extension>wp</Extension><Extension>wp5</Extension><Extension>wpd</Extension>		</FileFormat>
 <FileFormat ID="738"	 	Name="WordPerfect Graphics Metafile"	PUID="x-fmt/395"	Version="1.0">	<InternalSignatureID>132</InternalSignatureID>	<Extension>wpg</Extension>		</FileFormat>
@@ -534,11 +526,6 @@
 <FileFormat ID="869"	MIMEType="font/ttf"	Name="TrueType Font"	PUID="x-fmt/453">		<InternalSignatureID>242</InternalSignatureID>	<Extension>ttf</Extension>		</FileFormat>
 <FileFormat ID="870"	MIMEType="text/plain"	Name="Microsoft Internet Shortcut"	PUID="x-fmt/454">		<InternalSignatureID>263</InternalSignatureID>	<Extension>url</Extension>		</FileFormat>
 <FileFormat ID="876" 		Name="SIARD (Software-Independent Archiving of Relational Databases)" 	PUID="SIARD"	>	<InternalSignatureID>292</InternalSignatureID>	<Extension>siard</Extension>	<HasPriorityOverFileFormatID>382</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="881"	 	Name="Microsoft Excel for Macintosh"	PUID="fmt/175"	Version="2001">		<Extension>xls</Extension>		</FileFormat>
-<FileFormat ID="882"	 	Name="Microsoft Excel for Macintosh"	PUID="fmt/176"	Version="2002">		<Extension>xls</Extension>		</FileFormat>
-<FileFormat ID="883"	 	Name="Microsoft Excel for Macintosh"	PUID="fmt/177"	Version="2004">		<Extension>xls</Extension>		</FileFormat>
-<FileFormat ID="885"	 	Name="Microsoft PowerPoint for Macintosh"	PUID="fmt/179"	Version="4.0">		<Extension>ppt</Extension>		</FileFormat>
-<FileFormat ID="887"	 	Name="Microsoft PowerPoint for Macintosh"	PUID="fmt/181"	Version="2001">		<Extension>ppt</Extension>		</FileFormat>
 <FileFormat ID="889"	 	Name="Microsoft Multiplan"	PUID="fmt/162"	Version="4.0">		<Extension>mod</Extension>		</FileFormat>
 <FileFormat ID="890"	 	Name="Microsoft Works Word Processor 1-3 for DOS and 2 for Windows"	PUID="fmt/163">		<InternalSignatureID>767</InternalSignatureID>	<Extension>wps</Extension>		</FileFormat>
 <FileFormat ID="894"	 	Name="Microsoft Works Spreadsheet"	PUID="fmt/166"	Version="1-5">	<InternalSignatureID>729</InternalSignatureID>	<Extension>wks</Extension>	<HasPriorityOverFileFormatID>169</HasPriorityOverFileFormatID>	</FileFormat>
@@ -569,8 +556,8 @@
 <FileFormat ID="937"	 	Name="Kodak Photo CD Image"	PUID="fmt/211">		<InternalSignatureID>770</InternalSignatureID>	<Extension>pcd</Extension>		</FileFormat>
 <FileFormat ID="938"	 	Name="Information or Setup File"	PUID="fmt/212">			<Extension>inf</Extension>		</FileFormat>
 <FileFormat ID="939"	 	Name="ScanIt Document"	PUID="fmt/213">			<Extension>sid</Extension>		</FileFormat>
-<FileFormat ID="940"	MIMEType="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"	Name="Microsoft Excel for Windows"	PUID="fmt/214"	Version="2007 onwards">		<Extension>xlsx</Extension>		</FileFormat>
-<FileFormat ID="941"	MIMEType="application/vnd.openxmlformats-officedocument.presentationml.presentation"	Name="Microsoft Powerpoint for Windows"	PUID="fmt/215"	Version="2007 onwards">		<Extension>pptx</Extension>		</FileFormat>
+<FileFormat ID="940"	MIMEType="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"	Name="Microsoft Excel (OOXML)"	PUID="XLSX"	>		<Extension>xlsx</Extension>		</FileFormat>
+<FileFormat ID="941"	MIMEType="application/vnd.openxmlformats-officedocument.presentationml.presentation"	Name="Microsoft Powerpoint  (OOXML)"	PUID="PPTX"	>		<Extension>pptx</Extension>		</FileFormat>
 <FileFormat ID="942"	MIMEType="application/vnd.visio"	Name="Microsoft Visio XML Drawing"	PUID="fmt/216"	Version="2003-2010">	<InternalSignatureID>1286</InternalSignatureID>	<Extension>vdx</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="945"	 	Name="PaintShop Pro Browser Cache File"	PUID="fmt/217">		<InternalSignatureID>450</InternalSignatureID>	<Extension>jbf</Extension>		</FileFormat>
 <FileFormat ID="946"	 	Name="Microsoft FrontPage"	PUID="fmt/218">			<Extension>lck</Extension>		</FileFormat>
@@ -728,7 +715,7 @@
 <FileFormat ID="1156"	 	Name="Portable Pixel Map - Binary"	PUID="fmt/408">		<InternalSignatureID>586</InternalSignatureID><InternalSignatureID>626</InternalSignatureID>	<Extension>ppm</Extension><Extension>ppmb</Extension>		</FileFormat>
 <FileFormat ID="1157"	 	Name="Portable Bitmap Image - Binary"	PUID="fmt/409">		<InternalSignatureID>584</InternalSignatureID><InternalSignatureID>624</InternalSignatureID>	<Extension>pbmb</Extension><Extension>pnm</Extension>		</FileFormat>
 <FileFormat ID="1159"	MIMEType="application/vnd.rar"	Name="RAR Archive"	PUID="fmt/411"	Version="2.9">	<InternalSignatureID>591</InternalSignatureID>	<Extension>rar</Extension>		</FileFormat>
-<FileFormat ID="1160"	MIMEType="application/vnd.openxmlformats-officedocument.wordprocessingml.document"	Name="Microsoft Word for Windows"	PUID="fmt/412"	Version="2007 onwards">		<Extension>docx</Extension><Extension>wbk</Extension>		</FileFormat>
+<FileFormat ID="1160"	MIMEType="application/vnd.openxmlformats-officedocument.wordprocessingml.document"	Name="Microsoft Word  (OOXML)"	PUID="DOCX"	>		<Extension>docx</Extension>		</FileFormat>
 <FileFormat ID="1192"	 	Name="Audio Interchange File Format"	PUID="fmt/414"	Version="1.2">	<InternalSignatureID>320</InternalSignatureID>	<Extension>aif</Extension><Extension>aiff</Extension>	<HasPriorityOverFileFormatID>221</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>687</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1194"	 	Name="Cinema 4D"	PUID="fmt/415"	Version="4.x">	<InternalSignatureID>846</InternalSignatureID>	<Extension>c4d</Extension>	<HasPriorityOverFileFormatID>221</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1198"	 	Name="Apple Core Audio Format"	PUID="fmt/416"	Version="1.0">	<InternalSignatureID>845</InternalSignatureID>	<Extension>caf</Extension>		</FileFormat>
@@ -762,7 +749,7 @@
 <FileFormat ID="1257"	 	Name="Asymetrix Toolbook File"	PUID="fmt/470">		<InternalSignatureID>734</InternalSignatureID>	<Extension>sbk</Extension><Extension>tbk</Extension>		</FileFormat>
 <FileFormat ID="1258"	MIMEType="text/html"	Name="Hypertext Markup Language"	PUID="HTML5"	>	<InternalSignatureID>735</InternalSignatureID><InternalSignatureID>736</InternalSignatureID>	<Extension>htm</Extension><Extension>html</Extension>	<HasPriorityOverFileFormatID>639</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1259"	 	Name="Sony Digital Voice File/Sony Memory Stick Voice File"	PUID="fmt/472">		<InternalSignatureID>737</InternalSignatureID>	<Extension>dvf</Extension><Extension>msv</Extension>		</FileFormat>
-<FileFormat ID="1260"	 	Name="Microsoft Office Owner File"	PUID="fmt/473">		<InternalSignatureID>738</InternalSignatureID><InternalSignatureID>739</InternalSignatureID><InternalSignatureID>740</InternalSignatureID><InternalSignatureID>741</InternalSignatureID><InternalSignatureID>742</InternalSignatureID><InternalSignatureID>743</InternalSignatureID><InternalSignatureID>744</InternalSignatureID><InternalSignatureID>745</InternalSignatureID><InternalSignatureID>746</InternalSignatureID><InternalSignatureID>747</InternalSignatureID><InternalSignatureID>817</InternalSignatureID><InternalSignatureID>818</InternalSignatureID><InternalSignatureID>819</InternalSignatureID><InternalSignatureID>820</InternalSignatureID><InternalSignatureID>821</InternalSignatureID><InternalSignatureID>822</InternalSignatureID><InternalSignatureID>1182</InternalSignatureID><InternalSignatureID>1183</InternalSignatureID><InternalSignatureID>1184</InternalSignatureID><InternalSignatureID>1185</InternalSignatureID>	<Extension>doc</Extension><Extension>docx</Extension>		</FileFormat>
+<FileFormat ID="1260"	 	Name="Microsoft Office Owner File"	PUID="fmt/473">		<InternalSignatureID>738</InternalSignatureID><InternalSignatureID>739</InternalSignatureID><InternalSignatureID>740</InternalSignatureID><InternalSignatureID>741</InternalSignatureID><InternalSignatureID>742</InternalSignatureID><InternalSignatureID>743</InternalSignatureID><InternalSignatureID>744</InternalSignatureID><InternalSignatureID>745</InternalSignatureID><InternalSignatureID>746</InternalSignatureID><InternalSignatureID>747</InternalSignatureID><InternalSignatureID>817</InternalSignatureID><InternalSignatureID>818</InternalSignatureID><InternalSignatureID>819</InternalSignatureID><InternalSignatureID>820</InternalSignatureID><InternalSignatureID>821</InternalSignatureID><InternalSignatureID>822</InternalSignatureID><InternalSignatureID>1182</InternalSignatureID><InternalSignatureID>1183</InternalSignatureID><InternalSignatureID>1184</InternalSignatureID><InternalSignatureID>1185</InternalSignatureID>			</FileFormat>
 <FileFormat ID="1261"	 	Name="Windows Help File"	PUID="fmt/474">		<InternalSignatureID>748</InternalSignatureID>	<Extension>hlp</Extension>		</FileFormat>
 <FileFormat ID="1262"	 	Name="Microsoft Management Console Snap-in Control file"	PUID="fmt/475">		<InternalSignatureID>749</InternalSignatureID>	<Extension>msc</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1263"	MIMEType="application/pdf"	Name="Acrobat PDF/A - Portable Document Format"	PUID="PDFA2"	Version="2">	<InternalSignatureID>750</InternalSignatureID>	<Extension>pdf</Extension>	<HasPriorityOverFileFormatID>613</HasPriorityOverFileFormatID>	</FileFormat>
@@ -773,7 +760,7 @@
 <FileFormat ID="1272"	 	Name="Rocket Book eBook format"	PUID="fmt/485">		<InternalSignatureID>757</InternalSignatureID>	<Extension>rb</Extension>		</FileFormat>
 <FileFormat ID="1273"	 	Name="Macromedia (Adobe) Director Compressed Resource file"	PUID="fmt/486">		<InternalSignatureID>758</InternalSignatureID><InternalSignatureID>759</InternalSignatureID>	<Extension>dcr</Extension>		</FileFormat>
 <FileFormat ID="1274"	MIMEType="application/vnd.ms-powerpoint.presentation.macroEnabled.12"	Name="Macro Enabled Microsoft Powerpoint"	PUID="fmt/487"	Version="2007 Onwards">		<Extension>pptm</Extension>		</FileFormat>
-<FileFormat ID="1281"	 	Name="Microsoft Office Encrypted Document"	PUID="fmt/494"	Version="2007 Onwards">		<Extension>docx</Extension><Extension>pptx</Extension><Extension>xlsx</Extension>		</FileFormat>
+<FileFormat ID="1281"	 	Name="Microsoft Office Encrypted Document"	PUID="fmt/494"	Version="2007 Onwards">				</FileFormat>
 <FileFormat ID="1282"	 	Name="ATCO-CIF"	PUID="fmt/495">		<InternalSignatureID>768</InternalSignatureID>	<Extension>cif</Extension>		</FileFormat>
 <FileFormat ID="1283"	 	Name="TransXchange File Format"	PUID="fmt/496">		<InternalSignatureID>769</InternalSignatureID>	<Extension>txc</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1284"	MIMEType="image/vnd-wap-wbmp"	Name="Wireless Bitmap"	PUID="fmt/497">			<Extension>wbmp</Extension>		</FileFormat>
@@ -851,7 +838,6 @@
 <FileFormat ID="1395"	 	Name="Statistical Analysis System Data XPT (Windows)"	PUID="fmt/603"	Version="9.1">	<InternalSignatureID>940</InternalSignatureID>	<Extension>xpt</Extension>		</FileFormat>
 <FileFormat ID="1396"	 	Name="Statistical Analysis System Data XPT (Unix)"	PUID="fmt/604"	Version="9.1">	<InternalSignatureID>941</InternalSignatureID>	<Extension>xpt</Extension>		</FileFormat>
 <FileFormat ID="1397"	 	Name="Statistical Analysis System"	PUID="fmt/605 / fmt/606 / fmt/607 / fmt/608 / fmt/1015 / fmt/1016 / fmt/1017 / fmt/1018 / fmt/1019 / fmt/1020 / fmt/1021 / fmt/1022 / fmt/1023 / fmt/1024 / fmt/1025 / fmt/1026 / fmt/1027 / fmt/1028"	>		<Extension>sas7bcat</Extension><Extension>sc7</Extension><Extension>sas7bdat</Extension><Extension>sd7</Extension>	<HasPriorityOverFileFormatID>1828</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1401"	MIMEType="application/msword"	Name="Microsoft Word (Generic)"	PUID="fmt/609"	Version="6.0-2003">		<Extension>doc</Extension>		</FileFormat>
 <FileFormat ID="1406"	 	Name="ARJ File Format"	PUID="fmt/610">		<InternalSignatureID>946</InternalSignatureID>	<Extension>arj</Extension>		</FileFormat>
 <FileFormat ID="1407"	 	Name="LDAP Data Interchange Format"	PUID="fmt/611">		<InternalSignatureID>947</InternalSignatureID>	<Extension>ldif</Extension>		</FileFormat>
 <FileFormat ID="1408"	 	Name="Mork"	PUID="fmt/612">		<InternalSignatureID>948</InternalSignatureID>	<Extension>dat</Extension><Extension>mab</Extension><Extension>msf</Extension>		</FileFormat>
@@ -965,7 +951,7 @@
 <FileFormat ID="1550"	 	Name="AppleWorks Database"	PUID="fmt/751"	Version="6">	<InternalSignatureID>1078</InternalSignatureID>	<Extension>cwk</Extension>		</FileFormat>
 <FileFormat ID="1551"	 	Name="AppleWorks Painting"	PUID="fmt/752"	Version="6">	<InternalSignatureID>1079</InternalSignatureID>	<Extension>cwk</Extension>		</FileFormat>
 <FileFormat ID="1552"	 	Name="AppleWorks Presentation"	PUID="fmt/753"	Version="6">	<InternalSignatureID>1080</InternalSignatureID>	<Extension>cwk</Extension>		</FileFormat>
-<FileFormat ID="1553"	MIMEType="application/msword"	Name="Microsoft Word Document (Password Protected)"	PUID="fmt/754"	Version="97-2003">		<Extension>doc</Extension><Extension>wbk</Extension>	<HasPriorityOverFileFormatID>690</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1401</HasPriorityOverFileFormatID>	</FileFormat>
+<FileFormat ID="1553"	MIMEType="application/msword"	Name="Microsoft Word Document (Password Protected)"	PUID="fmt/754"	Version="97-2003">		<Extension>wbk</Extension>	<HasPriorityOverFileFormatID>690</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1401</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1554"	MIMEType="application/msword"	Name="Microsoft Word Document Template (Password Protected)"	PUID="fmt/755"	Version="97-2003">		<Extension>dot</Extension>	<HasPriorityOverFileFormatID>76</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>690</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1401</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1553</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1555"	 	Name="Zope export file"	PUID="fmt/756">		<InternalSignatureID>1081</InternalSignatureID>	<Extension>zexp</Extension>		</FileFormat>
 <FileFormat ID="1576"	 	Name="Microsoft Network Monitor Packet Capture"	PUID="fmt/777"	Version="1">	<InternalSignatureID>1143</InternalSignatureID>	<Extension>cap</Extension>		</FileFormat>
@@ -1080,7 +1066,7 @@
 <FileFormat ID="1693"	 	Name="Feather"	PUID="fmt/889">		<InternalSignatureID>1238</InternalSignatureID>	<Extension>feather</Extension>		</FileFormat>
 <FileFormat ID="1694"	 	Name="AbiWord Document"	PUID="fmt/890">		<InternalSignatureID>1239</InternalSignatureID>	<Extension>abw</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1695"	 	Name="AbiWord Document Template"	PUID="fmt/891">		<InternalSignatureID>1240</InternalSignatureID>	<Extension>awt</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1696"	MIMEType="application/vnd.wordperfect"	Name="Compound WordPerfect for Windows Document"	PUID="fmt/892"	Version="6 onwards">		<Extension>doc</Extension><Extension>w60</Extension><Extension>wp</Extension><Extension>wp6</Extension><Extension>wpd</Extension>		</FileFormat>
+<FileFormat ID="1696"	MIMEType="application/vnd.wordperfect"	Name="Compound WordPerfect for Windows Document"	PUID="fmt/892"	Version="6 onwards">		<Extension>w60</Extension><Extension>wp</Extension><Extension>wp6</Extension><Extension>wpd</Extension>		</FileFormat>
 <FileFormat ID="1697"	 	Name="i2 Analysts Notebook"	PUID="fmt/893">			<Extension>anb</Extension>		</FileFormat>
 <FileFormat ID="1698"	 	Name="Gaussian Input Data File"	PUID="fmt/894">		<InternalSignatureID>1241</InternalSignatureID>	<Extension>gjf</Extension>		</FileFormat>
 <FileFormat ID="1699"	 	Name="JEOL NMR Spectroscopy"	PUID="fmt/895">		<InternalSignatureID>1242</InternalSignatureID><InternalSignatureID>1244</InternalSignatureID>	<Extension>jdf</Extension>		</FileFormat>
@@ -1351,8 +1337,8 @@
 <FileFormat ID="2095"	 	Name="Cindex Document"	PUID="fmt/1277"	Version="2">	<InternalSignatureID>1653</InternalSignatureID>	<Extension>cdx</Extension><Extension>tpl</Extension>		</FileFormat>
 <FileFormat ID="2096"	 	Name="Cindex Document"	PUID="fmt/1278 / fmt/1279"	>		<Extension>ucdx</Extension><Extension>utpl</Extension>		</FileFormat>
 <FileFormat ID="2098"	 	Name="NCH Dictation Audio File"	PUID="fmt/1280">		<InternalSignatureID>1656</InternalSignatureID>	<Extension>dct</Extension>	<HasPriorityOverFileFormatID>687</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2100"	 	Name="PFS:First Choice Document"	PUID="fmt/1282"	Version="1-2">	<InternalSignatureID>1662</InternalSignatureID>	<Extension>doc</Extension>		</FileFormat>
-<FileFormat ID="2101"	 	Name="PFS:First Choice Document"	PUID="fmt/1283"	Version="3">	<InternalSignatureID>1663</InternalSignatureID>	<Extension>doc</Extension>		</FileFormat>
+<FileFormat ID="2100"	 	Name="PFS:First Choice Document"	PUID="fmt/1282"	Version="1-2">	<InternalSignatureID>1662</InternalSignatureID>			</FileFormat>
+<FileFormat ID="2101"	 	Name="PFS:First Choice Document"	PUID="fmt/1283"	Version="3">	<InternalSignatureID>1663</InternalSignatureID>			</FileFormat>
 <FileFormat ID="2102"	 	Name="PFS:First Choice Database"	PUID="fmt/1284">		<InternalSignatureID>1664</InternalSignatureID>	<Extension>fol</Extension>		</FileFormat>
 <FileFormat ID="2103"	 	Name="PFS:First Choice Graph"	PUID="fmt/1285">		<InternalSignatureID>1665</InternalSignatureID>	<Extension>gra</Extension>		</FileFormat>
 <FileFormat ID="2104"	 	Name="Envoy Document File"	PUID="fmt/1286"	Version="1">	<InternalSignatureID>1666</InternalSignatureID>	<Extension>evy</Extension>		</FileFormat>
