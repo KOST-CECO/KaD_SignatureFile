@@ -74,7 +74,6 @@
 </InternalSignatureCollection>
 <FileFormatCollection>
 <FileFormat ID="8"	MIMEType="application/msword"	Name="Microsoft Word for Macintosh Document"	PUID="x-fmt/1 / x-fmt/64 / x-fmt/65 / fmt/346"	>		<Extension>mcw</Extension>		</FileFormat>
-<FileFormat ID="13"	 	Name="Online Description Tool Format"	PUID="x-fmt/3">					</FileFormat>
 <FileFormat ID="14"	 	Name="Write for Windows Document"	PUID="x-fmt/4 / x-fmt/12"	>		<Extension>wri</Extension>		</FileFormat>
 <FileFormat ID="16"	 	Name="FoxPro Database"	PUID="x-fmt/6 / x-fmt/7 / fmt/373"	>		<Extension>dbf</Extension>		</FileFormat>
 <FileFormat ID="18"	 	Name="dBASE Database"	PUID="x-fmt/8 / x-fmt/9 / x-fmt/10 / x-fmt/271 / x-fmt/272"	>		<Extension>dbf</Extension>		</FileFormat>
@@ -101,7 +100,7 @@
 <FileFormat ID="71"	 	Name="AutoCAD dbConnect Template Set"	PUID="x-fmt/40">			<Extension>dbt</Extension>		</FileFormat>
 <FileFormat ID="72"	 	Name="Data Interchange Format"	PUID="x-fmt/41">			<Extension>dif</Extension>		</FileFormat>
 <FileFormat ID="75"	MIMEType="application/vnd.wordperfect"	Name="WordPerfect"	PUID="x-fmt/44 / x-fmt/394 / x-fmt/395 / fmt/1042 / x-fmt/42 / x-fmt/43 / fmt/949"	>		<Extension>w60</Extension><Extension>wp</Extension><Extension>wp6</Extension><Extension>wpd</Extension><Extension>w51</Extension><Extension>wp5</Extension><Extension>wpg</Extension><Extension>wp4</Extension>		</FileFormat>
-<FileFormat ID="76"	 	Name="Microsoft Word Document Template"	PUID="x-fmt/45"	Version="97-2003">		<Extension>dot</Extension>	<HasPriorityOverFileFormatID>690</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1401</HasPriorityOverFileFormatID>	</FileFormat>
+<FileFormat ID="76"	 	Name="Microsoft Word Document Template"	PUID="x-fmt/45 / fmt/755"	>		<Extension>dot</Extension>	<HasPriorityOverFileFormatID>690</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1401</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="77"	 	Name="Microsoft Excel ODBC Query"	PUID="x-fmt/46">			<Extension>dqy</Extension>		</FileFormat>
 <FileFormat ID="79"	 	Name="Visual Basic Macro"	PUID="x-fmt/48">			<Extension>dvb</Extension>		</FileFormat>
 <FileFormat ID="80"	MIMEType="application/dwf, application/x-dwf, drawing/x-dwf, image/vnd.dwf, image/x-dwf, model/vnd.dwf"	Name="AutoCAD Design Web Format"	PUID="x-fmt/49"	Version="6.0">		<Extension>dwf</Extension>		</FileFormat>
@@ -371,8 +370,6 @@
 <FileFormat ID="667"	MIMEType="image/jpeg" 	Name="JPEG File Interchange Format"	PUID="JPEG"	>	<InternalSignatureID>66</InternalSignatureID>	<Extension>jpe</Extension><Extension>jpeg</Extension><Extension>jpg</Extension>		</FileFormat>
 <FileFormat ID="671"	MIMEType="image/jpeg"	Name="Still Picture Interchange File Format"	PUID="fmt/112"	Version="1.0">		<Extension>jpg</Extension><Extension>spf</Extension>	<HasPriorityOverFileFormatID>670</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="678"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel"	PUID="XLS"	>		<Extension>xls</Extension>		</FileFormat>
-<FileFormat ID="679"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 3.0 Worksheet (xls)"	PUID="fmt/56"	Version="3">				</FileFormat>
-<FileFormat ID="680"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 4.0 Worksheet (xls)"	PUID="fmt/57"	Version="4S">				</FileFormat>
 <FileFormat ID="681"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 4.0 Workbook (xls)"	PUID="fmt/58"	Version="4W">		<Extension>xlw</Extension>		</FileFormat>
 <FileFormat ID="682"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 5.0/95 Workbook (xls)"	PUID="fmt/59"	Version="5/95">		<Extension>xlw</Extension>	<HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="684"	MIMEType="application/vnd.ms-excel"	Name="Microsoft Excel 97 Workbook (xls)"	PUID="fmt/61"	Version="8">		<Extension>xlw</Extension>	<HasPriorityOverFileFormatID>682</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID>	</FileFormat>
@@ -492,11 +489,9 @@
 <FileFormat ID="1017"	 	Name="ESRI Arc/View Shapefile Index"	PUID="fmt/277">			<Extension>shx</Extension>		</FileFormat>
 <FileFormat ID="1018"	MIMEType="message/rfc822"	Name="Internet Message Format"	PUID="fmt/278">			<Extension>eml</Extension>	<HasPriorityOverFileFormatID>645</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1019"	MIMEType="audio/flac"	Name="FLAC (Free Lossless Audio Codec)"	PUID="FLAC"	Version="1.2.1">	<InternalSignatureID>295</InternalSignatureID>	<Extension>flac</Extension>		</FileFormat>
-<FileFormat ID="1022"	MIMEType="application/netcdf, application/x-netcdf"	Name="netCDF-3 Classic"	PUID="fmt/282">			<Extension>cdf</Extension><Extension>nc</Extension>		</FileFormat>
-<FileFormat ID="1023"	MIMEType="application/netcdf, application/x-netcdf"	Name="netCDF-3 64-bit"	PUID="fmt/283">			<Extension>cdf</Extension><Extension>nc</Extension>		</FileFormat>
+<FileFormat ID="1022"	MIMEType="application/netcdf, application/x-netcdf"	Name="netCDF-3"	PUID="fmt/282 / fmt/283">			<Extension>cdf</Extension><Extension>nc</Extension>		</FileFormat>
 <FileFormat ID="1024"	 	Name="Gridded Binary"	PUID="fmt/284 / fmt/285"	>		<Extension>grb</Extension><Extension>wmo</Extension>		</FileFormat>
 <FileFormat ID="1026"	 	Name="HDF5"	PUID="fmt/286 / fmt/287 / fmt/807"	>		<Extension>h5</Extension><Extension>hdf</Extension><Extension>hdf5</Extension><Extension>nc</Extension>		</FileFormat>
-<FileFormat ID="1028"	 	Name="Microsoft Front Page Server Extension Configuration"	PUID="fmt/288">					</FileFormat>
 <FileFormat ID="1029"	MIMEType="application/warc"	Name="WARC"	PUID="WARC">		<InternalSignatureID>305</InternalSignatureID>	<Extension>warc</Extension>	<HasPriorityOverFileFormatID>639</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>640</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>641</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>642</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>643</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>644</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>645</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1258</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1042"	 	Name="Autodesk Animator Pro FLIC"	PUID="fmt/298">			<Extension>flc</Extension>		</FileFormat>
 <FileFormat ID="1043"	 	Name="Autodesk Animator (FlicLib)"	PUID="fmt/299">			<Extension>fli</Extension>		</FileFormat>
@@ -599,7 +594,6 @@
 <FileFormat ID="1255"	 	Name="ISO Disk Image File"	PUID="fmt/468">			<Extension>iso</Extension>		</FileFormat>
 <FileFormat ID="1257"	 	Name="Asymetrix Toolbook File"	PUID="fmt/470">			<Extension>sbk</Extension><Extension>tbk</Extension>		</FileFormat>
 <FileFormat ID="1259"	 	Name="Sony Digital Voice File/Sony Memory Stick Voice File"	PUID="fmt/472">			<Extension>dvf</Extension><Extension>msv</Extension>		</FileFormat>
-<FileFormat ID="1260"	 	Name="Microsoft Office Owner File"	PUID="fmt/473">					</FileFormat>
 <FileFormat ID="1261"	 	Name="Windows Help File"	PUID="fmt/474">			<Extension>hlp</Extension>		</FileFormat>
 <FileFormat ID="1262"	 	Name="Microsoft Management Console Snap-in Control file"	PUID="fmt/475">			<Extension>msc</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1263"	MIMEType="application/pdf"	Name="Acrobat PDF/A-2 - Portable Document Format"	PUID="PDFA2"	Version="2">	<InternalSignatureID>750</InternalSignatureID>	<Extension>pdf</Extension>	<HasPriorityOverFileFormatID>613</HasPriorityOverFileFormatID>	</FileFormat>
@@ -610,7 +604,6 @@
 <FileFormat ID="1272"	 	Name="Rocket Book eBook format"	PUID="fmt/485">			<Extension>rb</Extension>		</FileFormat>
 <FileFormat ID="1273"	 	Name="Macromedia (Adobe) Director Compressed Resource file"	PUID="fmt/486">			<Extension>dcr</Extension>		</FileFormat>
 <FileFormat ID="1274"	MIMEType="application/vnd.ms-powerpoint.presentation.macroEnabled.12"	Name="Macro Enabled Microsoft Powerpoint"	PUID="fmt/487"	Version="2007 Onwards">		<Extension>pptm</Extension>		</FileFormat>
-<FileFormat ID="1281"	 	Name="Microsoft Office Encrypted Document"	PUID="fmt/494"	Version="2007 Onwards">				</FileFormat>
 <FileFormat ID="1282"	 	Name="ATCO-CIF"	PUID="fmt/495">			<Extension>cif</Extension>		</FileFormat>
 <FileFormat ID="1283"	 	Name="TransXchange File Format"	PUID="fmt/496">			<Extension>txc</Extension>	<HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1284"	MIMEType="image/vnd-wap-wbmp"	Name="Wireless Bitmap"	PUID="fmt/497">			<Extension>wbmp</Extension>		</FileFormat>
@@ -746,20 +739,8 @@
 <FileFormat ID="1532"	 	Name="FL Studio project file (FLP)"	PUID="fmt/733">			<Extension>flp</Extension>		</FileFormat>
 <FileFormat ID="1533"	 	Name="SuperScape Virtual Reality Format"	PUID="fmt/734">			<Extension>svr</Extension>		</FileFormat>
 <FileFormat ID="1534"	MIMEType="audio/ac3"	Name="Dolby Digital AC-3"	PUID="fmt/735">			<Extension>ac3</Extension>		</FileFormat>
-<FileFormat ID="1540"	 	Name="ClarisWorks"	PUID="fmt/741 / fmt/848 / fmt/738 / fmt/845 / fmt/742 / fmt/849 / fmt/740 / fmt/847 / fmt/739 / fmt/846 / fmt/736 / fmt/737"	>		<Extension>cwk</Extension>		</FileFormat>
-<FileFormat ID="1542"	 	Name="ClarisWorks/AppleWorks Drawing"	PUID="fmt/743"	Version="5">		<Extension>cwk</Extension>		</FileFormat>
-<FileFormat ID="1543"	 	Name="ClarisWorks/AppleWorks Word Processor"	PUID="fmt/744"	Version="5">		<Extension>cwk</Extension>		</FileFormat>
-<FileFormat ID="1544"	 	Name="ClarisWorks/AppleWorks Spreadsheet"	PUID="fmt/745"	Version="5">		<Extension>cwk</Extension>		</FileFormat>
-<FileFormat ID="1545"	 	Name="ClarisWorks/AppleWorks Database"	PUID="fmt/746"	Version="5">		<Extension>cwk</Extension>		</FileFormat>
-<FileFormat ID="1546"	 	Name="ClarisWorks/AppleWorks Painting"	PUID="fmt/747"	Version="5">		<Extension>cwk</Extension>		</FileFormat>
-<FileFormat ID="1547"	 	Name="AppleWorks Drawing"	PUID="fmt/748"	Version="6">		<Extension>cwk</Extension>		</FileFormat>
-<FileFormat ID="1548"	 	Name="AppleWorks Word Processor"	PUID="fmt/749"	Version="6">		<Extension>cwk</Extension>		</FileFormat>
-<FileFormat ID="1549"	 	Name="AppleWorks Spreadsheet"	PUID="fmt/750"	Version="6">		<Extension>cwk</Extension>		</FileFormat>
-<FileFormat ID="1550"	 	Name="AppleWorks Database"	PUID="fmt/751"	Version="6">		<Extension>cwk</Extension>		</FileFormat>
-<FileFormat ID="1551"	 	Name="AppleWorks Painting"	PUID="fmt/752"	Version="6">		<Extension>cwk</Extension>		</FileFormat>
-<FileFormat ID="1552"	 	Name="AppleWorks Presentation"	PUID="fmt/753"	Version="6">		<Extension>cwk</Extension>		</FileFormat>
+<FileFormat ID="1540"	 	Name="ClarisWorks / AppleWorks"	PUID="fmt/741 / fmt/848 / fmt/738 / fmt/845 / fmt/742 / fmt/849 / fmt/740 / fmt/847 / fmt/739 / fmt/846 / fmt/736 / fmt/737 / fmt/743 / fmt/744 / fmt/745 / fmt/746 / fmt/747 / fmt/748 / fmt/749 / fmt/750 / fmt/751 / fmt/752 / fmt/753"	>		<Extension>cwk</Extension>		</FileFormat>
 <FileFormat ID="1553"	MIMEType="application/msword"	Name="Microsoft Word Document (Password Protected)"	PUID="fmt/754"	Version="97-2003">		<Extension>wbk</Extension>	<HasPriorityOverFileFormatID>690</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1401</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="1554"	MIMEType="application/msword"	Name="Microsoft Word Document Template (Password Protected)"	PUID="fmt/755"	Version="97-2003">		<Extension>dot</Extension>	<HasPriorityOverFileFormatID>76</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>690</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>767</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1401</HasPriorityOverFileFormatID><HasPriorityOverFileFormatID>1553</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="1555"	 	Name="Zope export file"	PUID="fmt/756">			<Extension>zexp</Extension>		</FileFormat>
 <FileFormat ID="1576"	 	Name="Microsoft Network Monitor Packet Capture"	PUID="fmt/777 / fmt/778"	>		<Extension>cap</Extension>		</FileFormat>
 <FileFormat ID="1578"	MIMEType="application/vnd.tcpdump.pcap"	Name="pcap Packet Capture"	PUID="fmt/779">			<Extension>cap</Extension><Extension>dmp</Extension><Extension>pcap</Extension>		</FileFormat>
@@ -798,8 +779,7 @@
 <FileFormat ID="1640"	 	Name="Outlook Express Folder Database"	PUID="fmt/839">			<Extension>dbx</Extension>		</FileFormat>
 <FileFormat ID="1641"	 	Name="ADX Audio Format"	PUID="fmt/840">			<Extension>adx</Extension>		</FileFormat>
 <FileFormat ID="1642"	 	Name="Interleaved ADX Audio Format (AIX)"	PUID="fmt/841">			<Extension>aix</Extension>		</FileFormat>
-<FileFormat ID="1643"	 	Name="AccessData Custom Content Image"	PUID="fmt/842">			<Extension>ad1</Extension><Extension>ad2</Extension><Extension>ad3</Extension><Extension>ad4</Extension><Extension>ad5</Extension>		</FileFormat>
-<FileFormat ID="1644"	 	Name="AccessData Custom Content Image (Encrypted)"	PUID="fmt/843">			<Extension>ad1</Extension><Extension>ad2</Extension><Extension>ad3</Extension><Extension>ad4</Extension><Extension>ad5</Extension>		</FileFormat>
+<FileFormat ID="1643"	 	Name="AccessData Custom Content Image"	PUID="fmt/842 / fmt/843">			<Extension>ad1</Extension><Extension>ad2</Extension><Extension>ad3</Extension><Extension>ad4</Extension><Extension>ad5</Extension>		</FileFormat>
 <FileFormat ID="1645"	 	Name="Advanced Forensic Format"	PUID="fmt/844">			<Extension>aff</Extension>		</FileFormat>
 <FileFormat ID="1651"	 	Name="NuFile Exchange Archival Library"	PUID="fmt/850">			<Extension>bxy</Extension><Extension>sdk</Extension><Extension>shk</Extension>		</FileFormat>
 <FileFormat ID="1652"	 	Name="Genealogical Data Communication (GEDCOM) Format"	PUID="fmt/851">			<Extension>ged</Extension>		</FileFormat>
@@ -1066,7 +1046,6 @@
 <FileFormat ID="2094"	 	Name="SureThing Project File"	PUID="fmt/1276">			<Extension>std</Extension>		</FileFormat>
 <FileFormat ID="2095"	 	Name="Cindex Document"	PUID="fmt/1277 / fmt/1278 / fmt/1279"	>		<Extension>cdx</Extension><Extension>tpl</Extension><Extension>ucdx</Extension><Extension>utpl</Extension>		</FileFormat>
 <FileFormat ID="2098"	 	Name="NCH Dictation Audio File"	PUID="fmt/1280">			<Extension>dct</Extension>	<HasPriorityOverFileFormatID>687</HasPriorityOverFileFormatID>	</FileFormat>
-<FileFormat ID="2100"	 	Name="PFS:First Choice Document"	PUID="fmt/1282 / fmt/1283"	>		0		</FileFormat>
 <FileFormat ID="2102"	 	Name="PFS:First Choice Database"	PUID="fmt/1284">			<Extension>fol</Extension>		</FileFormat>
 <FileFormat ID="2103"	 	Name="PFS:First Choice Graph"	PUID="fmt/1285">			<Extension>gra</Extension>		</FileFormat>
 <FileFormat ID="2104"	 	Name="Envoy Document File"	PUID="fmt/1286 / fmt/1287"	>		<Extension>evy</Extension>		</FileFormat>
@@ -1090,8 +1069,7 @@
 <FileFormat ID="2151"	 	Name="Sony PictureGear Studio PhotoAlbum"	PUID="fmt/1333">			<Extension>amd</Extension><Extension>amu</Extension>		</FileFormat>
 <FileFormat ID="2152"	 	Name="Sony PictureGear Studio PrintStudio"	PUID="fmt/1334">			<Extension>lmd</Extension><Extension>lmu</Extension>		</FileFormat>
 <FileFormat ID="2153"	 	Name="Sony PictureGear Studio Binder"	PUID="fmt/1335">			<Extension>bxt</Extension><Extension>bxu</Extension>		</FileFormat>
-<FileFormat ID="2154"	 	Name="LEADTools Lead 1Bit Compressed Image"	PUID="fmt/1336">			<Extension>cmp</Extension>		</FileFormat>
-<FileFormat ID="2155"	 	Name="LEADToolsCompressed Image"	PUID="fmt/1337">			<Extension>cmp</Extension>		</FileFormat>
+<FileFormat ID="2154"	 	Name="LEADTools Lead Compressed Image"	PUID="fmt/1336 / fmt/1337">			<Extension>cmp</Extension>		</FileFormat>
 <FileFormat ID="2156"	 	Name="RootsMagic Database"	PUID="fmt/1338"	Version="4-7">		<Extension>rmgc</Extension>	<HasPriorityOverFileFormatID>1528</HasPriorityOverFileFormatID>	</FileFormat>
 <FileFormat ID="2158"	MIMEType="application/vnd.bdoc-1.0"	Name="BDOC"	PUID="fmt/1340 / fmt/1342"	>		<Extension>asice</Extension><Extension>bdoc</Extension>		</FileFormat>
 <FileFormat ID="2159"	MIMEType="application/vnd.etsi.asic-s+zip"	Name="Associated Signature Container Simple (ASiC-S)"	PUID="fmt/1341">			<Extension>asics</Extension><Extension>scs</Extension>		</FileFormat>
